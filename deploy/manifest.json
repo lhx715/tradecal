@@ -1,0 +1,9 @@
+{
+  "name": "TradeCal 交易日历",
+  "short_name": "TradeCal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a5f",
+  "theme_color": "#1e3a5f",
+  "icons": []
+}
