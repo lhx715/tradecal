@@ -59,16 +59,27 @@ MACRO = [
 # News priority: mega-caps always + others when selected by top movers
 NEWS_PRIORITY = ['NVDA', 'TSLA', 'MSFT', 'GOOGL', 'AAPL', 'AMZN', 'META']
 
-BULLISH = ['beat','surpass','surges','soars','record','growth','raise guidance','upgrade','buyback','strong demand','outperform','bullish','rally','jumps','gains','positive','recovering','surge','突破','超预期','增长','上调','回购','利好','大涨','新高','强劲','回暖','复苏','创纪录']
-BEARISH = ['miss','downgrade','cut guidance','weak','slump','layoff','lawsuit','investigation','regulatory','antitrust','bearish','selloff','decline','fall','drops','risk','risks','worries','wary','weary','threat','不及预期','下调','裁员','诉讼','调查','反垄断','利空','大跌','疲软','衰退','风险','下跌','承压','担忧','警告']
+BULLISH = ['beat','surpass','surges','soars','record','growth','raise guidance','upgrade','buyback','strong demand','outperform','bullish','rally','jumps','gains','positive','recovering','surge','突破','超预期','增长','上调','回购','利好','大涨','新高','强劲','回暖','复苏','创纪录','buy','buying','investors buy','increased','higher','rises','climbs','tops','best','favorite','windfall','booming','boost','jump','gain','profit','earnings beat','sales growth','revenue growth','soared','surged','gaining','bull market','upgrade to','outperform rating','price target raise','raise price target']
+BEARISH = ['miss','downgrade','cut guidance','weak','slump','layoff','lawsuit','investigation','regulatory','antitrust','bearish','selloff','decline','fall','drops','risk','risks','worries','wary','weary','threat','不及预期','下调','裁员','诉讼','调查','反垄断','利空','大跌','疲软','衰退','风险','下跌','承压','担忧','警告','suffer','suffers','drop','dropped','fell','falling','tumbles','tumble','plunge','plunges','plunged','worse','worst','sink','sank','problem','problems','cut','cuts','lower','weakness','caution','cautious','concern','concerns','trial','addiction','fraud','scandal','penalty','fine','charge','charges','selling','sell-off','selloff','loses','loss','struggle','struggles','pressure','pressured']
 
 
 def classify(title):
     import html as h
     tl = h.unescape(title).lower()
-    b = sum(1 for w in BULLISH if w in tl)
-    r = sum(1 for w in BEARISH if w in tl)
-    return 'bull' if b > r else ('bear' if r > b else 'neutral')
+    # strong signals override weak ones
+    b = 0
+    r = 0
+    for w in BULLISH:
+        if w in tl:
+            b += 1
+    for w in BEARISH:
+        if w in tl:
+            r += 1
+    if b > r:
+        return 'bull'
+    if r > b:
+        return 'bear'
+    return 'neutral'
 
 
 # ---------------------------------------------------------------------------
