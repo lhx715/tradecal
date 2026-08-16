@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 22:20:45",
+  "generated_at": "2026-08-16 14:33:27",
   "today": "2026-08-16",
   "nasdaq100": [
     {
@@ -1559,8 +1559,8 @@
       "ticker": "DHI",
       "name": "D. R. Horton",
       "sector": "Consumer Discretionary",
-      "price": null,
-      "change_pct": null
+      "price": 148.81,
+      "change_pct": -0.71
     },
     {
       "ticker": "DTE",
@@ -1972,8 +1972,8 @@
       "ticker": "HPQ",
       "name": "HP Inc.",
       "sector": "Information Technology",
-      "price": null,
-      "change_pct": null
+      "price": 30.11,
+      "change_pct": -3.8
     },
     {
       "ticker": "HUBB",
@@ -2469,8 +2469,8 @@
       "ticker": "OMC",
       "name": "Omnicom Group",
       "sector": "Communication Services",
-      "price": null,
-      "change_pct": null
+      "price": 87.57,
+      "change_pct": -0.89
     },
     {
       "ticker": "OKE",
@@ -2952,8 +2952,8 @@
       "ticker": "TSN",
       "name": "Tyson Foods",
       "sector": "Consumer Staples",
-      "price": null,
-      "change_pct": null
+      "price": 58.17,
+      "change_pct": 3.16
     },
     {
       "ticker": "USB",
@@ -2973,8 +2973,8 @@
       "ticker": "UDR",
       "name": "UDR, Inc.",
       "sector": "Real Estate",
-      "price": null,
-      "change_pct": null
+      "price": 37.94,
+      "change_pct": 0.0
     },
     {
       "ticker": "UNP",
@@ -3372,8 +3372,8 @@
       "ticker": "CASY",
       "name": "Casey's",
       "sector": "Consumer Staples",
-      "price": null,
-      "change_pct": null
+      "price": 846.45,
+      "change_pct": -0.86
     },
     {
       "ticker": "CDW",
@@ -3918,8 +3918,8 @@
       "ticker": "ORLY",
       "name": "O'Reilly Auto Parts",
       "sector": "Consumer Discretionary",
-      "price": null,
-      "change_pct": null
+      "price": 91.05,
+      "change_pct": -1.65
     },
     {
       "ticker": "ODFL",
@@ -4289,23 +4289,9 @@
     },
     {
       "ticker": "NVDA",
-      "title": "If You're 50 and Have More Than This Number in Your 401(k), You're Ahead of the Average",
-      "link": "https://www.fool.com/retirement/2026/08/16/if-youre-50-and-have-more-than-this-number-in-your/?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 14:09:00 +0000",
-      "sentiment": "neutral"
-    },
-    {
-      "ticker": "NVDA",
       "title": "Nvidia (NVDA) Stock Looks Near Fair Value After A Huge Run",
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-looks-near-140830409.html?.tsrc=rss",
       "date": "Sun, 16 Aug 2026 14:08:30 +0000",
-      "sentiment": "neutral"
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Why Smithfield Foods Stock Sank This Week",
-      "link": "https://www.fool.com/investing/2026/08/16/why-smithfield-foods-stock-sank-this-week/?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 14:03:02 +0000",
       "sentiment": "neutral"
     },
     {
@@ -4330,6 +4316,27 @@
       "sentiment": "neutral"
     },
     {
+      "ticker": "NVDA",
+      "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+      "link": "https://247wallst.com/investing/2026/08/16/after-comparing-every-dividend-etf-that-owns-the-magnificent-seven-these-3-pay-you-without-giving-up-the-ai-trade/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:27:26 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+      "link": "https://247wallst.com/investing/2026/08/16/after-comparing-every-dividend-etf-that-owns-the-magnificent-seven-these-3-pay-you-without-giving-up-the-ai-trade/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:27:26 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Social Security's Trump Bump-Driven 2027 COLA May Lead to a Silver Lining for the First Time Since 2023",
+      "link": "https://www.fool.com/retirement/2026/08/16/social-security-trump-bump-2027-cola-silver-lining/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:26:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
       "ticker": "AAPL",
       "title": "Jim Cramer Says Tim Cook Built Something No Other CEO Has: A Device People Think Is Their Friend",
       "link": "https://247wallst.com/investing/2026/08/16/jim-cramer-says-tim-cook-built-something-no-other-ceo-has-a-device-people-think-is-their-friend-2/?.tsrc=rss",
@@ -4341,6 +4348,13 @@
       "title": "AMD Turned $10,000 Into More Than $700,000 in a Decade. The S&P 500 Turned It Into About $42,000.",
       "link": "https://www.fool.com/investing/2026/08/16/amd-turned-10000-into-more-than-700000-in-a-decade/?.tsrc=rss",
       "date": "Sun, 16 Aug 2026 12:54:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:30:00 +0000",
       "sentiment": "neutral"
     },
     {
@@ -4372,10 +4386,10 @@
       "sentiment": "neutral"
     },
     {
-      "ticker": "AMD",
-      "title": "Broadcom vs. AMD: Which AI Chip Stock Is the Better Buy?",
-      "link": "https://www.fool.com/investing/2026/08/16/broadcom-vs-amd-which-ai-chip-stock-is-the-better/?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 10:55:00 +0000",
+      "ticker": "MSFT",
+      "title": "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.",
+      "link": "https://www.fool.com/investing/2026/08/16/plug-power-backup-power-system-microsoft-ceo/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 11:14:00 +0000",
       "sentiment": "neutral"
     },
     {
@@ -4421,20 +4435,6 @@
       "sentiment": "neutral"
     },
     {
-      "ticker": "AMD",
-      "title": "These 5 AI Stocks Have Returned 300%-Plus Over the Past 3 Years -- and 1 Still Looks Dirt Cheap",
-      "link": "https://www.fool.com/investing/2026/08/16/these-5-ai-stocks-have-returned-300-plus-over-the/?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 08:33:00 +0000",
-      "sentiment": "neutral"
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Microsoft exec on Southern Europes big AI moment: skills  not technology  will determine who leads the regions AI future",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-exec-southern-europe-big-073000075.html?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 07:30:00 +0000",
-      "sentiment": "neutral"
-    },
-    {
       "ticker": "SNDK",
       "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
       "link": "https://www.fool.com/investing/2026/08/16/these-2-potential-stock-splits-look-like-screaming/?.tsrc=rss",
@@ -4446,13 +4446,6 @@
       "title": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views",
       "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-gets-fair-061049757.html?.tsrc=rss",
       "date": "Sun, 16 Aug 2026 06:10:49 +0000",
-      "sentiment": "neutral"
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
-      "link": "https://www.fool.com/investing/2026/08/16/amazon-vs-microsoft-which-cloud-computing-behemoth/?.tsrc=rss",
-      "date": "Sun, 16 Aug 2026 04:20:00 +0000",
       "sentiment": "neutral"
     },
     {
@@ -4484,13 +4477,6 @@
       "sentiment": "neutral"
     },
     {
-      "ticker": "MSFT",
-      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
-      "link": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/?.tsrc=rss",
-      "date": "Sat, 15 Aug 2026 19:23:00 +0000",
-      "sentiment": "neutral"
-    },
-    {
       "ticker": "AMZN",
       "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
       "link": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/?.tsrc=rss",
@@ -4498,10 +4484,24 @@
       "sentiment": "neutral"
     },
     {
+      "ticker": "AMD",
+      "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
+      "link": "https://www.fool.com/investing/2026/08/15/prediction-amd-stock-wont-split-soon/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 16:11:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
       "ticker": "SNDK",
       "title": "Prediction: This Is What a $1,000 Investment in Sandisk Will Be Worth by 2030",
       "link": "https://www.fool.com/investing/2026/08/15/prediction-this-is-what-a-1000-investment-in-sandi/?.tsrc=rss",
       "date": "Sat, 15 Aug 2026 15:59:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMDs $566 Million SpaceX Stake Raises a Bigger Question Than AI Chip Orders",
+      "link": "https://247wallst.com/investing/2026/08/15/amds-566-million-spacex-stake-raises-a-bigger-question-than-ai-chip-orders/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 15:41:13 +0000",
       "sentiment": "neutral"
     },
     {
@@ -4774,7 +4774,10 @@
       "close": 30046.14,
       "change_pct": -0.13
     },
-    "spx": null,
+    "spx": {
+      "close": 7785.76,
+      "change_pct": -0.17
+    },
     "vix": {
       "close": 14.25,
       "change_pct": -2.6
