@@ -9,19 +9,56 @@
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-         background: #f1f5f9; color: #0f172a; padding-bottom: 40px; }
+         background: #f1f5f9; color: #0f172a; padding-bottom: 50px; }
   header { background: linear-gradient(135deg, #1e3a5f, #2563eb); color: #fff;
-           padding: 18px 16px 14px; position: sticky; top: 0; z-index: 10;
+           padding: 16px; position: sticky; top: 0; z-index: 100;
            box-shadow: 0 2px 8px rgba(0,0,0,.15); }
   header h1 { font-size: 18px; }
   header .sub { font-size: 12px; opacity: .8; margin-top: 2px; }
-  .wrap { max-width: 720px; margin: 0 auto; padding: 12px; }
-  .mkt { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 14px; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 12px; }
+
+  /* tabs */
+  .tabs { display: flex; gap: 8px; margin-bottom: 12px; overflow-x: auto; }
+  .tab { background: #fff; border: none; border-radius: 20px; padding: 8px 16px;
+         font-size: 13px; font-weight: 600; cursor: pointer; color: #64748b;
+         box-shadow: 0 1px 3px rgba(0,0,0,.08); white-space: nowrap; }
+  .tab.active { background: #1e3a5f; color: #fff; }
+  .tab .n { font-size: 11px; opacity: .7; margin-left: 4px; }
+
+  /* market cards */
+  .mkt { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 14px; }
   .card { background: #fff; border-radius: 12px; padding: 10px 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
   .card .label { font-size: 11px; color: #64748b; }
-  .card .value { font-size: 17px; font-weight: 700; margin-top: 2px; }
+  .card .value { font-size: 16px; font-weight: 700; margin-top: 2px; }
   .card .chg { font-size: 12px; margin-top: 2px; }
   .chg.up { color: #16a34a; } .chg.down { color: #dc2626; }
+
+  /* search */
+  .search { display: flex; gap: 8px; margin-bottom: 12px; }
+  .search input { flex: 1; border: 1px solid #e2e8f0; border-radius: 10px; padding: 10px 14px;
+                  font-size: 14px; outline: none; background: #fff; }
+  .search input:focus { border-color: #2563eb; }
+  .search select { border: 1px solid #e2e8f0; border-radius: 10px; padding: 10px;
+                   font-size: 13px; background: #fff; color: #334155; }
+
+  /* stock table */
+  .panel { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th { position: sticky; top: 0; background: #f8fafc; color: #475569; font-weight: 600;
+             text-align: right; padding: 10px 10px; border-bottom: 2px solid #e2e8f0; cursor: pointer; white-space: nowrap; }
+  thead th:first-child, thead th:nth-child(2) { text-align: left; }
+  tbody td { padding: 8px 10px; border-bottom: 1px solid #f1f5f9; text-align: right; white-space: nowrap; }
+  tbody td:first-child { text-align: left; font-weight: 600; color: #1e3a5f; }
+  tbody td:nth-child(2) { text-align: left; color: #64748b; font-size: 12px; max-width: 140px;
+                           overflow: hidden; text-overflow: ellipsis; }
+  tr:hover td { background: #f8fafc; }
+  .pct.up { color: #16a34a; font-weight: 600; }
+  .pct.down { color: #dc2626; font-weight: 600; }
+  .pct.flat { color: #94a3b8; }
+  .sector-tag { display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 8px;
+                background: #eef2ff; color: #4338ca; }
+
+  /* sections (news, earnings, macro) */
   .section { margin-bottom: 16px; }
   .section h2 { font-size: 15px; color: #334155; margin: 0 0 8px 2px; display: flex; align-items: center; gap: 6px; }
   .section h2 .count { background: #2563eb; color: #fff; font-size: 11px; border-radius: 10px; padding: 1px 8px; }
@@ -42,25 +79,56 @@
   .badge.ok { background: #dcfce7; color: #15803d; }
   .badge.warn { background: #fef9c3; color: #a16207; }
   .sent.bull { color: #16a34a; } .sent.bear { color: #dc2626; } .sent.neu { color: #94a3b8; }
-  footer { text-align: center; font-size: 11px; color: #94a3b8; padding: 10px; }
+
   .loading { text-align: center; padding: 60px 0; color: #64748b; }
+  .err { text-align: center; padding: 40px 16px; color: #dc2626; font-size: 13px; }
+  footer { text-align: center; font-size: 11px; color: #94a3b8; padding: 14px; }
 </style>
 </head>
 <body>
 <header>
   <h1>📊 TradeCal 交易日历</h1>
-  <div class="sub" id="sub">云端版 · 数据由 GitHub Actions 每日更新</div>
+  <div class="sub" id="sub">S&P500 · 纳斯达克100 · 财报 · 宏观 · 新闻</div>
 </header>
-<div class="wrap" id="main">
-  <div class="loading">加载中...</div>
+<div class="wrap">
+  <div class="mkt" id="mkt"></div>
+
+  <div class="tabs" id="tabs"></div>
+
+  <div class="search">
+    <input id="q" type="search" placeholder="🔍 搜索股票代码或名称，如 NVDA / 英伟达 / 苹果">
+    <select id="sector">
+      <option value="">全部行业</option>
+    </select>
+  </div>
+
+  <div class="panel" id="stockpanel">
+    <div class="loading">加载中...</div>
+  </div>
+
+  <div class="section" id="sec-news"></div>
+  <div class="section" id="sec-earn"></div>
+  <div class="section" id="sec-macro"></div>
 </div>
 <footer>
-  数据源：Yahoo Finance · 更新于 <span id="updated">-</span>
+  数据源：NASDAQ 官方 API / Yahoo Finance · 更新于 <span id="updated">-</span>
   <br>手机使用：浏览器菜单 → 添加到主屏幕
 </footer>
+
 <script>
 const sentIcon = { bull: '📈', bear: '📉', neutral: '⚪' };
 const sentCls = { bull: 'bull', bear: 'bear', neutral: 'neu' };
+let ALL = null;        // full dataset
+let view = 'ndx';      // current tab: ndx | sp500
+let sortKey = 'change_pct';
+let sortDir = -1;
+
+function fmtPct(v) {
+  if (v === null || v === undefined) return '<span class="pct flat">--</span>';
+  const cls = v > 0 ? 'up' : (v < 0 ? 'down' : 'flat');
+  const s = v > 0 ? '+' : '';
+  return `<span class="pct ${cls}">${s}${v.toFixed(2)}%</span>`;
+}
 
 function mktCard(label, v, fmt) {
   if (!v) return `<div class="card"><div class="label">${label}</div><div class="value">--</div></div>`;
@@ -72,57 +140,159 @@ function mktCard(label, v, fmt) {
           <div class="chg ${cls}">${arrow} ${Math.abs(chg).toFixed(2)}%</div></div>`;
 }
 
-function render(snap) {
-  document.getElementById('updated').textContent = snap.generated_at || '-';
-  document.getElementById('sub').textContent = '云端版 · 更新于 ' + (snap.generated_at || '');
+function renderMarket(m) {
+  document.getElementById('mkt').innerHTML =
+    mktCard('纳斯达克100', m?.ndx, v => v.toLocaleString()) +
+    mktCard('标普500', m?.spx, v => v.toLocaleString()) +
+    mktCard('VIX', m?.vix) +
+    mktCard('13周利率 %', m?.irx);
+}
 
-  let html = '<div class="mkt">'
-    + mktCard('纳斯达克 NDX', snap.market?.ndx, v => v.toLocaleString())
-    + mktCard('恐慌指数 VIX', snap.market?.vix)
-    + mktCard('13周利率 %', snap.market?.irx)
-    + '</div>';
+function renderTabs() {
+  const ndxN = ALL.nasdaq100?.length || 0;
+  const spN = ALL.sp500?.length || 0;
+  document.getElementById('tabs').innerHTML = `
+    <button class="tab ${view==='ndx'?'active':''}" onclick="setView('ndx')">🟦 纳斯达克100 <span class="n">${ndxN}</span></button>
+    <button class="tab ${view==='sp500'?'active':''}" onclick="setView('sp500')">🟨 标普500 <span class="n">${spN}</span></button>`;
+}
 
-  // earnings
-  html += `<div class="section"><h2>📅 即将到来的财报 <span class="count">${snap.earnings_upcoming?.length || 0}</span></h2><div class="list">`;
-  (snap.earnings_upcoming || []).forEach(e => {
+function sectorsOf() {
+  const data = view === 'ndx' ? ALL.nasdaq100 : ALL.sp500;
+  const set = new Set();
+  (data || []).forEach(s => s.sector && set.add(s.sector));
+  return [...set].sort();
+}
+
+function renderSectorOptions() {
+  const sel = document.getElementById('sector');
+  const cur = sel.value;
+  const opts = sectorsOf().map(s => `<option value="${s}">${s}</option>`).join('');
+  sel.innerHTML = '<option value="">全部行业</option>' + opts;
+  sel.value = cur;
+}
+
+function setView(v) {
+  view = v;
+  renderTabs();
+  renderSectorOptions();
+  renderTable();
+}
+
+function setSort(key) {
+  if (sortKey === key) sortDir = -sortDir;
+  else { sortKey = key; sortDir = -1; }
+  renderTable();
+}
+
+function filtered() {
+  const q = document.getElementById('q').value.trim().toUpperCase();
+  const sec = document.getElementById('sector').value;
+  const data = view === 'ndx' ? ALL.nasdaq100 : ALL.sp500;
+  return (data || []).filter(s => {
+    if (sec && s.sector !== sec) return false;
+    if (q) {
+      const name = (s.name || '').toUpperCase();
+      if (!s.ticker.toUpperCase().includes(q) && !name.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function renderTable() {
+  const data = filtered();
+  const sorters = {
+    ticker: a => a.ticker,
+    change_pct: a => (a.change_pct === null ? -9999 : a.change_pct),
+    price: a => (a.price === null ? -1 : a.price),
+    sector: a => (a.sector || ''),
+  };
+  data.sort((a, b) => {
+    const va = sorters[sortKey](a), vb = sorters[sortKey](b);
+    if (typeof va === 'string') return sortDir * va.localeCompare(vb);
+    return sortDir * (va - vb);
+  });
+  const arrow = sortDir === -1 ? '▼' : '▲';
+  const rows = data.map(s => `
+    <tr>
+      <td>${s.ticker}</td>
+      <td title="${s.name || ''}">${s.name || ''}</td>
+      <td>${fmtPct(s.change_pct)}</td>
+      <td>${s.price !== null && s.price !== undefined ? '$' + s.price.toLocaleString() : '--'}</td>
+      <td>${s.sector ? `<span class="sector-tag">${s.sector}</span>` : ''}</td>
+    </tr>`).join('');
+  document.getElementById('stockpanel').innerHTML = `
+    <table>
+      <thead><tr>
+        <th onclick="setSort('ticker')">代码 ${sortKey==='ticker'?arrow:''}</th>
+        <th>名称</th>
+        <th onclick="setSort('change_pct')">涨跌幅 ${sortKey==='change_pct'?arrow:''}</th>
+        <th onclick="setSort('price')">价格 ${sortKey==='price'?arrow:''}</th>
+        <th onclick="setSort('sector')">行业 ${sortKey==='sector'?arrow:''}</th>
+      </tr></thead>
+      <tbody>${rows || '<tr><td colspan="5" style="text-align:center;color:#94a3b8">无匹配</td></tr>'}</tbody>
+    </table>`;
+}
+
+function renderNews() {
+  const news = ALL.news || [];
+  const items = news.map(n => {
+    const link = n.link ? `<a href="${n.link}" target="_blank" style="color:#2563eb">查看</a>` : '';
+    return `<div class="item"><div class="date-box"><span class="sent ${sentCls[n.sentiment]}">${sentIcon[n.sentiment]}</span></div>
+      <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title}</div>
+      <div class="note">${link}</div></div></div>`;
+  }).join('');
+  document.getElementById('sec-news').innerHTML =
+    `<h2>📰 相关新闻（利好📈 / 利空📉）<span class="count">${news.length}</span></h2><div class="list">${items || '<div class="item"><div class="body">暂无</div></div>'}</div>`;
+}
+
+function renderEarnings() {
+  const es = ALL.earnings_upcoming || [];
+  const items = es.map(e => {
     const soon = e.soon ? ' soon' : '';
     const conf = e.confidence === 'confirmed' ? '已确认' : '预计';
     const cls = e.confidence === 'confirmed' ? 'ok' : 'warn';
     const dl = e.days_left === 0 ? '今天！' : (e.days_left > 0 ? `${e.days_left}天后` : `${-e.days_left}天前`);
-    html += `<div class="item${soon}"><div class="date-box"><span class="d">${e.date.slice(5).replace('-','/')}</span><span class="dl">${dl}</span></div>
+    return `<div class="item${soon}"><div class="date-box"><span class="d">${e.date.slice(5).replace('-','/')}</span><span class="dl">${dl}</span></div>
       <div class="body"><div class="title"><b>${e.company}</b> <span class="tk">${e.ticker}</span> <span class="period">${e.period}</span></div>
       <div class="note">${e.note}</div><span class="badge ${cls}">${conf}</span></div></div>`;
-  });
-  html += '</div></div>';
+  }).join('');
+  document.getElementById('sec-earn').innerHTML =
+    `<h2>📅 即将到来的财报 <span class="count">${es.length}</span></h2><div class="list">${items || ''}</div>`;
+}
 
-  // macro
-  html += `<div class="section"><h2>🏛️ 宏观事件 <span class="count">${snap.macro_upcoming?.length || 0}</span></h2><div class="list">`;
-  (snap.macro_upcoming || []).forEach(m => {
+function renderMacro() {
+  const ms = ALL.macro_upcoming || [];
+  const items = ms.map(m => {
     const soon = m.soon ? ' soon' : '';
     const icon = m.impact === 'high' ? '🔴' : '🟡';
-    html += `<div class="item${soon}"><div class="date-box"><span class="d">${m.date.slice(5).replace('-','/')}</span><span class="dl">${m.beijing_time}</span></div>
+    return `<div class="item${soon}"><div class="date-box"><span class="d">${m.date.slice(5).replace('-','/')}</span><span class="dl">${m.beijing_time}</span></div>
       <div class="body"><div class="title">${icon} <b>${m.event}</b></div><div class="note">${m.note || ''}</div></div></div>`;
-  });
-  html += '</div></div>';
-
-  // news
-  html += `<div class="section"><h2>📰 相关新闻 <span class="count">${snap.news?.length || 0}</span></h2><div class="list">`;
-  (snap.news || []).forEach(n => {
-    const link = n.link ? `<a href="${n.link}" target="_blank" style="color:#2563eb">查看</a>` : '';
-    html += `<div class="item"><div class="date-box"><span class="sent ${sentCls[n.sentiment]}">${sentIcon[n.sentiment]}</span></div>
-      <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title}</div><div class="note">${link}</div></div></div>`;
-  });
-  html += '</div></div>';
-
-  document.getElementById('main').innerHTML = html;
+  }).join('');
+  document.getElementById('sec-macro').innerHTML =
+    `<h2>🏛️ 宏观事件 <span class="count">${ms.length}</span></h2><div class="list">${items || ''}</div>`;
 }
+
+function renderAll() {
+  document.getElementById('updated').textContent = ALL.generated_at || '-';
+  document.getElementById('sub').textContent = `S&P500 · 纳斯达克100 · 更新于 ${ALL.generated_at || ''}`;
+  renderMarket(ALL.market);
+  renderTabs();
+  renderSectorOptions();
+  renderTable();
+  renderNews();
+  renderEarnings();
+  renderMacro();
+}
+
+document.getElementById('q').addEventListener('input', renderTable);
+document.getElementById('sector').addEventListener('change', renderTable);
 
 fetch('data.json?v=' + Date.now())
   .then(r => r.json())
-  .then(render)
+  .then(d => { ALL = d; renderAll(); })
   .catch(e => {
-    document.getElementById('main').innerHTML =
-      `<div class="loading">数据加载失败：${e}<br>首次部署后需等 Actions 运行一次生成数据</div>`;
+    document.getElementById('stockpanel').innerHTML =
+      `<div class="err">数据加载失败：${e}<br>首次部署后需等 Actions 运行一次生成数据</div>`;
   });
 </script>
 </body>
