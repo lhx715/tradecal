@@ -71,6 +71,99 @@ def classify(title):
     return 'bull' if b > r else ('bear' if r > b else 'neutral')
 
 
+# ---------------------------------------------------------------------------
+# News impact tagging
+# ---------------------------------------------------------------------------
+COMPANY_KEYWORDS = {
+    'NVDA': ['nvidia', '英伟达', 'jensen huang', '黄仁勋'],
+    'AAPL': ['apple', '苹果', 'tim cook', '库克', 'iphone'],
+    'MSFT': ['microsoft', '微软', 'azure', 'openai', 'chatgpt'],
+    'GOOGL': ['alphabet', 'google', '谷歌', 'gemini', 'youtube', 'chrome'],
+    'AMZN': ['amazon', '亚马逊', 'aws'],
+    'META': ['meta', 'facebook', '脸书', 'instagram', 'zuckerberg'],
+    'TSLA': ['tesla', '特斯拉'],
+    'AVGO': ['broadcom', '博通'],
+    'NFLX': ['netflix', '奈飞'],
+    'AMD': ['amd', 'advanced micro devices'],
+    'INTC': ['intel', '英特尔'],
+    'ORCL': ['oracle', '甲骨文'],
+    'CRM': ['salesforce'],
+    'ADBE': ['adobe'],
+    'CSCO': ['cisco', '思科'],
+    'QCOM': ['qualcomm', '高通'],
+    'TXN': ['texas instruments', '德州仪器'],
+    'MU': ['micron', '美光'],
+    'SMCI': ['super micro', '超微'],
+    'ARM': ['arm holdings', 'arm '],
+    'COST': ['costco', '好市多'],
+    'WMT': ['walmart', '沃尔玛'],
+    'XOM': ['exxon', '埃克森'],
+    'JPM': ['jpmorgan', '摩根大通'],
+    'GS': ['goldman', '高盛'],
+    'MS': ['morgan stanley', '摩根士丹利'],
+    'BAC': ['bank of america', '美国银行'],
+    'LLY': ['eli lilly', '礼来'],
+    'PFE': ['pfizer', '辉瑞'],
+    'JNJ': ['johnson', '强生'],
+    'UNH': ['unitedhealth', '联合健康'],
+    'DIS': ['disney', '迪士尼'],
+    'NKE': ['nike', '耐克'],
+    'MCD': ['mcdonald', '麦当劳'],
+    'KO': ['coca-cola', '可口可乐'],
+    'PEP': ['pepsi', '百事'],
+    'BA': ['boeing', '波音'],
+    'TSM': ['taiwan semiconductor', '台积电', 'tsmc'],
+    'UBER': ['uber', '优步'],
+    'SHOP': ['shopify'],
+    'PYPL': ['paypal', '贝宝'],
+    'PLTR': ['palantir'],
+    'V': ['visa', '维萨'],
+    'MA': ['mastercard', '万事达'],
+    'FED': ['federal reserve', 'fed', '美联储', 'fomc', 'powell', '鲍威尔', 'rate cut', '降息', '加息'],
+    'SPX': ['s&p 500', '标普500', '标普', 'wall street', 'dow jones'],
+    'NDX': ['nasdaq', '纳斯达克', '纳指'],
+    'MACRO': ['cpi', 'inflation', '通胀', 'nonfarm', '非农', 'unemployment',
+              '失业率', 'jobs report', 'gdp', 'treasury yield', '国债收益率'],
+}
+
+IMPACT_HIGH = ['earnings', '财报', 'guidance', '指引', 'beat', 'miss', '超预期',
+               '不及预期', 'rate decision', '利率决议', 'fomc', 'cpi', '非农',
+               'merger', 'acquisition', '收购', '合并', 'lawsuit', '诉讼',
+               'antitrust', '反垄断', 'recall', '召回', 'layoff', '裁员',
+               'bankrupt', '破产', 'fda', 'approval', '获批']
+IMPACT_MED = ['ai', 'artificial intelligence', '人工智能', 'chip', '芯片', 'cloud',
+              '云', 'semiconductor', '半导体', 'revenue', '营收', 'sales', '销量',
+              'launch', '发布', 'patent', '专利', 'tariff', '关税', 'ban', '禁令',
+              'regulation', '监管', 'data center', '数据中心', 'robotics', '机器人']
+
+
+def detect_tickers(title):
+    tl = title.lower()
+    hits = []
+    for tk, kws in COMPANY_KEYWORDS.items():
+        for kw in kws:
+            if kw in tl:
+                hits.append(tk)
+                break
+    return hits
+
+
+def impact_level(title):
+    tl = title.lower()
+    score = 0
+    for w in IMPACT_HIGH:
+        if w in tl:
+            score += 2
+    for w in IMPACT_MED:
+        if w in tl:
+            score += 1
+    if score >= 2:
+        return 'high'
+    if score == 1:
+        return 'medium'
+    return 'low'
+
+
 def http_get_json(url, headers=None, timeout=30):
     h = dict(UA)
     if headers:
@@ -188,10 +281,16 @@ def rss_news(ticker, n=4):
                 title = h.unescape(t.group(1).strip())
                 title = re.sub(r'[^\x00-\x7F\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]', '', title)
                 if title and title.lower() != ticker.lower():
+                    related = detect_tickers(title)
+                    if not related:
+                        # fallback to feed ticker
+                        related = [ticker]
                     out.append({'ticker': ticker, 'title': title,
                                 'link': l.group(1).strip() if l else '',
                                 'date': d.group(1).strip() if d else '',
-                                'sentiment': classify(title)})
+                                'sentiment': classify(title),
+                                'related': related,
+                                'impact': impact_level(title)})
         return out
     except Exception:
         return []
