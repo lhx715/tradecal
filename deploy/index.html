@@ -191,8 +191,9 @@ function filtered() {
   return (data || []).filter(s => {
     if (sec && s.sector !== sec) return false;
     if (q) {
+      const cn = (s.cn_name || '').toUpperCase();
       const name = (s.name || '').toUpperCase();
-      if (!s.ticker.toUpperCase().includes(q) && !name.includes(q)) return false;
+      if (!s.ticker.toUpperCase().includes(q) && !name.includes(q) && !cn.includes(q)) return false;
     }
     return true;
   });
@@ -212,14 +213,17 @@ function renderTable() {
     return sortDir * (va - vb);
   });
   const arrow = sortDir === -1 ? '▼' : '▲';
-  const rows = data.map(s => `
+  const rows = data.map(s => {
+    const display = s.cn_name || s.name || s.ticker;
+    return `
     <tr>
       <td>${s.ticker}</td>
-      <td title="${s.name || ''}">${s.name || ''}</td>
+      <td title="${display}">${display}</td>
       <td>${fmtPct(s.change_pct)}</td>
       <td>${s.price !== null && s.price !== undefined ? '$' + s.price.toLocaleString() : '--'}</td>
       <td>${s.sector ? `<span class="sector-tag">${s.sector}</span>` : ''}</td>
-    </tr>`).join('');
+    </tr>`;
+  }).join('');
   document.getElementById('stockpanel').innerHTML = `
     <table>
       <thead><tr>
