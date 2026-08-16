@@ -90,6 +90,16 @@
   .dir-bull { background: #dcfce7; color: #15803d; }
   .dir-bear { background: #fee2e2; color: #b91c1c; }
   .dir-neu { background: #f1f5f9; color: #64748b; }
+  .ai-tag { display: inline-block; font-size: 9px; padding: 0 5px; border-radius: 4px;
+            background: #7c3aed; color: #fff; margin-left: 4px; vertical-align: 1px; }
+  .ai-tag.kw { background: #94a3b8; }
+  .per-list { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 5px; }
+  .per-imp { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
+  .per-imp.dir-bull { background: #dcfce7; color: #15803d; }
+  .per-imp.dir-bear { background: #fee2e2; color: #b91c1c; }
+  .per-imp.dir-neu { background: #f1f5f9; color: #64748b; }
+  .per-imp .score { font-weight: 700; }
+  .per-imp .reason { font-weight: 400; font-size: 10px; opacity: .8; }
 
   .loading { text-align: center; padding: 60px 0; color: #64748b; }
   .err { text-align: center; padding: 40px 16px; color: #dc2626; font-size: 13px; }
@@ -256,16 +266,24 @@ function renderNews() {
   const dirCls = { bull: 'dir-bull', bear: 'dir-bear', neutral: 'dir-neu' };
   const items = news.map(n => {
     const link = n.link ? `<a href="${n.link}" target="_blank" style="color:#2563eb">查看</a>` : '';
-    const related = (n.related || []).map(r => `<span class="rel-tag">${r}</span>`).join(' ');
     const imp = n.impact ? `<span class="imp ${impactCls[n.impact] || 'imp-low'}">${impactTxt[n.impact] || n.impact}</span>` : '';
-    const dir = `<span class="dir ${dirCls[n.sentiment] || 'dir-neu'}">${dirTxt[n.sentiment] || n.sentiment}</span>`;
+    // per-company impacts
+    const per = (n.impacts || []).map(c => {
+      const d = dirTxt[c.direction] || '⚪ 中性';
+      const cls = dirCls[c.direction] || 'dir-neu';
+      const score = c.score !== undefined ? ` <span class="score">${c.score > 0 ? '+' : ''}${c.score}</span>` : '';
+      const reason = c.reason ? `<span class="reason">${c.reason}</span>` : '';
+      return `<span class="per-imp ${cls}">${d}${score} ${reason}</span>`;
+    }).join(' ');
+    const aiTag = n.ai ? '<span class="ai-tag">AI</span>' : '<span class="ai-tag kw">关键词</span>';
     return `<div class="item"><div class="date-box"><span class="sent ${sentCls[n.sentiment]}">${sentIcon[n.sentiment]}</span></div>
-      <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title}</div>
-      <div class="tags">${dir} ${imp} ${related}</div>
+      <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title} ${aiTag}</div>
+      <div class="tags">${imp}</div>
+      <div class="per-list">${per || ''}</div>
       <div class="note">${link}</div></div></div>`;
   }).join('');
   document.getElementById('sec-news').innerHTML =
-    `<h2>📰 相关新闻（方向 + 影响度）<span class="count">${news.length}</span></h2><div class="list">${items || '<div class="item"><div class="body">暂无</div></div>'}</div>`;
+    `<h2>📰 相关新闻（按公司判断方向）<span class="count">${news.length}</span></h2><div class="list">${items || '<div class="item"><div class="body">暂无</div></div>'}</div>`;
 }
 
 function renderEarnings() {
