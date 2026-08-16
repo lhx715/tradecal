@@ -86,6 +86,10 @@
   .imp-high { background: #fee2e2; color: #b91c1c; }
   .imp-med { background: #fef9c3; color: #a16207; }
   .imp-low { background: #f1f5f9; color: #64748b; }
+  .dir { display: inline-block; font-size: 10px; padding: 1px 8px; border-radius: 8px; font-weight: 700; }
+  .dir-bull { background: #dcfce7; color: #15803d; }
+  .dir-bear { background: #fee2e2; color: #b91c1c; }
+  .dir-neu { background: #f1f5f9; color: #64748b; }
 
   .loading { text-align: center; padding: 60px 0; color: #64748b; }
   .err { text-align: center; padding: 40px 16px; color: #dc2626; font-size: 13px; }
@@ -248,17 +252,20 @@ function renderNews() {
   const news = ALL.news || [];
   const impactTxt = { high: '🔴 影响大', medium: '🟡 中等', low: '⚪ 一般' };
   const impactCls = { high: 'imp-high', medium: 'imp-med', low: 'imp-low' };
+  const dirTxt = { bull: '📈 利好 GOOD', bear: '📉 利空 BAD', neutral: '⚪ 中性' };
+  const dirCls = { bull: 'dir-bull', bear: 'dir-bear', neutral: 'dir-neu' };
   const items = news.map(n => {
     const link = n.link ? `<a href="${n.link}" target="_blank" style="color:#2563eb">查看</a>` : '';
     const related = (n.related || []).map(r => `<span class="rel-tag">${r}</span>`).join(' ');
     const imp = n.impact ? `<span class="imp ${impactCls[n.impact] || 'imp-low'}">${impactTxt[n.impact] || n.impact}</span>` : '';
+    const dir = `<span class="dir ${dirCls[n.sentiment] || 'dir-neu'}">${dirTxt[n.sentiment] || n.sentiment}</span>`;
     return `<div class="item"><div class="date-box"><span class="sent ${sentCls[n.sentiment]}">${sentIcon[n.sentiment]}</span></div>
       <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title}</div>
-      <div class="tags">${related} ${imp}</div>
+      <div class="tags">${dir} ${imp} ${related}</div>
       <div class="note">${link}</div></div></div>`;
   }).join('');
   document.getElementById('sec-news').innerHTML =
-    `<h2>📰 相关新闻（利好📈 / 利空📉 / 影响度）<span class="count">${news.length}</span></h2><div class="list">${items || '<div class="item"><div class="body">暂无</div></div>'}</div>`;
+    `<h2>📰 相关新闻（方向 + 影响度）<span class="count">${news.length}</span></h2><div class="list">${items || '<div class="item"><div class="body">暂无</div></div>'}</div>`;
 }
 
 function renderEarnings() {
