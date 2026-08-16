@@ -1,0 +1,41 @@
+name: TradeCal Daily Digest
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch data + send email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+          SMTP_SSL: ${{ secrets.SMTP_SSL }}
+        run: |
+          cd deploy
+          python fetch_cloud.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "TradeCal Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add deploy/data.json
+          git diff --cached --quiet || git commit -m "chore: update daily data $(date -u +'%Y-%m-%d %H:%M')"
+          git push
