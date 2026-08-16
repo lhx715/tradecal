@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#1e3a5f">
+<title>TradeCal 交易日历</title>
+<link rel="manifest" href="manifest.json">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+         background: #f1f5f9; color: #0f172a; padding-bottom: 40px; }
+  header { background: linear-gradient(135deg, #1e3a5f, #2563eb); color: #fff;
+           padding: 18px 16px 14px; position: sticky; top: 0; z-index: 10;
+           box-shadow: 0 2px 8px rgba(0,0,0,.15); }
+  header h1 { font-size: 18px; }
+  header .sub { font-size: 12px; opacity: .8; margin-top: 2px; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 12px; }
+  .mkt { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 14px; }
+  .card { background: #fff; border-radius: 12px; padding: 10px 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .card .label { font-size: 11px; color: #64748b; }
+  .card .value { font-size: 17px; font-weight: 700; margin-top: 2px; }
+  .card .chg { font-size: 12px; margin-top: 2px; }
+  .chg.up { color: #16a34a; } .chg.down { color: #dc2626; }
+  .section { margin-bottom: 16px; }
+  .section h2 { font-size: 15px; color: #334155; margin: 0 0 8px 2px; display: flex; align-items: center; gap: 6px; }
+  .section h2 .count { background: #2563eb; color: #fff; font-size: 11px; border-radius: 10px; padding: 1px 8px; }
+  .list { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .item { display: flex; padding: 10px 12px; border-bottom: 1px solid #f1f5f9; gap: 10px; }
+  .item:last-child { border-bottom: none; }
+  .item.soon { background: #fffbeb; }
+  .date-box { min-width: 56px; text-align: center; }
+  .date-box .d { font-size: 14px; font-weight: 700; color: #1e3a5f; }
+  .date-box .dl { display: block; font-size: 10px; color: #94a3b8; }
+  .date-box .sent { font-size: 18px; }
+  .body { flex: 1; }
+  .title { font-size: 13px; line-height: 1.4; }
+  .tk { color: #2563eb; font-weight: 600; font-size: 12px; }
+  .period { color: #94a3b8; font-size: 11px; }
+  .note { font-size: 11px; color: #64748b; margin-top: 3px; line-height: 1.4; }
+  .badge { display: inline-block; margin-top: 4px; font-size: 10px; padding: 1px 8px; border-radius: 10px; }
+  .badge.ok { background: #dcfce7; color: #15803d; }
+  .badge.warn { background: #fef9c3; color: #a16207; }
+  .sent.bull { color: #16a34a; } .sent.bear { color: #dc2626; } .sent.neu { color: #94a3b8; }
+  footer { text-align: center; font-size: 11px; color: #94a3b8; padding: 10px; }
+  .loading { text-align: center; padding: 60px 0; color: #64748b; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 TradeCal 交易日历</h1>
+  <div class="sub" id="sub">云端版 · 数据由 GitHub Actions 每日更新</div>
+</header>
+<div class="wrap" id="main">
+  <div class="loading">加载中...</div>
+</div>
+<footer>
+  数据源：Yahoo Finance · 更新于 <span id="updated">-</span>
+  <br>手机使用：浏览器菜单 → 添加到主屏幕
+</footer>
+<script>
+const sentIcon = { bull: '📈', bear: '📉', neutral: '⚪' };
+const sentCls = { bull: 'bull', bear: 'bear', neutral: 'neu' };
+
+function mktCard(label, v, fmt) {
+  if (!v) return `<div class="card"><div class="label">${label}</div><div class="value">--</div></div>`;
+  const chg = v.change_pct || 0;
+  const cls = chg >= 0 ? 'up' : 'down';
+  const arrow = chg >= 0 ? '▲' : '▼';
+  const val = fmt ? fmt(v.close) : v.close;
+  return `<div class="card"><div class="label">${label}</div><div class="value">${val}</div>
+          <div class="chg ${cls}">${arrow} ${Math.abs(chg).toFixed(2)}%</div></div>`;
+}
+
+function render(snap) {
+  document.getElementById('updated').textContent = snap.generated_at || '-';
+  document.getElementById('sub').textContent = '云端版 · 更新于 ' + (snap.generated_at || '');
+
+  let html = '<div class="mkt">'
+    + mktCard('纳斯达克 NDX', snap.market?.ndx, v => v.toLocaleString())
+    + mktCard('恐慌指数 VIX', snap.market?.vix)
+    + mktCard('13周利率 %', snap.market?.irx)
+    + '</div>';
+
+  // earnings
+  html += `<div class="section"><h2>📅 即将到来的财报 <span class="count">${snap.earnings_upcoming?.length || 0}</span></h2><div class="list">`;
+  (snap.earnings_upcoming || []).forEach(e => {
+    const soon = e.soon ? ' soon' : '';
+    const conf = e.confidence === 'confirmed' ? '已确认' : '预计';
+    const cls = e.confidence === 'confirmed' ? 'ok' : 'warn';
+    const dl = e.days_left === 0 ? '今天！' : (e.days_left > 0 ? `${e.days_left}天后` : `${-e.days_left}天前`);
+    html += `<div class="item${soon}"><div class="date-box"><span class="d">${e.date.slice(5).replace('-','/')}</span><span class="dl">${dl}</span></div>
+      <div class="body"><div class="title"><b>${e.company}</b> <span class="tk">${e.ticker}</span> <span class="period">${e.period}</span></div>
+      <div class="note">${e.note}</div><span class="badge ${cls}">${conf}</span></div></div>`;
+  });
+  html += '</div></div>';
+
+  // macro
+  html += `<div class="section"><h2>🏛️ 宏观事件 <span class="count">${snap.macro_upcoming?.length || 0}</span></h2><div class="list">`;
+  (snap.macro_upcoming || []).forEach(m => {
+    const soon = m.soon ? ' soon' : '';
+    const icon = m.impact === 'high' ? '🔴' : '🟡';
+    html += `<div class="item${soon}"><div class="date-box"><span class="d">${m.date.slice(5).replace('-','/')}</span><span class="dl">${m.beijing_time}</span></div>
+      <div class="body"><div class="title">${icon} <b>${m.event}</b></div><div class="note">${m.note || ''}</div></div></div>`;
+  });
+  html += '</div></div>';
+
+  // news
+  html += `<div class="section"><h2>📰 相关新闻 <span class="count">${snap.news?.length || 0}</span></h2><div class="list">`;
+  (snap.news || []).forEach(n => {
+    const link = n.link ? `<a href="${n.link}" target="_blank" style="color:#2563eb">查看</a>` : '';
+    html += `<div class="item"><div class="date-box"><span class="sent ${sentCls[n.sentiment]}">${sentIcon[n.sentiment]}</span></div>
+      <div class="body"><div class="title"><span class="tk">${n.ticker}</span> ${n.title}</div><div class="note">${link}</div></div></div>`;
+  });
+  html += '</div></div>';
+
+  document.getElementById('main').innerHTML = html;
+}
+
+fetch('data.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(render)
+  .catch(e => {
+    document.getElementById('main').innerHTML =
+      `<div class="loading">数据加载失败：${e}<br>首次部署后需等 Actions 运行一次生成数据</div>`;
+  });
+</script>
+</body>
+</html>
