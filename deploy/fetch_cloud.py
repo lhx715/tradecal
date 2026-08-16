@@ -63,10 +63,12 @@ BULLISH = ['beat','surpass','surges','soars','record','growth','raise guidance',
 BEARISH = ['miss','downgrade','cut guidance','weak','slump','layoff','lawsuit','investigation','regulatory','antitrust','bearish','selloff','decline','fall','drops','risk','risks','worries','wary','weary','threat','不及预期','下调','裁员','诉讼','调查','反垄断','利空','大跌','疲软','衰退','风险','下跌','承压','担忧','警告','suffer','suffers','drop','dropped','fell','falling','tumbles','tumble','plunge','plunges','plunged','worse','worst','sink','sank','problem','problems','cut','cuts','lower','weakness','caution','cautious','concern','concerns','trial','addiction','fraud','scandal','penalty','fine','charge','charges','selling','sell-off','selloff','loses','loss','struggle','struggles','pressure','pressured']
 
 
-def classify(title):
+def classify_score(title):
+    """Keyword classifier -> continuous score in [-1, +1].
+    +1 = strongly bullish, -1 = strongly bearish, ~0 = neutral.
+    """
     import html as h
     tl = h.unescape(title).lower()
-    # strong signals override weak ones
     b = 0
     r = 0
     for w in BULLISH:
@@ -75,11 +77,72 @@ def classify(title):
     for w in BEARISH:
         if w in tl:
             r += 1
-    if b > r:
+    if b == 0 and r == 0:
+        return 0.0
+    # normalize to [-1, 1] with diminishing returns
+    raw = (b - r) / (b + r)
+    return max(-1.0, min(1.0, raw))
+
+
+def classify(title):
+    s = classify_score(title)
+    if s > 0.15:
         return 'bull'
-    if r > b:
+    if s < -0.15:
         return 'bear'
     return 'neutral'
+
+
+# ---------------------------------------------------------------------------
+# AI scoring (DeepSeek)
+# ---------------------------------------------------------------------------
+AI_SCORE_WEIGHT = 0.7      # AI weight in final score
+KEYWORD_WEIGHT = 0.3       # keyword classifier weight
+THRESHOLD = 0.3            # score above -> GOOD, below -threshold -> BAD
+
+
+def ai_score_news(title, related_tickers, api_key):
+    """Ask DeepSeek to score the news for each affected company.
+    Returns list of {ticker, score, reason} or None on failure.
+    """
+    if not api_key:
+        return None
+    ticker_list = ', '.join(related_tickers) if related_tickers else 'SPX(大盘)'
+    prompt = (
+        f'你是金融新闻分析师。判断下面这条新闻对提到的每家公司的影响。\n'
+        f'新闻标题: "{title}"\n'
+        f'可能影响的公司: {ticker_list}\n'
+        f'对每家公司分别输出: 方向(bull/bear/neutral)、分数(-1到+1，+1极大利好，-1极大利空)、简短原因(中文,15字内)。\n'
+        f'严格输出 JSON 数组，格式: [{{"ticker":"NVDA","direction":"bull","score":0.8,"reason":"AI需求强劲"}}]\n'
+        f'如果新闻不针对任何具体公司，用 ticker 为 "MARKET" 表示大盘。'
+    )
+    body = json.dumps({
+        'model': 'deepseek-chat',
+        'messages': [
+            {'role': 'system', 'content': '你是金融新闻分析师，只输出合法JSON，不要其他文字。'},
+            {'role': 'user', 'content': prompt},
+        ],
+        'max_tokens': 300,
+        'temperature': 0,
+        'response_format': {'type': 'json_object'},
+    }).encode()
+    try:
+        req = urllib.request.Request('https://api.deepseek.com/chat/completions', data=body, headers={
+            'Authorization': f'Bearer {api_key}',
+            'Content-Type': 'application/json',
+            'User-Agent': 'TradeCal',
+        })
+        resp = json.loads(urllib.request.urlopen(req, timeout=40).read().decode())
+        content = resp['choices'][0]['message']['content']
+        # extract JSON array from response
+        m = re.search(r'\[.*\]', content, re.S)
+        if m:
+            results = json.loads(m.group(0))
+            return results
+        return None
+    except Exception as e:
+        print(f'  AI fail: {str(e)[:60]}')
+        return None
 
 
 # ---------------------------------------------------------------------------
@@ -278,7 +341,7 @@ def fetch_quote_yahoo(ticker):
 # ---------------------------------------------------------------------------
 # News
 # ---------------------------------------------------------------------------
-def rss_news(ticker, n=4):
+def rss_news(ticker, n=4, api_key=None):
     try:
         xml = http_get_text(f'https://finance.yahoo.com/rss/headline?s={ticker}')
         items = re.findall(r'<item>(.*?)</item>', xml, re.S)
@@ -294,14 +357,57 @@ def rss_news(ticker, n=4):
                 if title and title.lower() != ticker.lower():
                     related = detect_tickers(title)
                     if not related:
-                        # fallback to feed ticker
                         related = [ticker]
-                    out.append({'ticker': ticker, 'title': title,
-                                'link': l.group(1).strip() if l else '',
-                                'date': d.group(1).strip() if d else '',
-                                'sentiment': classify(title),
-                                'related': related,
-                                'impact': impact_level(title)})
+                    kw_score = classify_score(title)
+                    kw_dir = classify(title)
+
+                    # AI scoring (per company)
+                    impacts = None
+                    if api_key:
+                        impacts = ai_score_news(title, related, api_key)
+                        time.sleep(0.2)  # be nice to API
+
+                    if impacts:
+                        # merge: final = keyword*0.3 + AI*0.7, per ticker
+                        merged = []
+                        for imp in impacts:
+                            tk = imp.get('ticker', 'MARKET')
+                            ai_s = float(imp.get('score', 0))
+                            # keyword score applies to the feed ticker primarily
+                            kw_s = kw_score if tk == ticker else 0.0
+                            final_s = kw_s * KEYWORD_WEIGHT + ai_s * AI_SCORE_WEIGHT
+                            final_s = max(-1.0, min(1.0, final_s))
+                            direction = ('bull' if final_s > THRESHOLD
+                                         else 'bear' if final_s < -THRESHOLD else 'neutral')
+                            merged.append({
+                                'ticker': tk,
+                                'score': round(final_s, 2),
+                                'direction': direction,
+                                'reason': imp.get('reason', ''),
+                            })
+                        out.append({'ticker': ticker, 'title': title,
+                                    'link': l.group(1).strip() if l else '',
+                                    'date': d.group(1).strip() if d else '',
+                                    'sentiment': kw_dir,
+                                    'keyword_score': round(kw_score, 2),
+                                    'related': related,
+                                    'impact': impact_level(title),
+                                    'ai': True,
+                                    'impacts': merged})
+                    else:
+                        # fallback: keyword only, apply to feed ticker
+                        direction = ('bull' if kw_score > THRESHOLD
+                                     else 'bear' if kw_score < -THRESHOLD else 'neutral')
+                        out.append({'ticker': ticker, 'title': title,
+                                    'link': l.group(1).strip() if l else '',
+                                    'date': d.group(1).strip() if d else '',
+                                    'sentiment': kw_dir,
+                                    'keyword_score': round(kw_score, 2),
+                                    'related': related,
+                                    'impact': impact_level(title),
+                                    'ai': False,
+                                    'impacts': [{'ticker': ticker, 'score': round(kw_score, 2),
+                                                 'direction': direction, 'reason': '关键词规则'}]})
         return out
     except Exception:
         return []
@@ -361,12 +467,13 @@ def build_snapshot():
     # --- News: priority tickers + top movers ---
     print('Fetching news...')
     news_all = []
+    api_key = os.environ.get('DEEPSEEK_API_KEY', '')
     # top movers from nasdaq100 (up/down extremes)
     movers = sorted([s for s in nasdaq100 if s.get('change_pct') is not None],
                     key=lambda x: abs(x['change_pct']), reverse=True)[:8]
     news_tickers = list(NEWS_PRIORITY) + [m['ticker'] for m in movers if m['ticker'] not in NEWS_PRIORITY]
     for tk in news_tickers[:12]:
-        news_all += rss_news(tk)
+        news_all += rss_news(tk, api_key=api_key)
         time.sleep(0.3)
     news_all.sort(key=lambda x: x['date'], reverse=True)
 
