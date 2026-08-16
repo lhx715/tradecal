@@ -99,6 +99,15 @@ def load_sp500():
     return []
 
 
+def load_cn_names():
+    """Load ticker -> Chinese name mapping."""
+    path = os.path.join(BASE, 'cn_names.json')
+    if os.path.exists(path):
+        with open(path, encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+
 def fetch_nasdaq100():
     """Fetch Nasdaq-100 with live quotes from NASDAQ official API."""
     url = 'https://api.nasdaq.com/api/quote/list-type/nasdaq100'
@@ -214,19 +223,30 @@ def build_snapshot():
     print('Fetching Nasdaq-100...')
     nasdaq100 = fetch_nasdaq100()
 
+    # --- Chinese names ---
+    cn_names = load_cn_names()
+
     # --- S&P 500 ---
     print('Loading S&P 500 list...')
     sp500 = load_sp500()
     print(f'  {len(sp500)} symbols')
 
-    # --- S&P 500 quotes (batched, only update if no cache or fresh run) ---
+    # --- S&P 500 quotes (batched) ---
     sp500_quoted = []
     for i, s in enumerate(sp500):
         q = fetch_quote_yahoo(s['ticker'])
-        sp500_quoted.append({**s, **({'price': q['price'], 'change_pct': q['change_pct']} if q else {'price': None, 'change_pct': None})})
+        sp500_quoted.append({
+            **s,
+            'cn_name': cn_names.get(s['ticker'], ''),
+            **({'price': q['price'], 'change_pct': q['change_pct']} if q else {'price': None, 'change_pct': None}),
+        })
         if (i + 1) % 50 == 0:
             print(f'  quoted {i+1}/{len(sp500)} ({time.time()-t0:.0f}s)')
         time.sleep(0.15)
+
+    # add cn_name to nasdaq100 too
+    for s in nasdaq100:
+        s['cn_name'] = cn_names.get(s['ticker'], '')
 
     # --- News: priority tickers + top movers ---
     print('Fetching news...')
