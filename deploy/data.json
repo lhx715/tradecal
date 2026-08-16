@@ -1,0 +1,389 @@
+{
+  "generated_at": "2026-08-16 13:57:19",
+  "today": "2026-08-16",
+  "earnings_upcoming": [
+    {
+      "date": "2026-08-26",
+      "company": "英伟达",
+      "ticker": "NVDA",
+      "period": "Q2 FY2027",
+      "confidence": "confirmed",
+      "note": "AI芯片霸主，财报对纳指影响最大",
+      "days_left": 10,
+      "soon": false
+    },
+    {
+      "date": "2026-10-27",
+      "company": "谷歌",
+      "ticker": "GOOGL",
+      "period": "Q3 2026",
+      "confidence": "estimated",
+      "note": "云业务增速 + AI搜索竞争",
+      "days_left": 72,
+      "soon": false
+    },
+    {
+      "date": "2026-10-28",
+      "company": "特斯拉",
+      "ticker": "TSLA",
+      "period": "Q3 2026",
+      "confidence": "confirmed",
+      "note": "PE 300+，财报是生死局",
+      "days_left": 73,
+      "soon": false
+    },
+    {
+      "date": "2026-10-28",
+      "company": "微软",
+      "ticker": "MSFT",
+      "period": "Q3 FY2027",
+      "confidence": "estimated",
+      "note": "云+AI收入是关键",
+      "days_left": 73,
+      "soon": false
+    },
+    {
+      "date": "2026-10-28",
+      "company": "Meta",
+      "ticker": "META",
+      "period": "Q3 2026",
+      "confidence": "estimated",
+      "note": "广告 + AI资本开支指引",
+      "days_left": 73,
+      "soon": false
+    },
+    {
+      "date": "2026-10-29",
+      "company": "苹果",
+      "ticker": "AAPL",
+      "period": "Q4 FY2026",
+      "confidence": "estimated",
+      "note": "iPhone销量 + 服务收入",
+      "days_left": 74,
+      "soon": false
+    },
+    {
+      "date": "2026-10-29",
+      "company": "亚马逊",
+      "ticker": "AMZN",
+      "period": "Q3 2026",
+      "confidence": "estimated",
+      "note": "AWS增速 + 零售利润率",
+      "days_left": 74,
+      "soon": false
+    }
+  ],
+  "macro_upcoming": [
+    {
+      "date": "2026-09-04",
+      "event": "非农就业数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "就业降温=降息预期",
+      "days_left": 19,
+      "soon": false
+    },
+    {
+      "date": "2026-09-10",
+      "event": "CPI 通胀数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "关注同比是否回落",
+      "days_left": 25,
+      "soon": false
+    },
+    {
+      "date": "2026-09-15",
+      "event": "FOMC 利率决议",
+      "impact": "high",
+      "beijing_time": "09-17 02:00",
+      "note": "维持利率不变预期；附点阵图",
+      "days_left": 30,
+      "soon": false
+    },
+    {
+      "date": "2026-10-02",
+      "event": "非农就业数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "",
+      "days_left": 47,
+      "soon": false
+    },
+    {
+      "date": "2026-10-09",
+      "event": "CPI 通胀数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "Q3 通胀走势",
+      "days_left": 54,
+      "soon": false
+    },
+    {
+      "date": "2026-10-27",
+      "event": "FOMC 利率决议",
+      "impact": "high",
+      "beijing_time": "10-29 02:00",
+      "note": "",
+      "days_left": 72,
+      "soon": false
+    },
+    {
+      "date": "2026-11-06",
+      "event": "CPI 通胀数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "",
+      "days_left": 82,
+      "soon": false
+    },
+    {
+      "date": "2026-11-06",
+      "event": "非农就业数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "",
+      "days_left": 82,
+      "soon": false
+    },
+    {
+      "date": "2026-12-04",
+      "event": "非农就业数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "",
+      "days_left": 110,
+      "soon": false
+    },
+    {
+      "date": "2026-12-08",
+      "event": "FOMC 利率决议",
+      "impact": "high",
+      "beijing_time": "12-10 03:00",
+      "note": "年末会议 + 点阵图",
+      "days_left": 114,
+      "soon": false
+    },
+    {
+      "date": "2026-12-10",
+      "event": "CPI 通胀数据",
+      "impact": "high",
+      "beijing_time": "20:30",
+      "note": "",
+      "days_left": 116,
+      "soon": false
+    }
+  ],
+  "news": [
+    {
+      "ticker": "META",
+      "title": "Meta to face massive social media addiction trial Tuesday",
+      "link": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:51:41 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Heres Why Elon Musk is Pushing All-In",
+      "link": "https://247wallst.com/investing/2026/08/16/spacex-is-planning-to-spend-up-to-500-billion-on-data-centers-heres-why-elon-musk-is-pushing-all-in/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:31:55 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Heres Why Elon Musk is Pushing All-In",
+      "link": "https://247wallst.com/investing/2026/08/16/spacex-is-planning-to-spend-up-to-500-billion-on-data-centers-heres-why-elon-musk-is-pushing-all-in/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:31:55 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+      "link": "https://247wallst.com/investing/2026/08/16/after-comparing-every-dividend-etf-that-owns-the-magnificent-seven-these-3-pay-you-without-giving-up-the-ai-trade/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:27:26 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Social Security's Trump Bump-Driven 2027 COLA May Lead to a Silver Lining for the First Time Since 2023",
+      "link": "https://www.fool.com/retirement/2026/08/16/social-security-trump-bump-2027-cola-silver-lining/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:26:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Jim Cramer Says Tim Cook Built Something No Other CEO Has: A Device People Think Is Their Friend",
+      "link": "https://247wallst.com/investing/2026/08/16/jim-cramer-says-tim-cook-built-something-no-other-ceo-has-a-device-people-think-is-their-friend-2/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 13:00:01 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:30:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:30:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "The Stock Market Is About To Do Something It's Never Done This Century. History Says This Is What Happens Next (Hint: It's Bullish)",
+      "link": "https://www.fool.com/investing/2026/08/16/the-stock-market-is-about-to-do-something-for-the/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:05:00 +0000",
+      "sentiment": "bull"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's cheap-chip plan just hit a wall in Washington",
+      "link": "https://www.thestreet.com/technology/apples-cheap-chip-plan-just-hit-a-wall-in-washington?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:03:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 12:00:23 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
+      "link": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:35:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
+      "link": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:35:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Street Calls of the Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103003301.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:30:03 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+      "link": "https://www.fool.com/investing/2026/08/16/elon-musk-has-said-he-wants-25-voting-control-of-t/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:05:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:01:26 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 10:01:26 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AAPL",
+      "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 09:30:02 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft exec on Southern Europes big AI moment: skills  not technology  will determine who leads the regions AI future",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-exec-southern-europe-big-073000075.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 07:30:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-gets-fair-061049757.html?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 06:10:49 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+      "link": "https://www.fool.com/investing/2026/08/16/amazon-vs-microsoft-which-cloud-computing-behemoth/?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 04:20:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Morgan Stanley sends a blunt Tesla message to investors",
+      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-blunt-tesla-message-to-investors-robotaxi-artificial-intelligence?.tsrc=rss",
+      "date": "Sun, 16 Aug 2026 01:03:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Elon Musk's Tesla Is Ending Sweden's Longest Strike by Buying Out Every Worker Still on It",
+      "link": "https://www.fool.com/investing/2026/08/15/elon-musks-tesla-is-ending-swedens-longest-strike/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 22:46:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
+      "link": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 19:23:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
+      "link": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 19:23:00 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "META",
+      "title": "The 5 Biggest Risks Americans Dont Think About Behind the Data Center Boom",
+      "link": "https://247wallst.com/investing/2026/08/15/the-5-biggest-risks-americans-dont-think-about-behind-the-data-center-boom/?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 13:00:00 +0000",
+      "sentiment": "bear"
+    },
+    {
+      "ticker": "META",
+      "title": "How New Mexicos $567 Million Ruling Could Change Meta",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 10:25:45 +0000",
+      "sentiment": "neutral"
+    },
+    {
+      "ticker": "META",
+      "title": "Meta (META) Stock Sees Fair Value Cut As AI Spending Raises Margin Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-sees-fair-001727047.html?.tsrc=rss",
+      "date": "Sat, 15 Aug 2026 00:17:27 +0000",
+      "sentiment": "neutral"
+    }
+  ],
+  "market": {
+    "ndx": {
+      "close": 30046.14,
+      "change_pct": -0.13
+    },
+    "vix": {
+      "close": 14.25,
+      "change_pct": -2.6
+    },
+    "irx": {
+      "close": 3.7,
+      "change_pct": -0.22
+    }
+  }
+}
