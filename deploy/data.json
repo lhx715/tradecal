@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23 01:28:23",
-  "today": "2026-08-23",
+  "generated_at": "2026-08-24 01:26:02",
+  "today": "2026-08-24",
   "nasdaq100": [
     {
       "ticker": "AAPL",
@@ -4938,15 +4938,16 @@
     },
     {
       "ticker": "NVDA",
-      "title": "Senators Plan a Clarity Act Vote on Sept. 15. What Happens Next for Crypto?",
-      "link": "https://www.fool.com/investing/2026/08/22/senators-plan-a-clarity-act-vote-on-sept-15/?.tsrc=rss",
-      "date": "Sun, 23 Aug 2026 01:11:00 +0000",
+      "title": "Goldman Sachs spots huge twist ahead of Nvidias earnings",
+      "link": "https://www.thestreet.com/investing/goldman-sachs-reiterates-buy-nvidia-ahead-of-q2-fy27-earnings?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 22:17:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "NVDA"
+        "NVDA",
+        "GS"
       ],
-      "impact": "low",
+      "impact": "high",
       "ai": false,
       "impacts": [
         {
@@ -4958,22 +4959,381 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "Cisco & Cerebras Orders Up, Stocks Down",
-      "link": "https://www.fool.com/investing/2026/08/22/cisco-cerebras-orders-up-stocks-down/?.tsrc=rss",
-      "date": "Sun, 23 Aug 2026 00:33:43 +0000",
+      "ticker": "TSLA",
+      "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
+      "link": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 21:56:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "CSCO"
+        "TSLA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
+      "link": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 20:38:55 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+      "link": "https://www.fool.com/investing/2026/08/23/oracle-vs-amazon-which-is-the-better-ai-cloud-stoc/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 20:13:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN",
+        "ORCL"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "title": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
+      "link": "https://www.barchart.com/story/news/3993774/how-to-play-mrvl-stock-now-as-marvell-technology-expands-its-relationship-with-google?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 18:30:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NVDA",
+          "ticker": "MRVL",
           "score": 0.0,
           "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon's hidden outlet store has cooling blankets up to 76% off",
+      "link": "https://www.thestreet.com/shopping/cooling-blanket-deals-at-amazon-hidden-outlet?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 18:30:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Will Meta be found guilty of driving social media addiction?",
+      "link": "https://www.socialmediatoday.com/news/will-meta-be-found-guilty-of-driving-social-media-addiction/828553/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 17:50:41 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 17:07:38 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "title": "Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks",
+      "link": "https://beincrypto.com/trump-june-trades-crypto-disclosure-filing/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 16:02:52 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSTR"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSTR",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+      "link": "https://247wallst.com/investing/2026/08/23/this-is-one-of-the-cheapest-magnificent-seven-stocks-right-now/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 15:00:54 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Nvidias 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+      "link": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 14:43:54 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
+      "link": "https://247wallst.com/investing/2026/08/23/trump-continues-trading-stocks-at-warp-speed-berkshire-bought-meta-sold/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 13:44:53 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond",
+      "link": "https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 11:50:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "META",
+        "INTC"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030",
+      "link": "https://www.fool.com/investing/2026/08/23/microsoft-stock-dropped-30-from-its-all-time-high/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 11:44:00 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "4 Low-Cost ETFs Every Investor Should Own",
+      "link": "https://247wallst.com/investing/2026/08/23/4-low-cost-etfs-every-investor-should-own/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 11:00:29 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
+      "link": "https://www.fool.com/investing/2026/08/23/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 09:35:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
+      "link": "https://www.fool.com/investing/2026/08/23/mark-zuckerberg-published-a-6500-word-ai-manifesto/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 04:20:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+      "link": "https://www.fool.com/investing/2026/08/22/apple-cut-its-standard-eu-app-store-commission-from-30-to-26/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 03:43:01 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+      "link": "https://www.fool.com/investing/2026/08/22/palantir-keeps-55-cents-of-every-revenue-dollar-as-profit/?.tsrc=rss",
+      "date": "Sun, 23 Aug 2026 01:58:01 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "PLTR"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "PLTR",
+          "score": 1.0,
+          "direction": "bull",
           "reason": "关键词规则"
         }
       ]
@@ -5001,28 +5361,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesnt Need Anyone But Elon Musk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-nvidia-corp-002234481.html?.tsrc=rss",
-      "date": "Sun, 23 Aug 2026 00:22:34 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "NDX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "ROST",
       "title": "Jim Cramer Discussed Ross Stores, Inc. (NASDAQ:ROST) & TJX",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-ross-stores-000430021.html?.tsrc=rss",
@@ -5037,27 +5375,6 @@
       "impacts": [
         {
           "ticker": "ROST",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Has Wall Street Entered the \"Show Me\" Phase of AI?",
-      "link": "https://www.fool.com/investing/2026/08/22/has-wall-street-entered-the-show-me-phase-of-ai/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 23:41:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5107,28 +5424,6 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on PlatformFSD V15 a Step-Change From Previous Versions",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 21:31:47 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA",
-        "JPM"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "ROST",
       "title": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
       "link": "https://www.fool.com/investing/2026/08/22/ross-stores-grew-comparable-sales-10-tjx-grew-4-only-one-stock-went-up/?.tsrc=rss",
@@ -5150,52 +5445,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
-      "link": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 19:59:00 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AAPL",
-        "META",
-        "INTC"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
-      "link": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 19:59:00 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AAPL",
-        "META",
-        "INTC"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "MRVL",
       "title": "Marvell investors must carefully consider latest Google deal",
       "link": "https://www.thestreet.com/investing/stocks/mrvl-marvell-google-custom-chip-deal-warrant?.tsrc=rss",
@@ -5210,156 +5459,6 @@
       "impacts": [
         {
           "ticker": "MRVL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
-      "link": "https://www.fool.com/investing/2026/08/22/amazon-custom-chip-business-25-billion-buy/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 18:53:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
-      "link": "https://www.fool.com/investing/2026/08/22/ive-held-microsoft-for-10-years-and-im-not-selling/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 18:33:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Will Apples risk appetite change under John Ternus?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-risk-appetite-change-under-173456162.html?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 17:34:56 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla (TSLA) Is Recalling Nearly 3 Million Vehicles In China",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalling-nearly-3-170809617.html?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 17:08:09 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Microsoft Has Something Nvidia Doesnt and Heres Why it Matters",
-      "link": "https://247wallst.com/investing/2026/08/22/microsoft-has-something-nvidia-doesnt-and-heres-why-it-matters/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 17:00:29 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "AIs Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex",
-      "link": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 16:27:09 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Booms Hidden Ledger",
-      "link": "https://247wallst.com/investing/2026/08/17/alphabet-meta-and-microsoft-are-hiding-3-trillion-in-debt-on-the-ai-booms-hidden-ledger/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 15:52:40 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT",
-        "GOOGL",
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5388,69 +5487,6 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-      "link": "https://www.fool.com/investing/2026/08/22/teslas-model-y-l-is-coming-to-america-will-it-reig/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 15:35:00 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
-      "link": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 14:29:51 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
-      "link": "https://247wallst.com/investing/2026/08/22/amazon-stock-is-historically-cheap-is-this-a-once-in-a-decade-buying-opportunity/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 13:30:46 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "PLTR",
       "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
       "link": "https://finance.yahoo.com/m/9057af07-60ab-3c1c-b640-407251f6e2fc/palantir%2C-freeport-clear-buy.html?.tsrc=rss",
@@ -5467,27 +5503,6 @@
           "ticker": "PLTR",
           "score": 1.0,
           "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "3 AI Stocks Built for the Next Decade",
-      "link": "https://247wallst.com/investing/2026/08/22/3-ai-stocks-built-for-the-next-decade/?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 11:00:30 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
           "reason": "关键词规则"
         }
       ]
@@ -5528,27 +5543,6 @@
       "impacts": [
         {
           "ticker": "ROST",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
-      "link": "https://finance.yahoo.com/m/15f4be10-794f-3af8-971b-4ab2a6b4fd18/the-ai-spending-boom-is.html?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 05:00:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5598,20 +5592,105 @@
       ]
     },
     {
-      "ticker": "MRVL",
-      "title": "Marvell vs. Broadcom: the custom silicon shift",
-      "link": "https://www.thestreet.com/technology/marvell-google-broadcom-custom-silicon-shift?.tsrc=rss",
-      "date": "Sat, 22 Aug 2026 00:37:00 +0000",
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss",
+      "date": "Mon, 24 Aug 2026 01:18:27 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "AVGO"
+        "NVDA",
+        "SPX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla just set a date for its riskiest launch yet",
+      "link": "https://www.thestreet.com/automotive/tesla-just-set-a-date-for-its-riskiest-launch-yet?.tsrc=rss",
+      "date": "Mon, 24 Aug 2026 01:03:00 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
+      "link": "https://www.fool.com/investing/2026/08/23/ups-stopped-carrying-2-million-amazon-packages-a-day-amazon-still-has-to-move-them/?.tsrc=rss",
+      "date": "Mon, 24 Aug 2026 00:34:01 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "MRVL",
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Growth Stocks That Could Skyrocket in the Second Half of 2026",
+      "link": "https://www.fool.com/investing/2026/08/23/3-growth-stocks-that-could-skyrocket-in-the-second/?.tsrc=rss",
+      "date": "Mon, 24 Aug 2026 00:32:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+      "link": "https://finance.yahoo.com/video/nvidia-notifies-customers-ai-related-003033419.html?.tsrc=rss",
+      "date": "Mon, 24 Aug 2026 00:30:33 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5661,28 +5740,6 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "title": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
-      "link": "https://www.barchart.com/story/news/3979328/microsoft-vs-broadcom-one-has-85-upside-but-i-m-picking-the-other?.tsrc=rss",
-      "date": "Fri, 21 Aug 2026 23:00:02 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT",
-        "AVGO"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "ROST",
       "title": "Why Ross Stores Stock Is Up Today",
       "link": "https://www.fool.com/investing/2026/08/21/why-ross-stores-stock-is-up-today/?.tsrc=rss",
@@ -5699,28 +5756,6 @@
           "ticker": "ROST",
           "score": 0.0,
           "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html?.tsrc=rss",
-      "date": "Fri, 21 Aug 2026 20:13:09 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT",
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": -1.0,
-          "direction": "bear",
           "reason": "关键词规则"
         }
       ]
@@ -5789,48 +5824,6 @@
       ]
     },
     {
-      "ticker": "MSTR",
-      "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
-      "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies?.tsrc=rss",
-      "date": "Fri, 21 Aug 2026 17:28:55 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSTR"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSTR",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "title": "Even The Calm Reading On Palantir Puts Nearly Half The Position In Play",
-      "link": "https://www.trefis.com/articles/612387/even-the-calm-reading-on-palantir-puts-nearly-half-the-position-in-play/2026-08-21?.tsrc=rss",
-      "date": "Fri, 21 Aug 2026 17:27:17 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "PLTR"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PLTR",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "AEP",
       "title": "Carl Icahn Trims Stakes in JetBlue and American Electric Power",
       "link": "https://finance.yahoo.com/m/cf7eb2dd-3b27-3378-ad9e-48917e140439/carl-icahn-trims-stakes-in.html?.tsrc=rss",
@@ -5881,7 +5874,7 @@
       "period": "Q2 FY2027",
       "confidence": "confirmed",
       "note": "AI芯片霸主，财报对纳指影响最大",
-      "days_left": 3,
+      "days_left": 2,
       "soon": true
     },
     {
@@ -5891,7 +5884,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "云业务增速 + AI搜索竞争",
-      "days_left": 65,
+      "days_left": 64,
       "soon": false
     },
     {
@@ -5901,7 +5894,7 @@
       "period": "Q3 2026",
       "confidence": "confirmed",
       "note": "PE 300+，财报是生死局",
-      "days_left": 66,
+      "days_left": 65,
       "soon": false
     },
     {
@@ -5911,7 +5904,7 @@
       "period": "Q3 FY2027",
       "confidence": "estimated",
       "note": "云+AI收入是关键",
-      "days_left": 66,
+      "days_left": 65,
       "soon": false
     },
     {
@@ -5921,7 +5914,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "广告 + AI资本开支指引",
-      "days_left": 66,
+      "days_left": 65,
       "soon": false
     },
     {
@@ -5931,7 +5924,7 @@
       "period": "Q4 FY2026",
       "confidence": "estimated",
       "note": "iPhone销量 + 服务收入",
-      "days_left": 67,
+      "days_left": 66,
       "soon": false
     },
     {
@@ -5941,7 +5934,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "AWS增速 + 零售利润率",
-      "days_left": 67,
+      "days_left": 66,
       "soon": false
     }
   ],
@@ -5952,7 +5945,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "就业降温=降息预期",
-      "days_left": 12,
+      "days_left": 11,
       "soon": false
     },
     {
@@ -5961,7 +5954,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "关注同比是否回落",
-      "days_left": 18,
+      "days_left": 17,
       "soon": false
     },
     {
@@ -5970,7 +5963,7 @@
       "impact": "high",
       "beijing_time": "09-17 02:00",
       "note": "维持利率不变预期；附点阵图",
-      "days_left": 23,
+      "days_left": 22,
       "soon": false
     },
     {
@@ -5979,7 +5972,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 40,
+      "days_left": 39,
       "soon": false
     },
     {
@@ -5988,7 +5981,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "Q3 通胀走势",
-      "days_left": 47,
+      "days_left": 46,
       "soon": false
     },
     {
@@ -5997,7 +5990,7 @@
       "impact": "high",
       "beijing_time": "10-29 02:00",
       "note": "",
-      "days_left": 65,
+      "days_left": 64,
       "soon": false
     },
     {
@@ -6006,7 +5999,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 75,
+      "days_left": 74,
       "soon": false
     },
     {
@@ -6015,7 +6008,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 75,
+      "days_left": 74,
       "soon": false
     },
     {
@@ -6024,7 +6017,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 103,
+      "days_left": 102,
       "soon": false
     },
     {
@@ -6033,7 +6026,7 @@
       "impact": "high",
       "beijing_time": "12-10 03:00",
       "note": "年末会议 + 点阵图",
-      "days_left": 107,
+      "days_left": 106,
       "soon": false
     },
     {
@@ -6042,7 +6035,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 109,
+      "days_left": 108,
       "soon": false
     }
   ],
