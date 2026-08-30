@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29 06:11:47",
-  "today": "2026-08-29",
+  "generated_at": "2026-08-30 04:19:32",
+  "today": "2026-08-30",
   "nasdaq100": [
     {
       "ticker": "AAPL",
@@ -927,272 +927,272 @@
       "name": "3M",
       "sector": "Industrials",
       "cn_name": "3M",
-      "price": 178.83,
-      "change_pct": -0.65
+      "price": 174.34,
+      "change_pct": -2.51
     },
     {
       "ticker": "AOS",
       "name": "A. O. Smith",
       "sector": "Industrials",
       "cn_name": "A.O.史密斯",
-      "price": 61.95,
-      "change_pct": -0.85
+      "price": 60.38,
+      "change_pct": -2.53
     },
     {
       "ticker": "ABT",
       "name": "Abbott Laboratories",
       "sector": "Health Care",
       "cn_name": "雅培",
-      "price": 111.59,
-      "change_pct": -2.2
+      "price": 112.47,
+      "change_pct": 0.79
     },
     {
       "ticker": "ABBV",
       "name": "AbbVie",
       "sector": "Health Care",
       "cn_name": "艾伯维",
-      "price": 258.15,
-      "change_pct": -1.81
+      "price": 255.48,
+      "change_pct": -1.03
     },
     {
       "ticker": "ACN",
       "name": "Accenture",
       "sector": "Information Technology",
       "cn_name": "埃森哲",
-      "price": 187.38,
-      "change_pct": 3.31
+      "price": 189.61,
+      "change_pct": 1.19
     },
     {
       "ticker": "AES",
       "name": "AES Corporation",
       "sector": "Utilities",
       "cn_name": "爱依斯",
-      "price": 14.75,
-      "change_pct": 0.14
+      "price": 14.73,
+      "change_pct": -0.14
     },
     {
       "ticker": "AFL",
       "name": "Aflac",
       "sector": "Financials",
       "cn_name": "美国家庭寿险",
-      "price": 116.58,
-      "change_pct": -0.74
+      "price": 116.52,
+      "change_pct": -0.05
     },
     {
       "ticker": "A",
       "name": "Agilent Technologies",
       "sector": "Health Care",
       "cn_name": "安捷伦科技",
-      "price": 157.69,
-      "change_pct": 1.68
+      "price": 153.84,
+      "change_pct": -2.44
     },
     {
       "ticker": "APD",
       "name": "Air Products",
       "sector": "Materials",
       "cn_name": "空气化工",
-      "price": 305.47,
-      "change_pct": -0.39
+      "price": 308.09,
+      "change_pct": 0.86
     },
     {
       "ticker": "ALB",
       "name": "Albemarle Corporation",
       "sector": "Materials",
       "cn_name": "雅保化工",
-      "price": 135.77,
-      "change_pct": 0.94
+      "price": 137.36,
+      "change_pct": 1.17
     },
     {
       "ticker": "ARE",
       "name": "Alexandria Real Estate Equities",
       "sector": "Real Estate",
       "cn_name": "亚历山大房地产",
-      "price": 52.28,
-      "change_pct": -1.3
+      "price": 51.57,
+      "change_pct": -1.36
     },
     {
       "ticker": "ALLE",
       "name": "Allegion",
       "sector": "Industrials",
       "cn_name": "安朗杰",
-      "price": 159.72,
-      "change_pct": -0.35
+      "price": 157.48,
+      "change_pct": -1.4
     },
     {
       "ticker": "ALL",
       "name": "Allstate",
       "sector": "Financials",
       "cn_name": "好事达",
-      "price": 257.62,
-      "change_pct": -1.6
+      "price": 260.58,
+      "change_pct": 1.15
     },
     {
       "ticker": "MO",
       "name": "Altria",
       "sector": "Consumer Staples",
       "cn_name": "奥驰亚",
-      "price": 67.67,
-      "change_pct": -2.1
+      "price": 68.65,
+      "change_pct": 1.45
     },
     {
       "ticker": "AMCR",
       "name": "Amcor",
       "sector": "Materials",
       "cn_name": "AMCOR PLC",
-      "price": 46.52,
-      "change_pct": -1.34
+      "price": 46.67,
+      "change_pct": 0.32
     },
     {
       "ticker": "AEE",
       "name": "Ameren",
       "sector": "Utilities",
       "cn_name": "阿美能",
-      "price": 106.75,
-      "change_pct": -0.93
+      "price": 106.12,
+      "change_pct": -0.59
     },
     {
       "ticker": "AXP",
       "name": "American Express",
       "sector": "Financials",
       "cn_name": "美国运通",
-      "price": 334.16,
-      "change_pct": -0.59
+      "price": 333.2,
+      "change_pct": -0.29
     },
     {
       "ticker": "AIG",
       "name": "American International Group",
       "sector": "Financials",
       "cn_name": "美国国际集团",
-      "price": 76.63,
-      "change_pct": -0.44
+      "price": 76.93,
+      "change_pct": 0.39
     },
     {
       "ticker": "AMT",
       "name": "American Tower",
       "sector": "Real Estate",
       "cn_name": "美国电塔",
-      "price": 174.16,
-      "change_pct": -0.89
+      "price": 176.23,
+      "change_pct": 1.19
     },
     {
       "ticker": "AWK",
       "name": "American Water Works",
       "sector": "Utilities",
       "cn_name": "美国水务",
-      "price": 136.69,
-      "change_pct": -0.58
+      "price": 138.3,
+      "change_pct": 1.18
     },
     {
       "ticker": "AMP",
       "name": "Ameriprise Financial",
       "sector": "Financials",
       "cn_name": "阿默斯莱斯金融",
-      "price": 555.77,
-      "change_pct": -0.8
+      "price": 559.32,
+      "change_pct": 0.64
     },
     {
       "ticker": "AME",
       "name": "Ametek",
       "sector": "Industrials",
       "cn_name": "阿美特克",
-      "price": 243.67,
-      "change_pct": -0.62
+      "price": 236.25,
+      "change_pct": -3.05
     },
     {
       "ticker": "APH",
       "name": "Amphenol",
       "sector": "Information Technology",
       "cn_name": "安费诺",
-      "price": 161.38,
-      "change_pct": 0.02
+      "price": 157.74,
+      "change_pct": -2.26
     },
     {
       "ticker": "AON",
       "name": "Aon (company)",
       "sector": "Financials",
       "cn_name": "怡安保险",
-      "price": 349.56,
-      "change_pct": -1.25
+      "price": 355.4,
+      "change_pct": 1.67
     },
     {
       "ticker": "APO",
       "name": "Apollo Global Management",
       "sector": "Financials",
       "cn_name": "阿波罗全球管理",
-      "price": 133.44,
-      "change_pct": -0.17
+      "price": 135.04,
+      "change_pct": 1.2
     },
     {
       "ticker": "APTV",
       "name": "Aptiv",
       "sector": "Consumer Discretionary",
       "cn_name": "Aptiv PLC",
-      "price": 45.44,
-      "change_pct": -1.79
+      "price": 45.75,
+      "change_pct": 0.68
     },
     {
       "ticker": "ADM",
       "name": "Archer Daniels Midland",
       "sector": "Consumer Staples",
       "cn_name": "阿彻丹尼尔斯米德兰公司",
-      "price": 79.1,
-      "change_pct": -1.24
+      "price": 81.54,
+      "change_pct": 3.08
     },
     {
       "ticker": "ARES",
       "name": "Ares Management",
       "sector": "Financials",
       "cn_name": "ARES",
-      "price": 142.41,
-      "change_pct": 0.3
+      "price": 142.53,
+      "change_pct": 0.08
     },
     {
       "ticker": "ANET",
       "name": "Arista Networks",
       "sector": "Information Technology",
       "cn_name": "ANET",
-      "price": 201.09,
-      "change_pct": -0.57
+      "price": 195.38,
+      "change_pct": -2.84
     },
     {
       "ticker": "AJG",
       "name": "Arthur J. Gallagher & Co.",
       "sector": "Financials",
       "cn_name": "亚瑟加拉格尔有限公司",
-      "price": 260.15,
-      "change_pct": -1.84
+      "price": 267.56,
+      "change_pct": 2.85
     },
     {
       "ticker": "AIZ",
       "name": "Assurant",
       "sector": "Financials",
       "cn_name": "艾斯兰",
-      "price": 285.41,
-      "change_pct": -1.07
+      "price": 285.65,
+      "change_pct": 0.08
     },
     {
       "ticker": "T",
       "name": "AT&T",
       "sector": "Communication Services",
       "cn_name": "美国电话电报",
-      "price": 25.43,
-      "change_pct": -1.7
+      "price": 26.01,
+      "change_pct": 2.28
     },
     {
       "ticker": "ATO",
       "name": "Atmos Energy",
       "sector": "Utilities",
       "cn_name": "ATMOS能源公司",
-      "price": 167.22,
-      "change_pct": -1.32
+      "price": 166.65,
+      "change_pct": -0.34
     },
     {
       "ticker": "AZO",
       "name": "AutoZone",
       "sector": "Consumer Discretionary",
       "cn_name": "汽车地带",
-      "price": 2932.33,
-      "change_pct": -2.22
+      "price": 2961.96,
+      "change_pct": 1.01
     },
     {
       "ticker": "AVB",
@@ -1207,655 +1207,655 @@
       "name": "Avery Dennison",
       "sector": "Materials",
       "cn_name": "艾利",
-      "price": 178.34,
-      "change_pct": -2.19
+      "price": 177.75,
+      "change_pct": -0.33
     },
     {
       "ticker": "BALL",
       "name": "Ball Corporation",
       "sector": "Materials",
       "cn_name": "BALL",
-      "price": 63.37,
-      "change_pct": -1.06
+      "price": 63.77,
+      "change_pct": 0.63
     },
     {
       "ticker": "BAC",
       "name": "Bank of America",
       "sector": "Financials",
       "cn_name": "美国银行",
-      "price": 61.17,
-      "change_pct": -1.7
+      "price": 62.32,
+      "change_pct": 1.88
     },
     {
       "ticker": "BAX",
       "name": "Baxter International",
       "sector": "Health Care",
       "cn_name": "百特国际",
-      "price": 25.93,
-      "change_pct": -2.15
+      "price": 26.13,
+      "change_pct": 0.77
     },
     {
       "ticker": "BDX",
       "name": "BD (company)",
       "sector": "Health Care",
       "cn_name": "碧迪",
-      "price": 188.13,
-      "change_pct": -1.09
+      "price": 189.52,
+      "change_pct": 0.74
     },
     {
       "ticker": "BBY",
       "name": "Best Buy",
       "sector": "Consumer Discretionary",
       "cn_name": "百思买",
-      "price": 83.56,
-      "change_pct": -4.44
+      "price": 82.44,
+      "change_pct": -1.34
     },
     {
       "ticker": "BLK",
       "name": "BlackRock",
       "sector": "Financials",
       "cn_name": "贝莱德",
-      "price": 1167.57,
-      "change_pct": -0.48
+      "price": 1164.48,
+      "change_pct": -0.26
     },
     {
       "ticker": "BX",
       "name": "Blackstone Inc.",
       "sector": "Financials",
       "cn_name": "黑石",
-      "price": 143.64,
-      "change_pct": 0.31
+      "price": 142.39,
+      "change_pct": -0.87
     },
     {
       "ticker": "XYZ",
       "name": "Block, Inc.",
       "sector": "Financials",
       "cn_name": "XYZ",
-      "price": 84.85,
-      "change_pct": 2.11
+      "price": 83.57,
+      "change_pct": -1.51
     },
     {
       "ticker": "BNY",
       "name": "BNY",
       "sector": "Financials",
       "cn_name": "纽约梅隆银行",
-      "price": 162.24,
-      "change_pct": -0.52
+      "price": 162.5,
+      "change_pct": 0.16
     },
     {
       "ticker": "BA",
       "name": "Boeing",
       "sector": "Industrials",
       "cn_name": "波音",
-      "price": 209.89,
-      "change_pct": -1.04
+      "price": 209.82,
+      "change_pct": -0.03
     },
     {
       "ticker": "BSX",
       "name": "Boston Scientific",
       "sector": "Health Care",
       "cn_name": "波士顿科学",
-      "price": 46.67,
-      "change_pct": -3.11
+      "price": 46.84,
+      "change_pct": 0.36
     },
     {
       "ticker": "BMY",
       "name": "Bristol Myers Squibb",
       "sector": "Health Care",
       "cn_name": "施贵宝",
-      "price": 66.95,
-      "change_pct": -0.92
+      "price": 66.58,
+      "change_pct": -0.55
     },
     {
       "ticker": "BR",
       "name": "Broadridge Financial Solutions",
       "sector": "Industrials",
       "cn_name": "布罗德里奇",
-      "price": 183.08,
-      "change_pct": 0.81
+      "price": 183.64,
+      "change_pct": 0.31
     },
     {
       "ticker": "BRO",
       "name": "Brown & Brown",
       "sector": "Financials",
       "cn_name": "布朗保险经纪",
-      "price": 71.39,
-      "change_pct": -1.91
+      "price": 73.31,
+      "change_pct": 2.69
     },
     {
       "ticker": "BLDR",
       "name": "Builders FirstSource",
       "sector": "Industrials",
       "cn_name": "Builders FirstSource",
-      "price": 67.21,
-      "change_pct": -2.13
+      "price": 67.72,
+      "change_pct": 0.76
     },
     {
       "ticker": "BG",
       "name": "Bunge Global",
       "sector": "Consumer Staples",
       "cn_name": "邦吉",
-      "price": 111.57,
-      "change_pct": -1.48
+      "price": 115.48,
+      "change_pct": 3.5
     },
     {
       "ticker": "BXP",
       "name": "BXP, Inc.",
       "sector": "Real Estate",
       "cn_name": "波士顿物产",
-      "price": 69.97,
-      "change_pct": -0.47
+      "price": 69.32,
+      "change_pct": -0.93
     },
     {
       "ticker": "CPT",
       "name": "Camden Property Trust",
       "sector": "Real Estate",
       "cn_name": "卡姆登物业信托",
-      "price": 105.79,
-      "change_pct": -1.69
+      "price": 106.35,
+      "change_pct": 0.53
     },
     {
       "ticker": "COF",
       "name": "Capital One",
       "sector": "Financials",
       "cn_name": "第一资本",
-      "price": 216.67,
-      "change_pct": -0.25
+      "price": 215.67,
+      "change_pct": -0.46
     },
     {
       "ticker": "CAH",
       "name": "Cardinal Health",
       "sector": "Health Care",
       "cn_name": "卡地纳",
-      "price": 235.13,
-      "change_pct": -1.37
+      "price": 234.55,
+      "change_pct": -0.25
     },
     {
       "ticker": "CCL",
       "name": "Carnival Corporation",
       "sector": "Consumer Discretionary",
       "cn_name": "嘉年华",
-      "price": 24.95,
-      "change_pct": -2.5
+      "price": 24.76,
+      "change_pct": -0.76
     },
     {
       "ticker": "CARR",
       "name": "Carrier Global",
       "sector": "Industrials",
       "cn_name": "CARR",
-      "price": 58.84,
-      "change_pct": 0.17
+      "price": 58.79,
+      "change_pct": -0.08
     },
     {
       "ticker": "CVNA",
       "name": "Carvana",
       "sector": "Consumer Discretionary",
       "cn_name": "Carvana Co.",
-      "price": 74.09,
-      "change_pct": 0.19
+      "price": 74.04,
+      "change_pct": -0.07
     },
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
       "sector": "Industrials",
       "cn_name": "卡特彼勒",
-      "price": 817.0,
-      "change_pct": -0.6
+      "price": 800.25,
+      "change_pct": -2.05
     },
     {
       "ticker": "CBRE",
       "name": "CBRE Group",
       "sector": "Real Estate",
       "cn_name": "CBRE Group Inc  Class A",
-      "price": 147.22,
-      "change_pct": -2.09
+      "price": 150.82,
+      "change_pct": 2.45
     },
     {
       "ticker": "COR",
       "name": "Cencora",
       "sector": "Health Care",
       "cn_name": "CoreSite房产",
-      "price": 321.23,
-      "change_pct": -2.0
+      "price": 322.03,
+      "change_pct": 0.25
     },
     {
       "ticker": "CNC",
       "name": "Centene Corporation",
       "sector": "Health Care",
       "cn_name": "Centene Corp",
-      "price": 65.33,
-      "change_pct": -0.21
+      "price": 64.75,
+      "change_pct": -0.89
     },
     {
       "ticker": "CNP",
       "name": "CenterPoint Energy",
       "sector": "Utilities",
       "cn_name": "中点能源",
-      "price": 39.29,
-      "change_pct": -0.76
+      "price": 39.24,
+      "change_pct": -0.13
     },
     {
       "ticker": "CF",
       "name": "CF Industries",
       "sector": "Materials",
       "cn_name": "CF实业",
-      "price": 125.71,
-      "change_pct": 0.01
+      "price": 125.79,
+      "change_pct": 0.06
     },
     {
       "ticker": "CRL",
       "name": "Charles River Laboratories",
       "sector": "Health Care",
       "cn_name": "查尔斯河实验室",
-      "price": 296.41,
-      "change_pct": 0.44
+      "price": 291.5,
+      "change_pct": -1.66
     },
     {
       "ticker": "SCHW",
       "name": "Charles Schwab Corporation",
       "sector": "Financials",
       "cn_name": "嘉信理财",
-      "price": 108.05,
-      "change_pct": -1.22
+      "price": 110.16,
+      "change_pct": 1.95
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
       "sector": "Energy",
       "cn_name": "雪佛龙",
-      "price": 199.77,
-      "change_pct": -0.22
+      "price": 201.86,
+      "change_pct": 1.05
     },
     {
       "ticker": "CMG",
       "name": "Chipotle Mexican Grill",
       "sector": "Consumer Discretionary",
       "cn_name": "墨式烧烤",
-      "price": 37.22,
-      "change_pct": -0.32
+      "price": 38.03,
+      "change_pct": 2.18
     },
     {
       "ticker": "CB",
       "name": "Chubb Limited",
       "sector": "Financials",
       "cn_name": "安达保险",
-      "price": 338.31,
-      "change_pct": -1.59
+      "price": 339.92,
+      "change_pct": 0.48
     },
     {
       "ticker": "CHD",
       "name": "Church & Dwight",
       "sector": "Consumer Staples",
       "cn_name": "丘奇＆德怀特",
-      "price": 102.37,
-      "change_pct": -0.48
+      "price": 101.26,
+      "change_pct": -1.08
     },
     {
       "ticker": "CIEN",
       "name": "Ciena",
       "sector": "Information Technology",
       "cn_name": "Ciena科技",
-      "price": 399.85,
-      "change_pct": -1.03
+      "price": 378.44,
+      "change_pct": -5.35
     },
     {
       "ticker": "CI",
       "name": "Cigna",
       "sector": "Health Care",
       "cn_name": "信诺",
-      "price": 277.67,
-      "change_pct": -1.14
+      "price": 278.88,
+      "change_pct": 0.44
     },
     {
       "ticker": "C",
       "name": "Citigroup",
       "sector": "Financials",
       "cn_name": "花旗",
-      "price": 132.68,
-      "change_pct": -0.66
+      "price": 132.9,
+      "change_pct": 0.17
     },
     {
       "ticker": "CFG",
       "name": "Citizens Financial Group",
       "sector": "Financials",
       "cn_name": "CFG",
-      "price": 70.18,
-      "change_pct": -0.44
+      "price": 69.71,
+      "change_pct": -0.67
     },
     {
       "ticker": "CLX",
       "name": "Clorox",
       "sector": "Consumer Staples",
       "cn_name": "高乐氏",
-      "price": 103.63,
-      "change_pct": -0.58
+      "price": 102.53,
+      "change_pct": -1.06
     },
     {
       "ticker": "CMS",
       "name": "CMS Energy",
       "sector": "Utilities",
       "cn_name": "CMS能源",
-      "price": 68.35,
-      "change_pct": -1.27
+      "price": 68.21,
+      "change_pct": -0.2
     },
     {
       "ticker": "KO",
       "name": "The Coca-Cola Company",
       "sector": "Consumer Staples",
       "cn_name": "可口可乐",
-      "price": 89.06,
-      "change_pct": -1.13
+      "price": 89.66,
+      "change_pct": 0.67
     },
     {
       "ticker": "COHR",
       "name": "Coherent Corp.",
       "sector": "Information Technology",
       "cn_name": "COHR",
-      "price": 295.39,
-      "change_pct": 0.35
+      "price": 279.2,
+      "change_pct": -5.48
     },
     {
       "ticker": "CL",
       "name": "Colgate-Palmolive",
       "sector": "Consumer Staples",
       "cn_name": "高露洁",
-      "price": 90.96,
-      "change_pct": -1.19
+      "price": 90.75,
+      "change_pct": -0.23
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
       "sector": "Industrials",
       "cn_name": "Comfort Systems USA",
-      "price": 1614.98,
-      "change_pct": -0.04
+      "price": 1518.73,
+      "change_pct": -5.96
     },
     {
       "ticker": "COP",
       "name": "ConocoPhillips",
       "sector": "Energy",
       "cn_name": "康菲石油",
-      "price": 129.52,
-      "change_pct": -0.83
+      "price": 130.35,
+      "change_pct": 0.64
     },
     {
       "ticker": "ED",
       "name": "Consolidated Edison",
       "sector": "Utilities",
       "cn_name": "爱迪生联合电气",
-      "price": 106.69,
-      "change_pct": -1.26
+      "price": 107.49,
+      "change_pct": 0.75
     },
     {
       "ticker": "STZ",
       "name": "Constellation Brands",
       "sector": "Consumer Staples",
       "cn_name": "星座",
-      "price": 131.43,
-      "change_pct": -2.25
+      "price": 130.69,
+      "change_pct": -0.56
     },
     {
       "ticker": "GLW",
       "name": "Corning Inc.",
       "sector": "Information Technology",
       "cn_name": "康宁",
-      "price": 152.8,
-      "change_pct": 0.01
+      "price": 148.98,
+      "change_pct": -2.5
     },
     {
       "ticker": "CPAY",
       "name": "Corpay",
       "sector": "Financials",
       "cn_name": "CPAY",
-      "price": 403.67,
-      "change_pct": -0.8
+      "price": 407.88,
+      "change_pct": 1.04
     },
     {
       "ticker": "CTVA",
       "name": "Corteva",
       "sector": "Materials",
       "cn_name": "科迪华",
-      "price": 82.4,
-      "change_pct": -0.58
+      "price": 83.9,
+      "change_pct": 1.82
     },
     {
       "ticker": "CRH",
       "name": "CRH plc",
       "sector": "Materials",
       "cn_name": "CRH水泥",
-      "price": 95.58,
-      "change_pct": -1.51
+      "price": 95.86,
+      "change_pct": 0.29
     },
     {
       "ticker": "CCI",
       "name": "Crown Castle",
       "sector": "Real Estate",
       "cn_name": "冠城",
-      "price": 75.03,
-      "change_pct": -0.68
+      "price": 76.14,
+      "change_pct": 1.48
     },
     {
       "ticker": "CMI",
       "name": "Cummins",
       "sector": "Industrials",
       "cn_name": "康明斯",
-      "price": 573.87,
-      "change_pct": -0.74
+      "price": 564.85,
+      "change_pct": -1.57
     },
     {
       "ticker": "CVS",
       "name": "CVS Health",
       "sector": "Health Care",
       "cn_name": "西维斯健康",
-      "price": 92.92,
-      "change_pct": -1.48
+      "price": 93.06,
+      "change_pct": 0.15
     },
     {
       "ticker": "DHR",
       "name": "Danaher Corporation",
       "sector": "Health Care",
       "cn_name": "丹纳赫",
-      "price": 215.68,
-      "change_pct": 0.15
+      "price": 216.07,
+      "change_pct": 0.18
     },
     {
       "ticker": "DRI",
       "name": "Darden Restaurants",
       "sector": "Consumer Discretionary",
       "cn_name": "达登饭店",
-      "price": 211.13,
-      "change_pct": -3.51
+      "price": 215.63,
+      "change_pct": 2.13
     },
     {
       "ticker": "DVA",
       "name": "DaVita",
       "sector": "Health Care",
       "cn_name": "达维塔保健",
-      "price": 178.88,
-      "change_pct": -0.65
+      "price": 180.68,
+      "change_pct": 1.01
     },
     {
       "ticker": "DECK",
       "name": "Deckers Brands",
       "sector": "Consumer Discretionary",
       "cn_name": "德克斯户外",
-      "price": 86.33,
-      "change_pct": -3.51
+      "price": 87.76,
+      "change_pct": 1.66
     },
     {
       "ticker": "DE",
       "name": "John Deere",
       "sector": "Industrials",
       "cn_name": "迪尔股份有限公司",
-      "price": 622.66,
-      "change_pct": -1.87
+      "price": 630.33,
+      "change_pct": 1.23
     },
     {
       "ticker": "DELL",
       "name": "Dell Technologies",
       "sector": "Information Technology",
       "cn_name": "戴尔",
-      "price": 472.26,
-      "change_pct": 1.82
+      "price": 456.24,
+      "change_pct": -3.39
     },
     {
       "ticker": "DAL",
       "name": "Delta Air Lines",
       "sector": "Industrials",
       "cn_name": "达美航空",
-      "price": 81.14,
-      "change_pct": -2.34
+      "price": 80.07,
+      "change_pct": -1.32
     },
     {
       "ticker": "DVN",
       "name": "Devon Energy",
       "sector": "Energy",
       "cn_name": "德文能源",
-      "price": 47.12,
-      "change_pct": 0.62
+      "price": 47.35,
+      "change_pct": 0.49
     },
     {
       "ticker": "DLR",
       "name": "Digital Realty",
       "sector": "Real Estate",
       "cn_name": "数字房地信托",
-      "price": 192.1,
-      "change_pct": -0.69
+      "price": 185.47,
+      "change_pct": -3.45
     },
     {
       "ticker": "DG",
       "name": "Dollar General",
       "sector": "Consumer Staples",
       "cn_name": "美国达乐公司",
-      "price": 125.89,
-      "change_pct": 2.53
+      "price": 122.89,
+      "change_pct": -2.38
     },
     {
       "ticker": "D",
       "name": "Dominion Energy",
       "sector": "Utilities",
       "cn_name": "道明尼资源",
-      "price": 66.5,
-      "change_pct": -0.61
+      "price": 65.55,
+      "change_pct": -1.43
     },
     {
       "ticker": "DPZ",
       "name": "Domino's",
       "sector": "Consumer Discretionary",
       "cn_name": "达美乐比萨",
-      "price": 332.06,
-      "change_pct": -3.63
+      "price": 350.0,
+      "change_pct": 5.4
     },
     {
       "ticker": "DOV",
       "name": "Dover Corporation",
       "sector": "Industrials",
       "cn_name": "美国都福集团",
-      "price": 201.82,
-      "change_pct": -1.39
+      "price": 198.68,
+      "change_pct": -1.56
     },
     {
       "ticker": "DOW",
       "name": "Dow Chemical Company",
       "sector": "Materials",
       "cn_name": "陶氏",
-      "price": 30.33,
-      "change_pct": 0.0
+      "price": 30.51,
+      "change_pct": 0.59
     },
     {
       "ticker": "DHI",
       "name": "D. R. Horton",
       "sector": "Consumer Discretionary",
       "cn_name": "霍顿房屋",
-      "price": 145.26,
-      "change_pct": -2.67
+      "price": 147.39,
+      "change_pct": 1.47
     },
     {
       "ticker": "DTE",
       "name": "DTE Energy",
       "sector": "Utilities",
       "cn_name": "DTE能源",
-      "price": 136.24,
-      "change_pct": -1.07
+      "price": 135.86,
+      "change_pct": -0.28
     },
     {
       "ticker": "DUK",
       "name": "Duke Energy",
       "sector": "Utilities",
       "cn_name": "杜克能源",
-      "price": 120.84,
-      "change_pct": -0.86
+      "price": 120.25,
+      "change_pct": -0.49
     },
     {
       "ticker": "DD",
       "name": "DuPont",
       "sector": "Industrials",
       "cn_name": "杜邦",
-      "price": 138.8,
-      "change_pct": 0.59
+      "price": 136.98,
+      "change_pct": -1.31
     },
     {
       "ticker": "ETN",
       "name": "Eaton Corporation",
       "sector": "Industrials",
       "cn_name": "伊顿",
-      "price": 416.04,
-      "change_pct": -0.81
+      "price": 402.78,
+      "change_pct": -3.19
     },
     {
       "ticker": "ECL",
       "name": "Ecolab",
       "sector": "Materials",
       "cn_name": "艺康集团",
-      "price": 285.91,
-      "change_pct": -1.61
+      "price": 286.75,
+      "change_pct": 0.29
     },
     {
       "ticker": "EIX",
       "name": "Edison International",
       "sector": "Utilities",
       "cn_name": "爱迪生国际",
-      "price": 73.68,
-      "change_pct": -1.11
+      "price": 70.17,
+      "change_pct": -4.76
     },
     {
       "ticker": "EW",
       "name": "Edwards Lifesciences",
       "sector": "Health Care",
       "cn_name": "爱德华兹",
-      "price": 89.95,
-      "change_pct": -0.91
+      "price": 90.21,
+      "change_pct": 0.29
     },
     {
       "ticker": "ELV",
       "name": "Elevance Health",
       "sector": "Health Care",
       "cn_name": "ELV",
-      "price": 399.11,
-      "change_pct": -0.85
+      "price": 394.43,
+      "change_pct": -1.17
     },
     {
       "ticker": "EME",
       "name": "Emcor",
       "sector": "Industrials",
       "cn_name": "埃姆科",
-      "price": 775.04,
-      "change_pct": 1.5
+      "price": 740.17,
+      "change_pct": -4.5
     },
     {
       "ticker": "EMR",
       "name": "Emerson Electric",
       "sector": "Industrials",
       "cn_name": "艾默生电气",
-      "price": 157.71,
-      "change_pct": -0.37
+      "price": 155.18,
+      "change_pct": -1.6
     },
     {
       "ticker": "ETR",
       "name": "Entergy",
       "sector": "Utilities",
       "cn_name": "安特吉",
-      "price": 106.49,
+      "price": 105.75,
       "change_pct": -0.69
     },
     {
@@ -1863,24 +1863,24 @@
       "name": "EOG Resources",
       "sector": "Energy",
       "cn_name": "依欧格资源",
-      "price": 144.5,
-      "change_pct": -0.23
+      "price": 143.35,
+      "change_pct": -0.8
     },
     {
       "ticker": "EQT",
       "name": "EQT Corporation",
       "sector": "Energy",
       "cn_name": "EQT 公平",
-      "price": 54.77,
-      "change_pct": -0.04
+      "price": 54.57,
+      "change_pct": -0.37
     },
     {
       "ticker": "EFX",
       "name": "Equifax",
       "sector": "Industrials",
       "cn_name": "艾可菲",
-      "price": 190.36,
-      "change_pct": -0.1
+      "price": 194.35,
+      "change_pct": 2.1
     },
     {
       "ticker": "EQR",
@@ -1895,872 +1895,872 @@
       "name": "Essex Property Trust",
       "sector": "Real Estate",
       "cn_name": "埃塞克斯信托",
-      "price": 280.76,
-      "change_pct": -2.57
+      "price": 284.03,
+      "change_pct": 1.16
     },
     {
       "ticker": "EL",
       "name": "The Estée Lauder Companies",
       "sector": "Consumer Staples",
       "cn_name": "雅诗兰黛",
-      "price": 106.21,
-      "change_pct": 1.09
+      "price": 103.39,
+      "change_pct": -2.66
     },
     {
       "ticker": "EG",
       "name": "Everest Group",
       "sector": "Financials",
       "cn_name": "EG",
-      "price": 377.66,
-      "change_pct": -0.56
+      "price": 377.61,
+      "change_pct": -0.01
     },
     {
       "ticker": "EVRG",
       "name": "Evergy",
       "sector": "Utilities",
       "cn_name": "Evergy Inc.",
-      "price": 81.42,
-      "change_pct": -0.99
+      "price": 80.65,
+      "change_pct": -0.95
     },
     {
       "ticker": "ES",
       "name": "Eversource Energy",
       "sector": "Utilities",
       "cn_name": "Eversource Energy",
-      "price": 70.92,
-      "change_pct": -1.05
+      "price": 70.84,
+      "change_pct": -0.11
     },
     {
       "ticker": "EXR",
       "name": "Extra Space Storage",
       "sector": "Real Estate",
       "cn_name": "Extra Space Storage Inc",
-      "price": 142.79,
-      "change_pct": -0.9
+      "price": 142.91,
+      "change_pct": 0.08
     },
     {
       "ticker": "XOM",
       "name": "ExxonMobil",
       "sector": "Energy",
       "cn_name": "埃克森美孚",
-      "price": 156.44,
-      "change_pct": -1.11
+      "price": 156.71,
+      "change_pct": 0.17
     },
     {
       "ticker": "FDS",
       "name": "FactSet",
       "sector": "Financials",
       "cn_name": "辉盛研究系统",
-      "price": 304.47,
-      "change_pct": 3.05
+      "price": 308.98,
+      "change_pct": 1.48
     },
     {
       "ticker": "FICO",
       "name": "FICO",
       "sector": "Information Technology",
       "cn_name": "Fair Isaac Corp",
-      "price": 1157.06,
-      "change_pct": 2.06
+      "price": 1153.57,
+      "change_pct": -0.3
     },
     {
       "ticker": "FRT",
       "name": "Federal Realty Investment Trust",
       "sector": "Real Estate",
       "cn_name": "FRT信托",
-      "price": 116.92,
-      "change_pct": -0.56
+      "price": 116.75,
+      "change_pct": -0.15
     },
     {
       "ticker": "FDX",
       "name": "FedEx",
       "sector": "Industrials",
       "cn_name": "联邦快递",
-      "price": 331.41,
-      "change_pct": -1.36
+      "price": 330.88,
+      "change_pct": -0.16
     },
     {
       "ticker": "FDXF",
       "name": "FedEx Freight",
       "sector": "Industrials",
       "cn_name": "FDXF",
-      "price": 133.25,
-      "change_pct": 1.51
+      "price": 133.45,
+      "change_pct": 0.15
     },
     {
       "ticker": "FERG",
       "name": "Ferguson Enterprises",
       "sector": "Industrials",
       "cn_name": "FERG",
-      "price": 233.26,
-      "change_pct": -1.05
+      "price": 228.49,
+      "change_pct": -2.04
     },
     {
       "ticker": "FIS",
       "name": "FIS (company)",
       "sector": "Financials",
       "cn_name": "繁德信息技术",
-      "price": 40.55,
-      "change_pct": -0.22
+      "price": 41.44,
+      "change_pct": 2.19
     },
     {
       "ticker": "FITB",
       "name": "Fifth Third Bancorp",
       "sector": "Financials",
       "cn_name": "五三银行",
-      "price": 54.85,
-      "change_pct": -0.45
+      "price": 54.54,
+      "change_pct": -0.57
     },
     {
       "ticker": "FE",
       "name": "FirstEnergy",
       "sector": "Utilities",
       "cn_name": "第一能源公司",
-      "price": 46.25,
-      "change_pct": -1.03
+      "price": 45.88,
+      "change_pct": -0.8
     },
     {
       "ticker": "F",
       "name": "Ford Motor Company",
       "sector": "Consumer Discretionary",
       "cn_name": "福特汽车",
-      "price": 13.95,
-      "change_pct": 0.36
+      "price": 13.88,
+      "change_pct": -0.5
     },
     {
       "ticker": "FTV",
       "name": "Fortive",
       "sector": "Industrials",
       "cn_name": "Fortive Corporation",
-      "price": 59.92,
-      "change_pct": -0.55
+      "price": 59.69,
+      "change_pct": -0.38
     },
     {
       "ticker": "BEN",
       "name": "Franklin Templeton Investments",
       "sector": "Financials",
       "cn_name": "富兰克林资源",
-      "price": 34.82,
-      "change_pct": -0.54
+      "price": 34.65,
+      "change_pct": -0.49
     },
     {
       "ticker": "FCX",
       "name": "Freeport-McMoRan",
       "sector": "Materials",
       "cn_name": "麦克莫兰铜金",
-      "price": 78.42,
-      "change_pct": -0.73
+      "price": 76.45,
+      "change_pct": -2.51
     },
     {
       "ticker": "GRMN",
       "name": "Garmin",
       "sector": "Consumer Discretionary",
       "cn_name": "佳明",
-      "price": 289.87,
-      "change_pct": 0.29
+      "price": 285.19,
+      "change_pct": -1.61
     },
     {
       "ticker": "IT",
       "name": "Gartner",
       "sector": "Information Technology",
       "cn_name": "加特纳",
-      "price": 196.6,
-      "change_pct": 1.89
+      "price": 198.39,
+      "change_pct": 0.91
     },
     {
       "ticker": "GE",
       "name": "GE Aerospace",
       "sector": "Industrials",
       "cn_name": "GE航空航天",
-      "price": 342.73,
-      "change_pct": -3.29
+      "price": 342.58,
+      "change_pct": -0.04
     },
     {
       "ticker": "GEV",
       "name": "GE Vernova",
       "sector": "Industrials",
       "cn_name": "GEV",
-      "price": 953.83,
-      "change_pct": 0.08
+      "price": 911.93,
+      "change_pct": -4.39
     },
     {
       "ticker": "GNRC",
       "name": "Generac",
       "sector": "Industrials",
       "cn_name": "Generac控股",
-      "price": 197.29,
-      "change_pct": -4.52
+      "price": 183.8,
+      "change_pct": -6.84
     },
     {
       "ticker": "GD",
       "name": "General Dynamics",
       "sector": "Industrials",
       "cn_name": "通用动力",
-      "price": 380.06,
-      "change_pct": -0.51
+      "price": 379.32,
+      "change_pct": -0.19
     },
     {
       "ticker": "GIS",
       "name": "General Mills",
       "sector": "Consumer Staples",
       "cn_name": "通用磨坊",
-      "price": 40.44,
-      "change_pct": 0.9
+      "price": 41.55,
+      "change_pct": 2.74
     },
     {
       "ticker": "GM",
       "name": "General Motors",
       "sector": "Consumer Discretionary",
       "cn_name": "通用汽车",
-      "price": 86.18,
-      "change_pct": -0.17
+      "price": 86.27,
+      "change_pct": 0.1
     },
     {
       "ticker": "GPC",
       "name": "Genuine Parts Company",
       "sector": "Consumer Discretionary",
       "cn_name": "纯正部件",
-      "price": 136.7,
-      "change_pct": -2.0
+      "price": 137.51,
+      "change_pct": 0.59
     },
     {
       "ticker": "GPN",
       "name": "Global Payments",
       "sector": "Financials",
       "cn_name": "环汇有限公司",
-      "price": 92.74,
-      "change_pct": -0.24
+      "price": 91.82,
+      "change_pct": -0.99
     },
     {
       "ticker": "GL",
       "name": "Globe Life",
       "sector": "Financials",
       "cn_name": "GL",
-      "price": 175.78,
-      "change_pct": 0.13
+      "price": 172.79,
+      "change_pct": -1.7
     },
     {
       "ticker": "GDDY",
       "name": "GoDaddy",
       "sector": "Information Technology",
       "cn_name": "GDDY",
-      "price": 96.98,
-      "change_pct": 1.51
+      "price": 97.7,
+      "change_pct": 0.74
     },
     {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "sector": "Financials",
       "cn_name": "高盛",
-      "price": 1040.87,
-      "change_pct": 0.04
+      "price": 1033.99,
+      "change_pct": -0.66
     },
     {
       "ticker": "HAL",
       "name": "Halliburton",
       "sector": "Energy",
       "cn_name": "哈里伯顿",
-      "price": 35.49,
-      "change_pct": 3.05
+      "price": 36.18,
+      "change_pct": 1.94
     },
     {
       "ticker": "HIG",
       "name": "The Hartford",
       "sector": "Financials",
       "cn_name": "哈特福德",
-      "price": 137.8,
-      "change_pct": -1.47
+      "price": 138.55,
+      "change_pct": 0.54
     },
     {
       "ticker": "HCA",
       "name": "HCA Healthcare",
       "sector": "Health Care",
       "cn_name": "HCA控股",
-      "price": 419.34,
-      "change_pct": -1.83
+      "price": 417.82,
+      "change_pct": -0.36
     },
     {
       "ticker": "DOC",
       "name": "Healthpeak Properties",
       "sector": "Real Estate",
       "cn_name": "PHYSICIANS REALTY TRUST COM",
-      "price": 21.22,
-      "change_pct": -1.67
+      "price": 20.96,
+      "change_pct": -1.23
     },
     {
       "ticker": "HSY",
       "name": "The Hershey Company",
       "sector": "Consumer Staples",
       "cn_name": "好时",
-      "price": 181.32,
-      "change_pct": -2.17
+      "price": 179.05,
+      "change_pct": -1.25
     },
     {
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology",
       "cn_name": "慧与",
-      "price": 54.41,
-      "change_pct": -1.48
+      "price": 52.31,
+      "change_pct": -3.86
     },
     {
       "ticker": "HLT",
       "name": "Hilton Worldwide",
       "sector": "Consumer Discretionary",
       "cn_name": "希尔顿酒店",
-      "price": 325.68,
-      "change_pct": -2.07
+      "price": 321.85,
+      "change_pct": -1.18
     },
     {
       "ticker": "HD",
       "name": "Home Depot",
       "sector": "Consumer Discretionary",
       "cn_name": "家得宝",
-      "price": 328.61,
-      "change_pct": -1.86
+      "price": 330.19,
+      "change_pct": 0.48
     },
     {
       "ticker": "HRL",
       "name": "Hormel Foods",
       "sector": "Consumer Staples",
       "cn_name": "荷美尔",
-      "price": 21.28,
-      "change_pct": -10.25
+      "price": 21.57,
+      "change_pct": 1.36
     },
     {
       "ticker": "HWM",
       "name": "Howmet Aerospace",
       "sector": "Industrials",
       "cn_name": "HWM",
-      "price": 267.65,
-      "change_pct": -0.63
+      "price": 264.85,
+      "change_pct": -1.05
     },
     {
       "ticker": "HPQ",
       "name": "HP Inc.",
       "sector": "Information Technology",
       "cn_name": "惠普",
-      "price": 29.63,
-      "change_pct": -2.92
+      "price": 30.52,
+      "change_pct": 3.0
     },
     {
       "ticker": "HUBB",
       "name": "Hubbell Incorporated",
       "sector": "Industrials",
       "cn_name": "Hubbell Incorporated",
-      "price": 470.28,
-      "change_pct": -0.46
+      "price": 459.66,
+      "change_pct": -2.26
     },
     {
       "ticker": "HUM",
       "name": "Humana",
       "sector": "Health Care",
       "cn_name": "休曼纳",
-      "price": 392.63,
-      "change_pct": 0.4
+      "price": 385.54,
+      "change_pct": -1.81
     },
     {
       "ticker": "HII",
       "name": "Huntington Ingalls Industries",
       "sector": "Industrials",
       "cn_name": "亨廷顿英戈尔",
-      "price": 297.29,
-      "change_pct": 0.3
+      "price": 294.21,
+      "change_pct": -1.04
     },
     {
       "ticker": "IBM",
       "name": "IBM",
       "sector": "Information Technology",
       "cn_name": "IBM",
-      "price": 238.79,
-      "change_pct": 3.88
+      "price": 235.59,
+      "change_pct": -1.34
     },
     {
       "ticker": "IEX",
       "name": "IDEX Corporation",
       "sector": "Industrials",
       "cn_name": "IDEX Corp",
-      "price": 233.98,
-      "change_pct": -0.39
+      "price": 230.28,
+      "change_pct": -1.58
     },
     {
       "ticker": "ITW",
       "name": "Illinois Tool Works",
       "sector": "Industrials",
       "cn_name": "伊利诺工具",
-      "price": 281.67,
-      "change_pct": -1.34
+      "price": 280.1,
+      "change_pct": -0.56
     },
     {
       "ticker": "IR",
       "name": "Ingersoll Rand",
       "sector": "Industrials",
       "cn_name": "英格索兰",
-      "price": 78.97,
-      "change_pct": -1.25
+      "price": 78.58,
+      "change_pct": -0.49
     },
     {
       "ticker": "ICE",
       "name": "Intercontinental Exchange",
       "sector": "Financials",
       "cn_name": "洲交所",
-      "price": 161.24,
-      "change_pct": -0.42
+      "price": 162.33,
+      "change_pct": 0.68
     },
     {
       "ticker": "IFF",
       "name": "International Flavors & Fragrances",
       "sector": "Materials",
       "cn_name": "国际香料香精",
-      "price": 86.85,
-      "change_pct": -0.31
+      "price": 87.95,
+      "change_pct": 1.27
     },
     {
       "ticker": "IP",
       "name": "International Paper",
       "sector": "Materials",
       "cn_name": "国际纸业",
-      "price": 39.88,
-      "change_pct": -3.65
+      "price": 39.31,
+      "change_pct": -1.43
     },
     {
       "ticker": "IVZ",
       "name": "Invesco",
       "sector": "Financials",
       "cn_name": "美国景顺集团",
-      "price": 33.31,
-      "change_pct": 1.0
+      "price": 32.86,
+      "change_pct": -1.35
     },
     {
       "ticker": "INVH",
       "name": "Invitation Homes",
       "sector": "Real Estate",
       "cn_name": "Invitation Homes Inc.",
-      "price": 29.23,
-      "change_pct": -2.21
+      "price": 29.24,
+      "change_pct": 0.03
     },
     {
       "ticker": "IQV",
       "name": "IQVIA",
       "sector": "Health Care",
       "cn_name": "Iqvia Holdings Inc.",
-      "price": 262.38,
-      "change_pct": 0.33
+      "price": 261.75,
+      "change_pct": -0.24
     },
     {
       "ticker": "IRM",
       "name": "Iron Mountain (company)",
       "sector": "Real Estate",
       "cn_name": "铁山",
-      "price": 122.69,
-      "change_pct": 1.04
+      "price": 117.4,
+      "change_pct": -4.31
     },
     {
       "ticker": "JBL",
       "name": "Jabil",
       "sector": "Information Technology",
       "cn_name": "捷普",
-      "price": 312.22,
-      "change_pct": 0.42
+      "price": 301.45,
+      "change_pct": -3.45
     },
     {
       "ticker": "J",
       "name": "Jacobs Solutions",
       "sector": "Industrials",
       "cn_name": "J",
-      "price": 150.62,
-      "change_pct": -0.59
+      "price": 151.98,
+      "change_pct": 0.9
     },
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
       "sector": "Health Care",
       "cn_name": "强生",
-      "price": 265.77,
-      "change_pct": -1.57
+      "price": 268.04,
+      "change_pct": 0.85
     },
     {
       "ticker": "JCI",
       "name": "Johnson Controls",
       "sector": "Industrials",
       "cn_name": "江森自控",
-      "price": 142.21,
-      "change_pct": -1.47
+      "price": 139.59,
+      "change_pct": -1.84
     },
     {
       "ticker": "JPM",
       "name": "JPMorgan Chase",
       "sector": "Financials",
       "cn_name": "摩根大通",
-      "price": 354.22,
-      "change_pct": -0.64
+      "price": 357.62,
+      "change_pct": 0.96
     },
     {
       "ticker": "KVUE",
       "name": "Kenvue",
       "sector": "Consumer Staples",
       "cn_name": "KVUE",
-      "price": 19.2,
-      "change_pct": -0.1
+      "price": 19.17,
+      "change_pct": -0.16
     },
     {
       "ticker": "KEY",
       "name": "KeyCorp",
       "sector": "Financials",
       "cn_name": "KeyCorp",
-      "price": 22.02,
-      "change_pct": -0.32
+      "price": 21.91,
+      "change_pct": -0.5
     },
     {
       "ticker": "KEYS",
       "name": "Keysight Technologies",
       "sector": "Information Technology",
       "cn_name": "Keysight Technologies Inc.",
-      "price": 325.82,
-      "change_pct": 1.23
+      "price": 319.97,
+      "change_pct": -1.8
     },
     {
       "ticker": "KIM",
       "name": "Kimco Realty",
       "sector": "Real Estate",
       "cn_name": "金科",
-      "price": 23.81,
-      "change_pct": -0.92
+      "price": 23.78,
+      "change_pct": -0.13
     },
     {
       "ticker": "KMI",
       "name": "Kinder Morgan",
       "sector": "Energy",
       "cn_name": "金德尔摩根",
-      "price": 31.54,
-      "change_pct": -1.5
+      "price": 31.56,
+      "change_pct": 0.06
     },
     {
       "ticker": "KKR",
       "name": "Kohlberg Kravis Roberts",
       "sector": "Financials",
       "cn_name": "KKR & Co L.P.",
-      "price": 109.32,
-      "change_pct": 0.76
+      "price": 108.68,
+      "change_pct": -0.59
     },
     {
       "ticker": "KR",
       "name": "Kroger",
       "sector": "Consumer Staples",
       "cn_name": "克罗格",
-      "price": 56.93,
-      "change_pct": -2.7
+      "price": 57.72,
+      "change_pct": 1.39
     },
     {
       "ticker": "LHX",
       "name": "L3Harris",
       "sector": "Industrials",
       "cn_name": "L3 HARRIS TECHNOLOGIES INC",
-      "price": 261.98,
-      "change_pct": -0.37
+      "price": 262.82,
+      "change_pct": 0.32
     },
     {
       "ticker": "LH",
       "name": "Labcorp",
       "sector": "Health Care",
       "cn_name": "实验美控",
-      "price": 336.54,
-      "change_pct": 0.24
+      "price": 335.11,
+      "change_pct": -0.42
     },
     {
       "ticker": "LVS",
       "name": "Las Vegas Sands",
       "sector": "Consumer Discretionary",
       "cn_name": "金沙集团",
-      "price": 44.24,
-      "change_pct": -4.3
+      "price": 45.04,
+      "change_pct": 1.81
     },
     {
       "ticker": "LDOS",
       "name": "Leidos",
       "sector": "Industrials",
       "cn_name": "Leidos Holdings Inc",
-      "price": 139.86,
-      "change_pct": 1.77
+      "price": 140.66,
+      "change_pct": 0.57
     },
     {
       "ticker": "LEN",
       "name": "Lennar",
       "sector": "Consumer Discretionary",
       "cn_name": "莱纳建筑公司",
-      "price": 85.11,
-      "change_pct": -2.34
+      "price": 86.33,
+      "change_pct": 1.43
     },
     {
       "ticker": "LII",
       "name": "Lennox International",
       "sector": "Industrials",
       "cn_name": "雷诺士",
-      "price": 391.15,
-      "change_pct": -0.65
+      "price": 393.39,
+      "change_pct": 0.57
     },
     {
       "ticker": "LLY",
       "name": "Eli Lilly and Company",
       "sector": "Health Care",
       "cn_name": "礼来",
-      "price": 1176.1,
-      "change_pct": -1.12
+      "price": 1174.61,
+      "change_pct": -0.13
     },
     {
       "ticker": "LYV",
       "name": "Live Nation Entertainment",
       "sector": "Communication Services",
       "cn_name": "Live Nation Entertainment",
-      "price": 180.64,
-      "change_pct": -1.1
+      "price": 181.65,
+      "change_pct": 0.56
     },
     {
       "ticker": "LMT",
       "name": "Lockheed Martin",
       "sector": "Industrials",
       "cn_name": "洛克希德马丁",
-      "price": 565.89,
-      "change_pct": 0.05
+      "price": 563.85,
+      "change_pct": -0.36
     },
     {
       "ticker": "L",
       "name": "Loews Corporation",
       "sector": "Financials",
       "cn_name": "洛斯公司",
-      "price": 109.82,
-      "change_pct": -1.03
+      "price": 109.72,
+      "change_pct": -0.09
     },
     {
       "ticker": "LOW",
       "name": "Lowe's",
       "sector": "Consumer Discretionary",
       "cn_name": "劳氏",
-      "price": 206.74,
-      "change_pct": -1.72
+      "price": 208.05,
+      "change_pct": 0.63
     },
     {
       "ticker": "LYB",
       "name": "LyondellBasell",
       "sector": "Materials",
       "cn_name": "利安德巴塞尔",
-      "price": 63.06,
-      "change_pct": 0.7
+      "price": 63.67,
+      "change_pct": 0.97
     },
     {
       "ticker": "MTB",
       "name": "M&T Bank",
       "sector": "Financials",
       "cn_name": "美国制商银行",
-      "price": 238.68,
-      "change_pct": -1.18
+      "price": 237.29,
+      "change_pct": -0.58
     },
     {
       "ticker": "MPC",
       "name": "Marathon Petroleum",
       "sector": "Energy",
       "cn_name": "马拉松石油",
-      "price": 363.54,
-      "change_pct": 0.35
+      "price": 368.83,
+      "change_pct": 1.46
     },
     {
       "ticker": "MRSH",
       "name": "Marsh McLennan",
       "sector": "Financials",
       "cn_name": "MRSH",
-      "price": 190.0,
-      "change_pct": -1.69
+      "price": 192.64,
+      "change_pct": 1.39
     },
     {
       "ticker": "MLM",
       "name": "Martin Marietta Materials",
       "sector": "Materials",
       "cn_name": "马丁-玛丽埃塔材料",
-      "price": 528.59,
-      "change_pct": -0.67
+      "price": 531.05,
+      "change_pct": 0.47
     },
     {
       "ticker": "MAS",
       "name": "Masco",
       "sector": "Industrials",
       "cn_name": "马斯科",
-      "price": 72.79,
-      "change_pct": -1.1
+      "price": 73.25,
+      "change_pct": 0.63
     },
     {
       "ticker": "MA",
       "name": "Mastercard",
       "sector": "Financials",
       "cn_name": "万事达",
-      "price": 591.73,
-      "change_pct": -1.13
+      "price": 595.3,
+      "change_pct": 0.6
     },
     {
       "ticker": "MKC",
       "name": "McCormick & Company",
       "sector": "Consumer Staples",
       "cn_name": "味好美",
-      "price": 54.54,
-      "change_pct": -1.02
+      "price": 55.33,
+      "change_pct": 1.45
     },
     {
       "ticker": "MCD",
       "name": "McDonald's",
       "sector": "Consumer Discretionary",
       "cn_name": "麦当劳",
-      "price": 260.06,
-      "change_pct": -2.57
+      "price": 265.0,
+      "change_pct": 1.9
     },
     {
       "ticker": "MCK",
       "name": "McKesson Corporation",
       "sector": "Health Care",
       "cn_name": "麦克森",
-      "price": 890.51,
-      "change_pct": -0.68
+      "price": 893.39,
+      "change_pct": 0.32
     },
     {
       "ticker": "MDT",
       "name": "Medtronic",
       "sector": "Health Care",
       "cn_name": "美敦力",
-      "price": 89.97,
-      "change_pct": -2.23
+      "price": 91.23,
+      "change_pct": 1.4
     },
     {
       "ticker": "MRK",
       "name": "Merck & Co.",
       "sector": "Health Care",
       "cn_name": "默沙东",
-      "price": 149.54,
-      "change_pct": -2.33
+      "price": 148.35,
+      "change_pct": -0.8
     },
     {
       "ticker": "MET",
       "name": "MetLife",
       "sector": "Financials",
       "cn_name": "大都会人寿",
-      "price": 96.25,
-      "change_pct": -0.28
+      "price": 96.51,
+      "change_pct": 0.27
     },
     {
       "ticker": "MTD",
       "name": "Mettler Toledo",
       "sector": "Health Care",
       "cn_name": "梅特勒-托利多",
-      "price": 1407.43,
-      "change_pct": 0.64
+      "price": 1398.58,
+      "change_pct": -0.63
     },
     {
       "ticker": "MGM",
       "name": "MGM Resorts",
       "sector": "Consumer Discretionary",
       "cn_name": "美高梅",
-      "price": 42.97,
-      "change_pct": -1.13
+      "price": 42.28,
+      "change_pct": -1.61
     },
     {
       "ticker": "MAA",
       "name": "Mid-America Apartment Communities",
       "sector": "Real Estate",
       "cn_name": "MAA房产信托",
-      "price": 128.79,
-      "change_pct": -2.06
+      "price": 129.61,
+      "change_pct": 0.64
     },
     {
       "ticker": "TAP",
       "name": "Molson Coors",
       "sector": "Consumer Staples",
       "cn_name": "莫库酒业",
-      "price": 41.66,
-      "change_pct": -1.02
+      "price": 41.46,
+      "change_pct": -0.48
     },
     {
       "ticker": "MCO",
       "name": "Moody's Corporation",
       "sector": "Financials",
       "cn_name": "穆迪",
-      "price": 509.02,
-      "change_pct": -1.07
+      "price": 514.95,
+      "change_pct": 1.16
     },
     {
       "ticker": "MS",
       "name": "Morgan Stanley",
       "sector": "Financials",
       "cn_name": "摩根士丹利",
-      "price": 214.86,
-      "change_pct": 0.36
+      "price": 214.77,
+      "change_pct": -0.04
     },
     {
       "ticker": "MOS",
       "name": "The Mosaic Company",
       "sector": "Materials",
       "cn_name": "美国美盛",
-      "price": 23.76,
-      "change_pct": -1.66
+      "price": 23.6,
+      "change_pct": -0.67
     },
     {
       "ticker": "MSI",
       "name": "Motorola Solutions",
       "sector": "Information Technology",
       "cn_name": "摩托罗拉",
-      "price": 486.54,
-      "change_pct": -0.15
+      "price": 486.0,
+      "change_pct": -0.11
     },
     {
       "ticker": "MSCI",
       "name": "MSCI",
       "sector": "Financials",
       "cn_name": "明晟",
-      "price": 569.15,
-      "change_pct": 0.87
+      "price": 570.76,
+      "change_pct": 0.28
     },
     {
       "ticker": "NEM",
       "name": "Newmont",
       "sector": "Materials",
       "cn_name": "纽曼矿业",
-      "price": 132.29,
-      "change_pct": 0.52
+      "price": 127.98,
+      "change_pct": -3.26
     },
     {
       "ticker": "NEE",
       "name": "NextEra Energy",
       "sector": "Utilities",
       "cn_name": "新纪元能源",
-      "price": 83.47,
-      "change_pct": -0.89
+      "price": 81.84,
+      "change_pct": -1.95
     },
     {
       "ticker": "NKE",
       "name": "Nike, Inc.",
       "sector": "Consumer Discretionary",
       "cn_name": "耐克",
-      "price": 38.44,
-      "change_pct": -0.39
+      "price": 39.6,
+      "change_pct": 3.02
     },
     {
       "ticker": "NI",
       "name": "NiSource",
       "sector": "Utilities",
       "cn_name": "印北瓦电",
-      "price": 40.96,
-      "change_pct": -0.41
+      "price": 40.57,
+      "change_pct": -0.95
     },
     {
       "ticker": "NSC",
       "name": "Norfolk Southern Railway",
       "sector": "Industrials",
       "cn_name": "诺福克南方",
-      "price": 347.93,
-      "change_pct": -1.35
+      "price": 348.68,
+      "change_pct": 0.22
     },
     {
       "ticker": "NOC",
       "name": "Northrop Grumman",
       "sector": "Industrials",
       "cn_name": "诺斯洛普",
-      "price": 545.13,
-      "change_pct": -0.88
+      "price": 545.57,
+      "change_pct": 0.08
     },
     {
       "ticker": "NCLH",
@@ -2768,2087 +2768,2087 @@
       "sector": "Consumer Discretionary",
       "cn_name": "挪威邮轮",
       "price": 16.65,
-      "change_pct": -2.57
+      "change_pct": 0.0
     },
     {
       "ticker": "NRG",
       "name": "NRG Energy",
       "sector": "Utilities",
       "cn_name": "NRG能源",
-      "price": 114.41,
-      "change_pct": -1.49
+      "price": 111.12,
+      "change_pct": -2.88
     },
     {
       "ticker": "NUE",
       "name": "Nucor",
       "sector": "Materials",
       "cn_name": "纽柯钢铁",
-      "price": 252.37,
-      "change_pct": -0.17
+      "price": 250.5,
+      "change_pct": -0.74
     },
     {
       "ticker": "NVR",
       "name": "NVR, Inc.",
       "sector": "Consumer Discretionary",
       "cn_name": "NVR Inc",
-      "price": 6365.45,
-      "change_pct": -0.04
+      "price": 6396.27,
+      "change_pct": 0.48
     },
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "sector": "Energy",
       "cn_name": "西方石油",
-      "price": 59.17,
-      "change_pct": 0.94
+      "price": 59.1,
+      "change_pct": -0.12
     },
     {
       "ticker": "OMC",
       "name": "Omnicom Group",
       "sector": "Communication Services",
       "cn_name": "宏盟集团",
-      "price": 87.89,
-      "change_pct": 0.0
+      "price": 88.28,
+      "change_pct": 0.44
     },
     {
       "ticker": "OKE",
       "name": "Oneok",
       "sector": "Energy",
       "cn_name": "万欧克",
-      "price": 94.72,
-      "change_pct": -0.19
+      "price": 94.76,
+      "change_pct": 0.04
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corporation",
       "sector": "Information Technology",
       "cn_name": "甲骨文",
-      "price": 151.94,
-      "change_pct": 2.06
+      "price": 150.85,
+      "change_pct": -0.72
     },
     {
       "ticker": "OTIS",
       "name": "Otis Worldwide",
       "sector": "Industrials",
       "cn_name": "OTIS",
-      "price": 71.48,
-      "change_pct": -1.22
+      "price": 71.74,
+      "change_pct": 0.36
     },
     {
       "ticker": "PKG",
       "name": "Packaging Corporation of America",
       "sector": "Materials",
       "cn_name": "Packaging Corp of America",
-      "price": 243.69,
-      "change_pct": -1.21
+      "price": 240.39,
+      "change_pct": -1.35
     },
     {
       "ticker": "PH",
       "name": "Parker Hannifin",
       "sector": "Industrials",
       "cn_name": "汉尼汾",
-      "price": 1011.2,
-      "change_pct": -2.72
+      "price": 995.02,
+      "change_pct": -1.6
     },
     {
       "ticker": "PNR",
       "name": "Pentair",
       "sector": "Industrials",
       "cn_name": "滨特尔",
-      "price": 62.1,
-      "change_pct": -1.21
+      "price": 61.67,
+      "change_pct": -0.69
     },
     {
       "ticker": "PFE",
       "name": "Pfizer",
       "sector": "Health Care",
       "cn_name": "辉瑞",
-      "price": 28.02,
-      "change_pct": -0.99
+      "price": 27.96,
+      "change_pct": -0.21
     },
     {
       "ticker": "PCG",
       "name": "PG&E",
       "sector": "Utilities",
       "cn_name": "太平洋瓦电",
-      "price": 17.95,
-      "change_pct": -1.48
+      "price": 16.6,
+      "change_pct": -7.52
     },
     {
       "ticker": "PM",
       "name": "Philip Morris International",
       "sector": "Consumer Staples",
       "cn_name": "菲利普莫里斯",
-      "price": 190.48,
-      "change_pct": -1.87
+      "price": 191.89,
+      "change_pct": 0.74
     },
     {
       "ticker": "PSX",
       "name": "Phillips 66",
       "sector": "Energy",
       "cn_name": "菲利普66",
-      "price": 239.81,
-      "change_pct": -1.0
+      "price": 244.01,
+      "change_pct": 1.75
     },
     {
       "ticker": "PNW",
       "name": "Pinnacle West Capital",
       "sector": "Utilities",
       "cn_name": "品尼高西方资本品西资本",
-      "price": 97.89,
-      "change_pct": -0.81
+      "price": 97.64,
+      "change_pct": -0.26
     },
     {
       "ticker": "PNC",
       "name": "PNC Financial Services",
       "sector": "Financials",
       "cn_name": "PNC金融",
-      "price": 243.51,
-      "change_pct": -0.47
+      "price": 242.22,
+      "change_pct": -0.53
     },
     {
       "ticker": "PPG",
       "name": "PPG Industries",
       "sector": "Materials",
       "cn_name": "PPG工业",
-      "price": 113.47,
-      "change_pct": -0.83
+      "price": 114.22,
+      "change_pct": 0.66
     },
     {
       "ticker": "PPL",
       "name": "PPL Corporation",
       "sector": "Utilities",
       "cn_name": "宾州电力",
-      "price": 34.44,
-      "change_pct": -1.66
+      "price": 34.2,
+      "change_pct": -0.7
     },
     {
       "ticker": "PG",
       "name": "Procter & Gamble",
       "sector": "Consumer Staples",
       "cn_name": "宝洁",
-      "price": 143.14,
-      "change_pct": -1.28
+      "price": 143.78,
+      "change_pct": 0.45
     },
     {
       "ticker": "PGR",
       "name": "Progressive Corporation",
       "sector": "Financials",
       "cn_name": "美国前进保险公司",
-      "price": 217.65,
-      "change_pct": -2.18
+      "price": 218.64,
+      "change_pct": 0.45
     },
     {
       "ticker": "PLD",
       "name": "Prologis",
       "sector": "Real Estate",
       "cn_name": "Prologis Inc.",
-      "price": 141.85,
-      "change_pct": -0.52
+      "price": 140.7,
+      "change_pct": -0.81
     },
     {
       "ticker": "PRU",
       "name": "Prudential Financial",
       "sector": "Financials",
       "cn_name": "保德信",
-      "price": 120.37,
-      "change_pct": 0.11
+      "price": 119.79,
+      "change_pct": -0.48
     },
     {
       "ticker": "PEG",
       "name": "Public Service Enterprise Group",
       "sector": "Utilities",
       "cn_name": "公务集团",
-      "price": 73.33,
-      "change_pct": -0.95
+      "price": 73.19,
+      "change_pct": -0.19
     },
     {
       "ticker": "PSA",
       "name": "Public Storage",
       "sector": "Real Estate",
       "cn_name": "公共存储",
-      "price": 311.2,
-      "change_pct": -1.94
+      "price": 313.51,
+      "change_pct": 0.74
     },
     {
       "ticker": "PHM",
       "name": "PulteGroup",
       "sector": "Consumer Discretionary",
       "cn_name": "普得集团",
-      "price": 126.75,
-      "change_pct": -2.52
+      "price": 128.55,
+      "change_pct": 1.42
     },
     {
       "ticker": "PWR",
       "name": "Quanta Services",
       "sector": "Industrials",
       "cn_name": "广达公司",
-      "price": 621.83,
-      "change_pct": 0.83
+      "price": 602.7,
+      "change_pct": -3.08
     },
     {
       "ticker": "DGX",
       "name": "Quest Diagnostics",
       "sector": "Health Care",
       "cn_name": "奎斯特",
-      "price": 244.61,
-      "change_pct": -0.16
+      "price": 242.76,
+      "change_pct": -0.76
     },
     {
       "ticker": "Q",
       "name": "Qnity Electronics",
       "sector": "Information Technology",
       "cn_name": "昆泰医药",
-      "price": 126.35,
-      "change_pct": 0.12
+      "price": 120.26,
+      "change_pct": -4.82
     },
     {
       "ticker": "RL",
       "name": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
       "cn_name": "拉夫劳伦",
-      "price": 351.9,
-      "change_pct": -2.88
+      "price": 354.04,
+      "change_pct": 0.61
     },
     {
       "ticker": "RJF",
       "name": "Raymond James Financial",
       "sector": "Financials",
       "cn_name": "瑞杰金融",
-      "price": 176.11,
-      "change_pct": -0.33
+      "price": 179.36,
+      "change_pct": 1.85
     },
     {
       "ticker": "RTX",
       "name": "RTX Corporation",
       "sector": "Industrials",
       "cn_name": "RTX",
-      "price": 212.08,
-      "change_pct": 0.04
+      "price": 211.71,
+      "change_pct": -0.17
     },
     {
       "ticker": "O",
       "name": "Realty Income",
       "sector": "Real Estate",
       "cn_name": "Realty Income Corp",
-      "price": 61.8,
-      "change_pct": -0.74
+      "price": 61.98,
+      "change_pct": 0.29
     },
     {
       "ticker": "RF",
       "name": "Regions Financial Corporation",
       "sector": "Financials",
       "cn_name": "地区金融",
-      "price": 30.4,
-      "change_pct": -0.98
+      "price": 30.33,
+      "change_pct": -0.23
     },
     {
       "ticker": "RSG",
       "name": "Republic Services",
       "sector": "Industrials",
       "cn_name": "共和服务",
-      "price": 219.27,
-      "change_pct": -1.31
+      "price": 222.11,
+      "change_pct": 1.3
     },
     {
       "ticker": "RVTY",
       "name": "Revvity",
       "sector": "Health Care",
       "cn_name": "RVTY",
-      "price": 129.71,
-      "change_pct": 2.66
+      "price": 128.8,
+      "change_pct": -0.7
     },
     {
       "ticker": "ROK",
       "name": "Rockwell Automation",
       "sector": "Industrials",
       "cn_name": "罗克韦尔",
-      "price": 433.0,
-      "change_pct": 0.29
+      "price": 430.86,
+      "change_pct": -0.49
     },
     {
       "ticker": "ROL",
       "name": "Rollins, Inc.",
       "sector": "Industrials",
       "cn_name": "Rollins Inc",
-      "price": 35.94,
-      "change_pct": -2.07
+      "price": 36.38,
+      "change_pct": 1.22
     },
     {
       "ticker": "RCL",
       "name": "Royal Caribbean Group",
       "sector": "Consumer Discretionary",
       "cn_name": "皇家加勒比邮轮",
-      "price": 284.8,
-      "change_pct": -1.79
+      "price": 279.41,
+      "change_pct": -1.89
     },
     {
       "ticker": "SPGI",
       "name": "S&P Global",
       "sector": "Financials",
       "cn_name": "标普全球",
-      "price": 435.39,
-      "change_pct": -0.25
+      "price": 442.89,
+      "change_pct": 1.72
     },
     {
       "ticker": "CRM",
       "name": "Salesforce",
       "sector": "Information Technology",
       "cn_name": "赛富时",
-      "price": 252.05,
-      "change_pct": 22.58
+      "price": 256.0,
+      "change_pct": 1.57
     },
     {
       "ticker": "SLB",
       "name": "Schlumberger",
       "sector": "Energy",
       "cn_name": "斯伦贝谢",
-      "price": 55.01,
-      "change_pct": 2.63
+      "price": 57.33,
+      "change_pct": 4.22
     },
     {
       "ticker": "SRE",
       "name": "Sempra",
       "sector": "Utilities",
       "cn_name": "桑普拉能源",
-      "price": 84.75,
-      "change_pct": -0.62
+      "price": 84.31,
+      "change_pct": -0.52
     },
     {
       "ticker": "NOW",
       "name": "ServiceNow",
       "sector": "Information Technology",
       "cn_name": "现在服务",
-      "price": 138.43,
-      "change_pct": 10.04
+      "price": 144.71,
+      "change_pct": 4.54
     },
     {
       "ticker": "SHW",
       "name": "Sherwin-Williams",
       "sector": "Materials",
       "cn_name": "宣伟公司",
-      "price": 345.21,
-      "change_pct": -0.99
+      "price": 344.86,
+      "change_pct": -0.1
     },
     {
       "ticker": "SPG",
       "name": "Simon Property Group",
       "sector": "Real Estate",
       "cn_name": "西蒙地产",
-      "price": 214.89,
-      "change_pct": -1.02
+      "price": 214.56,
+      "change_pct": -0.15
     },
     {
       "ticker": "SJM",
       "name": "The J.M. Smucker Company",
       "sector": "Consumer Staples",
       "cn_name": "斯马克",
-      "price": 131.84,
-      "change_pct": 0.72
+      "price": 132.34,
+      "change_pct": 0.38
     },
     {
       "ticker": "SW",
       "name": "Smurfit Westrock",
       "sector": "Materials",
       "cn_name": "SW",
-      "price": 48.63,
-      "change_pct": -1.88
+      "price": 48.29,
+      "change_pct": -0.7
     },
     {
       "ticker": "SNA",
       "name": "Snap-on",
       "sector": "Industrials",
       "cn_name": "实耐宝",
-      "price": 395.84,
-      "change_pct": -0.41
+      "price": 391.86,
+      "change_pct": -1.01
     },
     {
       "ticker": "SOLV",
       "name": "Solventum",
       "sector": "Health Care",
       "cn_name": "SOLV",
-      "price": 90.93,
-      "change_pct": -0.66
+      "price": 91.12,
+      "change_pct": 0.21
     },
     {
       "ticker": "SO",
       "name": "Southern Company",
       "sector": "Utilities",
       "cn_name": "美国南方公司",
-      "price": 89.05,
-      "change_pct": -0.79
+      "price": 88.25,
+      "change_pct": -0.9
     },
     {
       "ticker": "LUV",
       "name": "Southwest Airlines",
       "sector": "Industrials",
       "cn_name": "西南航空",
-      "price": 39.76,
-      "change_pct": -2.24
+      "price": 39.64,
+      "change_pct": -0.3
     },
     {
       "ticker": "SWK",
       "name": "Stanley Black & Decker",
       "sector": "Industrials",
       "cn_name": "美国史丹利公司",
-      "price": 99.24,
-      "change_pct": -0.52
+      "price": 97.8,
+      "change_pct": -1.45
     },
     {
       "ticker": "STT",
       "name": "State Street Corporation",
       "sector": "Financials",
       "cn_name": "道富",
-      "price": 193.37,
-      "change_pct": -0.13
+      "price": 193.33,
+      "change_pct": -0.02
     },
     {
       "ticker": "STE",
       "name": "Steris",
       "sector": "Health Care",
       "cn_name": "思泰瑞医疗",
-      "price": 232.97,
-      "change_pct": -1.6
+      "price": 233.78,
+      "change_pct": 0.35
     },
     {
       "ticker": "SYK",
       "name": "Stryker Corporation",
       "sector": "Health Care",
       "cn_name": "史赛克",
-      "price": 322.12,
-      "change_pct": -2.29
+      "price": 330.69,
+      "change_pct": 2.66
     },
     {
       "ticker": "SYF",
       "name": "Synchrony Financial",
       "sector": "Financials",
       "cn_name": "SYF",
-      "price": 79.93,
-      "change_pct": 0.19
+      "price": 78.05,
+      "change_pct": -2.35
     },
     {
       "ticker": "SYY",
       "name": "Sysco",
       "sector": "Consumer Staples",
       "cn_name": "西思科公司",
-      "price": 82.45,
-      "change_pct": -0.98
+      "price": 81.94,
+      "change_pct": -0.62
     },
     {
       "ticker": "TPR",
       "name": "Tapestry, Inc.",
       "sector": "Consumer Discretionary",
       "cn_name": "Tapestry Inc.",
-      "price": 123.24,
-      "change_pct": -5.38
+      "price": 125.49,
+      "change_pct": 1.83
     },
     {
       "ticker": "TRGP",
       "name": "Targa Resources",
       "sector": "Energy",
       "cn_name": "Targa Resources Corp",
-      "price": 288.95,
-      "change_pct": -1.73
+      "price": 287.82,
+      "change_pct": -0.39
     },
     {
       "ticker": "TGT",
       "name": "Target Corporation",
       "sector": "Consumer Staples",
       "cn_name": "塔吉特",
-      "price": 165.93,
-      "change_pct": 1.15
+      "price": 163.18,
+      "change_pct": -1.66
     },
     {
       "ticker": "TEL",
       "name": "TE Connectivity",
       "sector": "Information Technology",
       "cn_name": "泰科电子",
-      "price": 203.0,
-      "change_pct": -0.99
+      "price": 202.66,
+      "change_pct": -0.17
     },
     {
       "ticker": "TDY",
       "name": "Teledyne Technologies",
       "sector": "Information Technology",
       "cn_name": "Teledyne Technologies Inc",
-      "price": 626.5,
-      "change_pct": -1.11
+      "price": 621.96,
+      "change_pct": -0.72
     },
     {
       "ticker": "TPL",
       "name": "Texas Pacific Land Corporation",
       "sector": "Energy",
       "cn_name": "Texas Pacific Land Trust Sub Sha",
-      "price": 369.71,
-      "change_pct": 0.08
+      "price": 364.38,
+      "change_pct": -1.44
     },
     {
       "ticker": "TXT",
       "name": "Textron",
       "sector": "Industrials",
       "cn_name": "德事隆",
-      "price": 82.35,
-      "change_pct": -1.15
+      "price": 83.04,
+      "change_pct": 0.84
     },
     {
       "ticker": "TMO",
       "name": "Thermo Fisher Scientific",
       "sector": "Health Care",
       "cn_name": "赛默飞世尔",
-      "price": 630.7,
-      "change_pct": -0.47
+      "price": 622.18,
+      "change_pct": -1.35
     },
     {
       "ticker": "TJX",
       "name": "TJX Companies",
       "sector": "Consumer Discretionary",
       "cn_name": "TJX",
-      "price": 134.22,
-      "change_pct": -1.91
+      "price": 135.12,
+      "change_pct": 0.67
     },
     {
       "ticker": "TKO",
       "name": "TKO Group Holdings",
       "sector": "Communication Services",
       "cn_name": "TKO",
-      "price": 184.34,
-      "change_pct": -1.89
+      "price": 184.64,
+      "change_pct": 0.16
     },
     {
       "ticker": "TT",
       "name": "Trane Technologies",
       "sector": "Industrials",
       "cn_name": "TT",
-      "price": 454.31,
-      "change_pct": -1.96
+      "price": 448.96,
+      "change_pct": -1.18
     },
     {
       "ticker": "TDG",
       "name": "TransDigm Group",
       "sector": "Industrials",
       "cn_name": "TransDigm",
-      "price": 1186.48,
-      "change_pct": -1.7
+      "price": 1185.97,
+      "change_pct": -0.04
     },
     {
       "ticker": "TRV",
       "name": "The Travelers Companies",
       "sector": "Financials",
       "cn_name": "旅行者财产险集团",
-      "price": 369.33,
-      "change_pct": -0.49
+      "price": 369.9,
+      "change_pct": 0.15
     },
     {
       "ticker": "TFC",
       "name": "Truist Financial",
       "sector": "Financials",
       "cn_name": "TFC",
-      "price": 50.3,
-      "change_pct": -0.73
+      "price": 50.43,
+      "change_pct": 0.26
     },
     {
       "ticker": "TYL",
       "name": "Tyler Technologies",
       "sector": "Information Technology",
       "cn_name": "泰勒科技",
-      "price": 369.88,
-      "change_pct": 4.89
+      "price": 377.94,
+      "change_pct": 2.18
     },
     {
       "ticker": "TSN",
       "name": "Tyson Foods",
       "sector": "Consumer Staples",
       "cn_name": "泰森食品",
-      "price": 55.35,
-      "change_pct": -2.12
+      "price": 55.4,
+      "change_pct": 0.09
     },
     {
       "ticker": "USB",
       "name": "U.S. Bancorp",
       "sector": "Financials",
       "cn_name": "合众银行",
-      "price": 62.4,
-      "change_pct": -0.64
+      "price": 62.47,
+      "change_pct": 0.11
     },
     {
       "ticker": "UBER",
       "name": "Uber",
       "sector": "Industrials",
       "cn_name": "优步",
-      "price": 76.95,
-      "change_pct": -1.96
+      "price": 78.82,
+      "change_pct": 2.43
     },
     {
       "ticker": "UDR",
       "name": "UDR, Inc.",
       "sector": "Real Estate",
       "cn_name": "UDR不动产信托",
-      "price": 37.08,
-      "change_pct": -2.24
+      "price": 37.12,
+      "change_pct": 0.11
     },
     {
       "ticker": "UNP",
       "name": "Union Pacific Corporation",
       "sector": "Industrials",
       "cn_name": "联合太平洋",
-      "price": 307.67,
-      "change_pct": -0.95
+      "price": 307.41,
+      "change_pct": -0.08
     },
     {
       "ticker": "UPS",
       "name": "United Parcel Service",
       "sector": "Industrials",
       "cn_name": "联合包裹",
-      "price": 105.68,
-      "change_pct": 0.03
+      "price": 105.33,
+      "change_pct": -0.33
     },
     {
       "ticker": "URI",
       "name": "United Rentals",
       "sector": "Industrials",
       "cn_name": "联合租赁",
-      "price": 1037.51,
-      "change_pct": -1.91
+      "price": 1030.25,
+      "change_pct": -0.7
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group",
       "sector": "Health Care",
       "cn_name": "联合健康",
-      "price": 395.05,
-      "change_pct": -1.49
+      "price": 392.95,
+      "change_pct": -0.53
     },
     {
       "ticker": "UHS",
       "name": "Universal Health Services",
       "sector": "Health Care",
       "cn_name": "Universal Health Services Inc Cl",
-      "price": 172.58,
-      "change_pct": -3.42
+      "price": 171.66,
+      "change_pct": -0.53
     },
     {
       "ticker": "VLO",
       "name": "Valero Energy",
       "sector": "Energy",
       "cn_name": "瓦莱罗能源",
-      "price": 346.59,
-      "change_pct": -0.41
+      "price": 352.36,
+      "change_pct": 1.66
     },
     {
       "ticker": "VEEV",
       "name": "Veeva Systems",
       "sector": "Health Care",
       "cn_name": "Veeva Systems Inc. Class A",
-      "price": 282.13,
-      "change_pct": 15.2
+      "price": 276.69,
+      "change_pct": -1.93
     },
     {
       "ticker": "VTR",
       "name": "Ventas (company)",
       "sector": "Real Estate",
       "cn_name": "芬塔公司",
-      "price": 92.89,
-      "change_pct": -0.65
+      "price": 91.81,
+      "change_pct": -1.16
     },
     {
       "ticker": "VLTO",
       "name": "Veralto",
       "sector": "Industrials",
       "cn_name": "VLTO",
-      "price": 98.37,
-      "change_pct": -0.32
+      "price": 98.56,
+      "change_pct": 0.19
     },
     {
       "ticker": "VZ",
       "name": "Verizon",
       "sector": "Communication Services",
       "cn_name": "威讯",
-      "price": 49.43,
-      "change_pct": -1.51
+      "price": 50.1,
+      "change_pct": 1.36
     },
     {
       "ticker": "VRT",
       "name": "Vertiv",
       "sector": "Industrials",
       "cn_name": "VRT",
-      "price": 269.28,
-      "change_pct": 2.07
+      "price": 257.08,
+      "change_pct": -4.53
     },
     {
       "ticker": "VICI",
       "name": "Vici Properties",
       "sector": "Real Estate",
       "cn_name": "VICI Properties Inc.",
-      "price": 25.77,
-      "change_pct": -0.88
+      "price": 25.87,
+      "change_pct": 0.39
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
       "sector": "Financials",
       "cn_name": "维萨卡",
-      "price": 379.66,
-      "change_pct": -1.1
+      "price": 381.6,
+      "change_pct": 0.51
     },
     {
       "ticker": "VMC",
       "name": "Vulcan Materials Company",
       "sector": "Materials",
       "cn_name": "火神材料",
-      "price": 273.85,
-      "change_pct": 0.04
+      "price": 274.51,
+      "change_pct": 0.24
     },
     {
       "ticker": "WRB",
       "name": "W. R. Berkley Corporation",
       "sector": "Financials",
       "cn_name": "W.R Berkley Corp",
-      "price": 68.34,
-      "change_pct": -0.48
+      "price": 68.44,
+      "change_pct": 0.15
     },
     {
       "ticker": "GWW",
       "name": "W. W. Grainger",
       "sector": "Industrials",
       "cn_name": "美国固安捷",
-      "price": 1321.08,
-      "change_pct": -1.07
+      "price": 1306.3,
+      "change_pct": -1.12
     },
     {
       "ticker": "WAB",
       "name": "Wabtec",
       "sector": "Industrials",
       "cn_name": "美国西屋制动",
-      "price": 297.28,
-      "change_pct": -1.08
+      "price": 292.23,
+      "change_pct": -1.7
     },
     {
       "ticker": "DIS",
       "name": "The Walt Disney Company",
       "sector": "Communication Services",
       "cn_name": "迪士尼",
-      "price": 106.82,
-      "change_pct": -2.56
+      "price": 108.1,
+      "change_pct": 1.2
     },
     {
       "ticker": "WM",
       "name": "Waste Management, Inc.",
       "sector": "Industrials",
       "cn_name": "美国废物管理",
-      "price": 217.76,
-      "change_pct": -1.57
+      "price": 219.66,
+      "change_pct": 0.87
     },
     {
       "ticker": "WAT",
       "name": "Waters Corporation",
       "sector": "Health Care",
       "cn_name": "沃特世",
-      "price": 421.26,
-      "change_pct": 1.71
+      "price": 414.69,
+      "change_pct": -1.56
     },
     {
       "ticker": "WEC",
       "name": "WEC Energy Group",
       "sector": "Utilities",
       "cn_name": "威州能源",
-      "price": 106.28,
-      "change_pct": -1.15
+      "price": 106.22,
+      "change_pct": -0.06
     },
     {
       "ticker": "WFC",
       "name": "Wells Fargo",
       "sector": "Financials",
       "cn_name": "富国银行",
-      "price": 84.97,
-      "change_pct": -0.31
+      "price": 86.69,
+      "change_pct": 2.02
     },
     {
       "ticker": "WELL",
       "name": "Welltower",
       "sector": "Real Estate",
       "cn_name": "Welltower Inc.",
-      "price": 239.6,
-      "change_pct": -0.81
+      "price": 238.07,
+      "change_pct": -0.64
     },
     {
       "ticker": "WST",
       "name": "West Pharmaceutical Services",
       "sector": "Health Care",
       "cn_name": "西氏医药服务",
-      "price": 346.09,
-      "change_pct": -1.09
+      "price": 337.47,
+      "change_pct": -2.49
     },
     {
       "ticker": "WY",
       "name": "Weyerhaeuser",
       "sector": "Real Estate",
       "cn_name": "惠好",
-      "price": 23.7,
-      "change_pct": -1.58
+      "price": 23.64,
+      "change_pct": -0.25
     },
     {
       "ticker": "WSM",
       "name": "Williams-Sonoma, Inc.",
       "sector": "Consumer Discretionary",
       "cn_name": "Williams-Sonoma Inc",
-      "price": 238.4,
-      "change_pct": 0.41
+      "price": 235.09,
+      "change_pct": -1.39
     },
     {
       "ticker": "WMB",
       "name": "Williams Companies",
       "sector": "Energy",
       "cn_name": "威廉姆斯",
-      "price": 74.19,
-      "change_pct": -0.3
+      "price": 73.73,
+      "change_pct": -0.62
     },
     {
       "ticker": "XYL",
       "name": "Xylem Inc.",
       "sector": "Industrials",
       "cn_name": "赛莱默",
-      "price": 112.65,
-      "change_pct": -0.68
+      "price": 111.31,
+      "change_pct": -1.19
     },
     {
       "ticker": "YUM",
       "name": "Yum! Brands",
       "sector": "Consumer Discretionary",
       "cn_name": "百胜餐饮集团",
-      "price": 150.75,
-      "change_pct": -2.37
+      "price": 153.86,
+      "change_pct": 2.06
     },
     {
       "ticker": "ZBH",
       "name": "Zimmer Biomet",
       "sector": "Health Care",
       "cn_name": "Zimmer Biomet Holdings Inc",
-      "price": 99.48,
-      "change_pct": -1.87
+      "price": 100.91,
+      "change_pct": 1.44
     },
     {
       "ticker": "ZTS",
       "name": "Zoetis",
       "sector": "Health Care",
       "cn_name": "硕腾",
-      "price": 75.02,
-      "change_pct": -3.22
+      "price": 77.34,
+      "change_pct": 3.09
     },
     {
       "ticker": "ADBE",
       "name": "Adobe Inc.",
       "sector": "Information Technology",
       "cn_name": "Adobe",
-      "price": 289.15,
-      "change_pct": 5.73
+      "price": 291.52,
+      "change_pct": 0.82
     },
     {
       "ticker": "AMD",
       "name": "AMD",
       "sector": "Information Technology",
       "cn_name": "超威半导体",
-      "price": 476.67,
-      "change_pct": -0.89
+      "price": 465.58,
+      "change_pct": -2.33
     },
     {
       "ticker": "ABNB",
       "name": "Airbnb",
       "sector": "Consumer Discretionary",
       "cn_name": "爱彼迎",
-      "price": 184.4,
-      "change_pct": -1.95
+      "price": 189.43,
+      "change_pct": 2.73
     },
     {
       "ticker": "AKAM",
       "name": "Akamai Technologies",
       "sector": "Information Technology",
       "cn_name": "阿克迈",
-      "price": 111.24,
-      "change_pct": 2.94
+      "price": 107.47,
+      "change_pct": -3.39
     },
     {
       "ticker": "ALGN",
       "name": "Align Technology",
       "sector": "Health Care",
       "cn_name": "阿莱技术公司",
-      "price": 158.84,
-      "change_pct": -0.19
+      "price": 157.58,
+      "change_pct": -0.79
     },
     {
       "ticker": "LNT",
       "name": "Alliant Energy",
       "sector": "Utilities",
       "cn_name": "美国联合能源",
-      "price": 68.21,
-      "change_pct": -1.03
+      "price": 68.03,
+      "change_pct": -0.26
     },
     {
       "ticker": "AMZN",
       "name": "Amazon (company)",
       "sector": "Consumer Discretionary",
       "cn_name": "亚马逊",
-      "price": 256.26,
-      "change_pct": -1.54
+      "price": 266.43,
+      "change_pct": 3.97
     },
     {
       "ticker": "AEP",
       "name": "American Electric Power",
       "sector": "Utilities",
       "cn_name": "美国电力",
-      "price": 122.71,
-      "change_pct": -0.53
+      "price": 122.31,
+      "change_pct": -0.33
     },
     {
       "ticker": "AMGN",
       "name": "Amgen",
       "sector": "Health Care",
       "cn_name": "安进",
-      "price": 436.99,
-      "change_pct": -0.76
+      "price": 432.42,
+      "change_pct": -1.05
     },
     {
       "ticker": "ADI",
       "name": "Analog Devices",
       "sector": "Information Technology",
       "cn_name": "亚德诺",
-      "price": 374.52,
-      "change_pct": 0.73
+      "price": 361.78,
+      "change_pct": -3.4
     },
     {
       "ticker": "APA",
       "name": "APA Corporation",
       "sector": "Energy",
       "cn_name": "阿帕奇公司",
-      "price": 42.38,
-      "change_pct": 2.89
+      "price": 42.54,
+      "change_pct": 0.38
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "sector": "Information Technology",
       "cn_name": "苹果",
-      "price": 314.58,
-      "change_pct": 0.36
+      "price": 319.7,
+      "change_pct": 1.63
     },
     {
       "ticker": "AMAT",
       "name": "Applied Materials",
       "sector": "Information Technology",
       "cn_name": "应用材料",
-      "price": 482.36,
-      "change_pct": 0.54
+      "price": 461.67,
+      "change_pct": -4.29
     },
     {
       "ticker": "APP",
       "name": "AppLovin",
       "sector": "Communication Services",
       "cn_name": "APP AppLovin",
-      "price": 312.63,
-      "change_pct": 1.47
+      "price": 317.76,
+      "change_pct": 1.64
     },
     {
       "ticker": "ACGL",
       "name": "Arch Capital Group",
       "sector": "Financials",
       "cn_name": "艾奇资本",
-      "price": 98.76,
-      "change_pct": -1.95
+      "price": 98.84,
+      "change_pct": 0.08
     },
     {
       "ticker": "ADSK",
       "name": "Autodesk",
       "sector": "Information Technology",
       "cn_name": "欧特克",
-      "price": 270.58,
-      "change_pct": 6.21
+      "price": 260.66,
+      "change_pct": -3.67
     },
     {
       "ticker": "ADP",
       "name": "ADP (company)",
       "sector": "Industrials",
       "cn_name": "自动数据处理",
-      "price": 284.68,
-      "change_pct": 1.17
+      "price": 287.48,
+      "change_pct": 0.98
     },
     {
       "ticker": "AXON",
       "name": "Axon Enterprise",
       "sector": "Industrials",
       "cn_name": "AXON",
-      "price": 611.2,
-      "change_pct": 0.61
+      "price": 600.73,
+      "change_pct": -1.71
     },
     {
       "ticker": "BKR",
       "name": "Baker Hughes",
       "sector": "Energy",
       "cn_name": "Michael Baker Corp",
-      "price": 62.11,
-      "change_pct": 0.18
+      "price": 62.41,
+      "change_pct": 0.48
     },
     {
       "ticker": "TECH",
       "name": "Bio-Techne",
       "sector": "Health Care",
       "cn_name": "Techne Corporation",
-      "price": 72.47,
-      "change_pct": 0.12
+      "price": 72.35,
+      "change_pct": -0.17
     },
     {
       "ticker": "BIIB",
       "name": "Biogen",
       "sector": "Health Care",
       "cn_name": "渤健",
-      "price": 221.5,
-      "change_pct": 0.19
+      "price": 218.5,
+      "change_pct": -1.35
     },
     {
       "ticker": "BKNG",
       "name": "Booking Holdings",
       "sector": "Consumer Discretionary",
       "cn_name": "缤客",
-      "price": 202.56,
-      "change_pct": -3.03
+      "price": 205.63,
+      "change_pct": 1.52
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom",
       "sector": "Information Technology",
       "cn_name": "博通",
-      "price": 371.54,
-      "change_pct": 4.49
+      "price": 368.79,
+      "change_pct": -0.74
     },
     {
       "ticker": "CHRW",
       "name": "C.H. Robinson",
       "sector": "Industrials",
       "cn_name": "罗宾逊物流",
-      "price": 151.14,
-      "change_pct": -0.39
+      "price": 150.39,
+      "change_pct": -0.5
     },
     {
       "ticker": "CDNS",
       "name": "Cadence Design Systems",
       "sector": "Information Technology",
       "cn_name": "铿腾电子",
-      "price": 347.55,
-      "change_pct": 3.85
+      "price": 340.39,
+      "change_pct": -2.06
     },
     {
       "ticker": "CASY",
       "name": "Casey's",
       "sector": "Consumer Staples",
       "cn_name": "Casey’",
-      "price": 763.38,
-      "change_pct": -5.42
+      "price": 755.47,
+      "change_pct": -1.04
     },
     {
       "ticker": "CDW",
       "name": "CDW",
       "sector": "Information Technology",
       "cn_name": "CDW Corporation",
-      "price": 148.97,
-      "change_pct": 5.31
+      "price": 147.69,
+      "change_pct": -0.86
     },
     {
       "ticker": "CHTR",
       "name": "Charter Communications",
       "sector": "Communication Services",
       "cn_name": "特许通讯",
-      "price": 148.32,
-      "change_pct": -3.62
+      "price": 153.62,
+      "change_pct": 3.57
     },
     {
       "ticker": "CINF",
       "name": "Cincinnati Financial",
       "sector": "Financials",
       "cn_name": "辛市金融",
-      "price": 172.52,
-      "change_pct": 0.08
+      "price": 171.97,
+      "change_pct": -0.32
     },
     {
       "ticker": "CTAS",
       "name": "Cintas",
       "sector": "Industrials",
       "cn_name": "信达思",
-      "price": 204.15,
-      "change_pct": -0.79
+      "price": 204.18,
+      "change_pct": 0.01
     },
     {
       "ticker": "CSCO",
       "name": "Cisco",
       "sector": "Information Technology",
       "cn_name": "思科",
-      "price": 112.15,
-      "change_pct": -0.19
+      "price": 109.93,
+      "change_pct": -1.98
     },
     {
       "ticker": "CME",
       "name": "CME Group",
       "sector": "Financials",
       "cn_name": "芝商所",
-      "price": 280.94,
-      "change_pct": -0.01
+      "price": 285.8,
+      "change_pct": 1.73
     },
     {
       "ticker": "CTSH",
       "name": "Cognizant",
       "sector": "Information Technology",
       "cn_name": "高知特",
-      "price": 63.76,
-      "change_pct": 2.69
+      "price": 64.04,
+      "change_pct": 0.44
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
       "sector": "Financials",
       "cn_name": "COIN",
-      "price": 190.72,
-      "change_pct": 4.92
+      "price": 178.64,
+      "change_pct": -6.33
     },
     {
       "ticker": "CMCSA",
       "name": "Comcast",
       "sector": "Communication Services",
       "cn_name": "康卡斯特",
-      "price": 26.41,
-      "change_pct": -2.9
+      "price": 27.06,
+      "change_pct": 2.46
     },
     {
       "ticker": "CEG",
       "name": "Constellation Energy",
       "sector": "Utilities",
       "cn_name": "CEG",
-      "price": 282.41,
-      "change_pct": 1.03
+      "price": 276.75,
+      "change_pct": -2.0
     },
     {
       "ticker": "COO",
       "name": "The Cooper Companies",
       "sector": "Health Care",
       "cn_name": "库珀医疗",
-      "price": 70.96,
-      "change_pct": -2.37
+      "price": 71.17,
+      "change_pct": 0.3
     },
     {
       "ticker": "CPRT",
       "name": "Copart",
       "sector": "Industrials",
       "cn_name": "科帕特",
-      "price": 32.76,
-      "change_pct": 0.28
+      "price": 32.99,
+      "change_pct": 0.7
     },
     {
       "ticker": "CSGP",
       "name": "CoStar Group",
       "sector": "Real Estate",
       "cn_name": "科斯塔",
-      "price": 31.34,
-      "change_pct": -2.49
+      "price": 32.22,
+      "change_pct": 2.81
     },
     {
       "ticker": "COST",
       "name": "Costco",
       "sector": "Consumer Staples",
       "cn_name": "开市客",
-      "price": 934.66,
-      "change_pct": -2.24
+      "price": 945.47,
+      "change_pct": 1.16
     },
     {
       "ticker": "CRWD",
       "name": "CrowdStrike",
       "sector": "Information Technology",
       "cn_name": "CrowdStrike",
-      "price": 227.96,
-      "change_pct": 20.5
+      "price": 218.4,
+      "change_pct": -4.19
     },
     {
       "ticker": "CSX",
       "name": "CSX Corporation",
       "sector": "Industrials",
       "cn_name": "CSX运输",
-      "price": 51.54,
-      "change_pct": -0.43
+      "price": 51.28,
+      "change_pct": -0.5
     },
     {
       "ticker": "DDOG",
       "name": "Datadog",
       "sector": "Information Technology",
       "cn_name": "DDOG",
-      "price": 242.93,
-      "change_pct": 6.7
+      "price": 236.98,
+      "change_pct": -2.45
     },
     {
       "ticker": "DXCM",
       "name": "Dexcom",
       "sector": "Health Care",
       "cn_name": "德康医疗",
-      "price": 89.29,
-      "change_pct": 0.37
+      "price": 90.82,
+      "change_pct": 1.71
     },
     {
       "ticker": "FANG",
       "name": "Diamondback Energy",
       "sector": "Energy",
       "cn_name": "Diamondback Energy",
-      "price": 200.52,
-      "change_pct": 0.34
+      "price": 197.67,
+      "change_pct": -1.42
     },
     {
       "ticker": "DLTR",
       "name": "Dollar Tree",
       "sector": "Consumer Staples",
       "cn_name": "美元树",
-      "price": 127.0,
-      "change_pct": -3.92
+      "price": 128.26,
+      "change_pct": 0.99
     },
     {
       "ticker": "DASH",
       "name": "DoorDash",
       "sector": "Consumer Discretionary",
       "cn_name": "DoorDash",
-      "price": 231.89,
-      "change_pct": -2.13
+      "price": 236.74,
+      "change_pct": 2.09
     },
     {
       "ticker": "EBAY",
       "name": "eBay",
       "sector": "Consumer Discretionary",
       "cn_name": "eBay",
-      "price": 102.27,
-      "change_pct": -1.85
+      "price": 105.62,
+      "change_pct": 3.28
     },
     {
       "ticker": "ECHO",
       "name": "EchoStar",
       "sector": "Communication Services",
       "cn_name": "Echo Global Logistics",
-      "price": 86.47,
-      "change_pct": 1.0
+      "price": 86.84,
+      "change_pct": 0.43
     },
     {
       "ticker": "EQIX",
       "name": "Equinix",
       "sector": "Real Estate",
       "cn_name": "易昆尼克斯",
-      "price": 1076.45,
-      "change_pct": -0.29
+      "price": 1044.41,
+      "change_pct": -2.98
     },
     {
       "ticker": "ERIE",
       "name": "Erie Insurance Group",
       "sector": "Financials",
       "cn_name": "伊瑞保险",
-      "price": 259.44,
-      "change_pct": 0.84
+      "price": 260.4,
+      "change_pct": 0.37
     },
     {
       "ticker": "EXC",
       "name": "Exelon",
       "sector": "Utilities",
       "cn_name": "爱克斯龙",
-      "price": 43.96,
-      "change_pct": -1.08
+      "price": 43.93,
+      "change_pct": -0.07
     },
     {
       "ticker": "EXE",
       "name": "Expand Energy",
       "sector": "Energy",
       "cn_name": "EXE",
-      "price": 98.0,
-      "change_pct": 1.48
+      "price": 98.16,
+      "change_pct": 0.16
     },
     {
       "ticker": "EXPE",
       "name": "Expedia Group",
       "sector": "Consumer Discretionary",
       "cn_name": "亿客行",
-      "price": 318.92,
-      "change_pct": -4.35
+      "price": 329.44,
+      "change_pct": 3.3
     },
     {
       "ticker": "EXPD",
       "name": "Expeditors International",
       "sector": "Industrials",
       "cn_name": "康捷国际物流",
-      "price": 190.72,
-      "change_pct": 0.28
+      "price": 190.97,
+      "change_pct": 0.13
     },
     {
       "ticker": "FFIV",
       "name": "F5, Inc.",
       "sector": "Information Technology",
       "cn_name": "F5网络",
-      "price": 410.22,
-      "change_pct": 2.66
+      "price": 394.24,
+      "change_pct": -3.9
     },
     {
       "ticker": "FAST",
       "name": "Fastenal",
       "sector": "Industrials",
       "cn_name": "快扣",
-      "price": 51.14,
-      "change_pct": -0.02
+      "price": 49.78,
+      "change_pct": -2.66
     },
     {
       "ticker": "FSLR",
       "name": "First Solar",
       "sector": "Information Technology",
       "cn_name": "第一太阳能",
-      "price": 210.1,
-      "change_pct": 2.02
+      "price": 204.46,
+      "change_pct": -2.68
     },
     {
       "ticker": "FISV",
       "name": "Fiserv",
       "sector": "Financials",
       "cn_name": "费哲",
-      "price": 52.58,
-      "change_pct": 0.25
+      "price": 53.18,
+      "change_pct": 1.14
     },
     {
       "ticker": "FLEX",
       "name": "Flex Ltd.",
       "sector": "Information Technology",
       "cn_name": "伟创力国际",
-      "price": 115.3,
-      "change_pct": 3.11
+      "price": 110.5,
+      "change_pct": -4.16
     },
     {
       "ticker": "FTNT",
       "name": "Fortinet",
       "sector": "Information Technology",
       "cn_name": "飞塔信息",
-      "price": 172.78,
-      "change_pct": 9.67
+      "price": 166.0,
+      "change_pct": -3.92
     },
     {
       "ticker": "GEHC",
       "name": "GE HealthCare",
       "sector": "Health Care",
       "cn_name": "GEHC",
-      "price": 72.48,
-      "change_pct": -1.13
+      "price": 71.72,
+      "change_pct": -1.04
     },
     {
       "ticker": "GEN",
       "name": "Gen Digital",
       "sector": "Information Technology",
       "cn_name": "Genesis Healthcare Inc.",
-      "price": 30.5,
-      "change_pct": 2.9
+      "price": 31.02,
+      "change_pct": 1.7
     },
     {
       "ticker": "GILD",
       "name": "Gilead Sciences",
       "sector": "Health Care",
       "cn_name": "吉利德",
-      "price": 148.86,
-      "change_pct": 0.52
+      "price": 145.68,
+      "change_pct": -2.14
     },
     {
       "ticker": "HAS",
       "name": "Hasbro",
       "sector": "Consumer Discretionary",
       "cn_name": "孩之宝",
-      "price": 94.18,
-      "change_pct": -2.19
+      "price": 94.23,
+      "change_pct": 0.05
     },
     {
       "ticker": "HSIC",
       "name": "Henry Schein",
       "sector": "Health Care",
       "cn_name": "亨利香恩服务",
-      "price": 90.28,
-      "change_pct": -0.11
+      "price": 89.52,
+      "change_pct": -0.84
     },
     {
       "ticker": "HONA",
       "name": "Honeywell Aerospace",
       "sector": "Industrials",
       "cn_name": "HONA",
-      "price": 160.75,
-      "change_pct": -1.99
+      "price": 162.37,
+      "change_pct": 1.01
     },
     {
       "ticker": "HON",
       "name": "Honeywell",
       "sector": "Industrials",
       "cn_name": "霍尼韦尔",
-      "price": 220.39,
-      "change_pct": -0.13
+      "price": 217.43,
+      "change_pct": -1.34
     },
     {
       "ticker": "HST",
       "name": "Host Hotels & Resorts",
       "sector": "Real Estate",
       "cn_name": "美国豪斯特酒店",
-      "price": 22.34,
-      "change_pct": -0.4
+      "price": 22.28,
+      "change_pct": -0.27
     },
     {
       "ticker": "HBAN",
       "name": "Huntington Bancshares",
       "sector": "Financials",
       "cn_name": "亨廷顿",
-      "price": 16.86,
-      "change_pct": -1.06
+      "price": 16.92,
+      "change_pct": 0.36
     },
     {
       "ticker": "IDXX",
       "name": "Idexx Laboratories",
       "sector": "Health Care",
       "cn_name": "IDEXX实验室",
-      "price": 545.08,
-      "change_pct": -1.51
+      "price": 554.99,
+      "change_pct": 1.82
     },
     {
       "ticker": "INCY",
       "name": "Incyte",
       "sector": "Health Care",
       "cn_name": "因塞特医疗",
-      "price": 127.74,
-      "change_pct": -0.3
+      "price": 124.37,
+      "change_pct": -2.64
     },
     {
       "ticker": "INTC",
       "name": "Intel",
       "sector": "Information Technology",
       "cn_name": "英特尔",
-      "price": 92.09,
-      "change_pct": 4.36
+      "price": 89.47,
+      "change_pct": -2.85
     },
     {
       "ticker": "IBKR",
       "name": "Interactive Brokers",
       "sector": "Financials",
       "cn_name": "盈透证券",
-      "price": 96.55,
-      "change_pct": -0.48
+      "price": 95.84,
+      "change_pct": -0.74
     },
     {
       "ticker": "INTU",
       "name": "Intuit",
       "sector": "Information Technology",
       "cn_name": "财捷",
-      "price": 348.0,
-      "change_pct": 0.61
+      "price": 358.06,
+      "change_pct": 2.89
     },
     {
       "ticker": "ISRG",
       "name": "Intuitive Surgical",
       "sector": "Health Care",
       "cn_name": "直觉外科",
-      "price": 367.07,
-      "change_pct": -0.9
+      "price": 372.6,
+      "change_pct": 1.51
     },
     {
       "ticker": "JBHT",
       "name": "J.B. Hunt",
       "sector": "Industrials",
       "cn_name": "JB Hunt运输服务",
-      "price": 263.39,
-      "change_pct": -0.09
+      "price": 261.03,
+      "change_pct": -0.9
     },
     {
       "ticker": "JKHY",
       "name": "Jack Henry & Associates",
       "sector": "Financials",
       "cn_name": "杰克亨利",
-      "price": 169.64,
-      "change_pct": -1.6
+      "price": 169.73,
+      "change_pct": 0.05
     },
     {
       "ticker": "KDP",
       "name": "Keurig Dr Pepper",
       "sector": "Consumer Staples",
       "cn_name": "Keurig Dr Pepper Inc",
-      "price": 31.88,
-      "change_pct": -1.02
+      "price": 32.18,
+      "change_pct": 0.94
     },
     {
       "ticker": "KMB",
       "name": "Kimberly-Clark",
       "sector": "Consumer Staples",
       "cn_name": "金伯利",
-      "price": 109.98,
-      "change_pct": -0.33
+      "price": 109.55,
+      "change_pct": -0.39
     },
     {
       "ticker": "KLAC",
       "name": "KLA Corporation",
       "sector": "Information Technology",
       "cn_name": "科磊",
-      "price": 183.77,
-      "change_pct": -0.03
+      "price": 175.54,
+      "change_pct": -4.48
     },
     {
       "ticker": "KHC",
       "name": "Kraft Heinz",
       "sector": "Consumer Staples",
       "cn_name": "卡夫亨氏",
-      "price": 25.13,
-      "change_pct": 1.37
+      "price": 25.7,
+      "change_pct": 2.27
     },
     {
       "ticker": "LRCX",
       "name": "Lam Research",
       "sector": "Information Technology",
       "cn_name": "泛林集团",
-      "price": 318.58,
-      "change_pct": 1.82
+      "price": 301.9,
+      "change_pct": -5.24
     },
     {
       "ticker": "LIN",
       "name": "Linde plc",
       "sector": "Materials",
       "cn_name": "Linde Plc",
-      "price": 485.35,
-      "change_pct": -1.02
+      "price": 489.51,
+      "change_pct": 0.86
     },
     {
       "ticker": "LULU",
       "name": "Lululemon",
       "sector": "Consumer Discretionary",
       "cn_name": "lululemon athletica inc.",
-      "price": 115.0,
-      "change_pct": -1.16
+      "price": 120.81,
+      "change_pct": 5.05
     },
     {
       "ticker": "LITE",
       "name": "Lumentum",
       "sector": "Information Technology",
       "cn_name": "Lumentum Holdings Inc. Common Stock When Issued",
-      "price": 956.14,
-      "change_pct": 1.82
+      "price": 895.0,
+      "change_pct": -6.39
     },
     {
       "ticker": "MAR",
       "name": "Marriott International",
       "sector": "Consumer Discretionary",
       "cn_name": "万豪",
-      "price": 353.87,
-      "change_pct": -1.34
+      "price": 351.08,
+      "change_pct": -0.79
     },
     {
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "sector": "Information Technology",
       "cn_name": "迈威尔科技",
-      "price": 241.45,
-      "change_pct": -1.49
+      "price": 216.62,
+      "change_pct": -10.28
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
       "sector": "Communication Services",
       "cn_name": "Meta Platforms",
-      "price": 571.1,
-      "change_pct": -0.87
+      "price": 578.02,
+      "change_pct": 1.21
     },
     {
       "ticker": "MCHP",
       "name": "Microchip Technology",
       "sector": "Information Technology",
       "cn_name": "微芯科技",
-      "price": 75.49,
-      "change_pct": 1.94
+      "price": 72.93,
+      "change_pct": -3.39
     },
     {
       "ticker": "MU",
       "name": "Micron Technology",
       "sector": "Information Technology",
       "cn_name": "美光",
-      "price": 935.39,
-      "change_pct": -0.32
+      "price": 932.86,
+      "change_pct": -0.27
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
       "sector": "Information Technology",
       "cn_name": "微软",
-      "price": 505.06,
-      "change_pct": 1.75
+      "price": 513.53,
+      "change_pct": 1.68
     },
     {
       "ticker": "MRNA",
       "name": "Moderna",
       "sector": "Health Care",
       "cn_name": "MRNA",
-      "price": 142.77,
-      "change_pct": -4.6
+      "price": 137.99,
+      "change_pct": -3.35
     },
     {
       "ticker": "MDLZ",
       "name": "Mondelez International",
       "sector": "Consumer Staples",
       "cn_name": "亿滋",
-      "price": 62.43,
-      "change_pct": -0.92
+      "price": 62.36,
+      "change_pct": -0.11
     },
     {
       "ticker": "MPWR",
       "name": "Monolithic Power Systems",
       "sector": "Information Technology",
       "cn_name": "Monolithic Power Systems",
-      "price": 1311.08,
-      "change_pct": 0.55
+      "price": 1256.26,
+      "change_pct": -4.18
     },
     {
       "ticker": "MNST",
       "name": "Monster Beverage",
       "sector": "Consumer Staples",
       "cn_name": "怪物饮料",
-      "price": 46.7,
-      "change_pct": -2.32
+      "price": 46.86,
+      "change_pct": 0.34
     },
     {
       "ticker": "NDAQ",
       "name": "Nasdaq, Inc.",
       "sector": "Financials",
       "cn_name": "纳斯达克集团",
-      "price": 99.35,
-      "change_pct": -0.12
+      "price": 99.31,
+      "change_pct": -0.04
     },
     {
       "ticker": "NTAP",
       "name": "NetApp",
       "sector": "Information Technology",
       "cn_name": "美国网存",
-      "price": 190.64,
-      "change_pct": -1.66
+      "price": 187.02,
+      "change_pct": -1.9
     },
     {
       "ticker": "NFLX",
       "name": "Netflix, Inc.",
       "sector": "Communication Services",
       "cn_name": "奈飞",
-      "price": 79.84,
-      "change_pct": -1.99
+      "price": 81.72,
+      "change_pct": 2.35
     },
     {
       "ticker": "NDSN",
       "name": "Nordson Corporation",
       "sector": "Industrials",
       "cn_name": "诺信",
-      "price": 330.84,
-      "change_pct": -1.12
+      "price": 324.59,
+      "change_pct": -1.89
     },
     {
       "ticker": "NTRS",
       "name": "Northern Trust",
       "sector": "Financials",
       "cn_name": "北方信托公司",
-      "price": 186.27,
-      "change_pct": -0.74
+      "price": 186.79,
+      "change_pct": 0.28
     },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
       "sector": "Information Technology",
       "cn_name": "英伟达",
-      "price": 227.98,
-      "change_pct": 8.74
+      "price": 217.55,
+      "change_pct": -4.57
     },
     {
       "ticker": "NXPI",
       "name": "NXP Semiconductors",
       "sector": "Information Technology",
       "cn_name": "恩智浦",
-      "price": 225.86,
-      "change_pct": 1.21
+      "price": 223.58,
+      "change_pct": -1.01
     },
     {
       "ticker": "ORLY",
       "name": "O'Reilly Auto Parts",
       "sector": "Consumer Discretionary",
       "cn_name": "奥莱利",
-      "price": 87.83,
-      "change_pct": -1.92
+      "price": 88.5,
+      "change_pct": 0.76
     },
     {
       "ticker": "ODFL",
       "name": "Old Dominion Freight Line",
       "sector": "Industrials",
       "cn_name": "Old Dominion Freight Line",
-      "price": 200.06,
-      "change_pct": 0.32
+      "price": 198.63,
+      "change_pct": -0.71
     },
     {
       "ticker": "ON",
       "name": "onsemi",
       "sector": "Information Technology",
       "cn_name": "ON SEMICONDUCTOR",
-      "price": 74.8,
-      "change_pct": 2.16
+      "price": 72.61,
+      "change_pct": -2.93
     },
     {
       "ticker": "PCAR",
       "name": "Paccar",
       "sector": "Industrials",
       "cn_name": "帕卡",
-      "price": 126.54,
-      "change_pct": -2.08
+      "price": 125.34,
+      "change_pct": -0.95
     },
     {
       "ticker": "PLTR",
       "name": "Palantir Technologies",
       "sector": "Information Technology",
       "cn_name": "PLTR",
-      "price": 185.93,
-      "change_pct": 4.75
+      "price": 186.29,
+      "change_pct": 0.19
     },
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks",
       "sector": "Information Technology",
       "cn_name": "派拓网络",
-      "price": 382.85,
-      "change_pct": 12.83
+      "price": 371.59,
+      "change_pct": -2.94
     },
     {
       "ticker": "PSKY",
       "name": "Paramount Skydance",
       "sector": "Communication Services",
       "cn_name": "PSKY",
-      "price": 10.8,
-      "change_pct": 0.56
+      "price": 10.88,
+      "change_pct": 0.74
     },
     {
       "ticker": "PAYX",
       "name": "Paychex",
       "sector": "Industrials",
       "cn_name": "沛齐",
-      "price": 126.48,
-      "change_pct": 1.28
+      "price": 127.04,
+      "change_pct": 0.44
     },
     {
       "ticker": "PYPL",
       "name": "PayPal",
       "sector": "Financials",
       "cn_name": "贝宝",
-      "price": 61.47,
-      "change_pct": -0.55
+      "price": 53.66,
+      "change_pct": -12.71
     },
     {
       "ticker": "PEP",
       "name": "PepsiCo",
       "sector": "Consumer Staples",
       "cn_name": "百事可乐",
-      "price": 139.72,
-      "change_pct": -1.74
+      "price": 141.07,
+      "change_pct": 0.97
     },
     {
       "ticker": "PFG",
       "name": "Principal Financial Group",
       "sector": "Financials",
       "cn_name": "信安金融",
-      "price": 112.17,
-      "change_pct": -0.04
+      "price": 111.41,
+      "change_pct": -0.68
     },
     {
       "ticker": "PTC",
       "name": "PTC (software company)",
       "sector": "Information Technology",
       "cn_name": "PTC Inc.",
-      "price": 158.95,
-      "change_pct": 4.84
+      "price": 157.15,
+      "change_pct": -1.13
     },
     {
       "ticker": "QCOM",
       "name": "Qualcomm",
       "sector": "Information Technology",
       "cn_name": "高通",
-      "price": 164.78,
-      "change_pct": 0.65
+      "price": 164.19,
+      "change_pct": -0.36
     },
     {
       "ticker": "REG",
       "name": "Regency Centers",
       "sector": "Real Estate",
       "cn_name": "Regency Centers Corp",
-      "price": 75.46,
-      "change_pct": -1.2
+      "price": 75.52,
+      "change_pct": 0.08
     },
     {
       "ticker": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "sector": "Health Care",
       "cn_name": "再生元制药",
-      "price": 807.71,
-      "change_pct": -0.87
+      "price": 794.19,
+      "change_pct": -1.67
     },
     {
       "ticker": "HOOD",
       "name": "Robinhood Markets",
       "sector": "Financials",
       "cn_name": "罗宾汉",
-      "price": 109.76,
-      "change_pct": 1.12
+      "price": 104.26,
+      "change_pct": -5.01
     },
     {
       "ticker": "ROP",
       "name": "Roper Technologies",
       "sector": "Information Technology",
       "cn_name": "儒博实业",
-      "price": 422.69,
-      "change_pct": 2.28
+      "price": 426.2,
+      "change_pct": 0.83
     },
     {
       "ticker": "ROST",
       "name": "Ross Stores",
       "sector": "Consumer Discretionary",
       "cn_name": "罗斯百货有限公司",
-      "price": 229.87,
-      "change_pct": -2.71
+      "price": 228.55,
+      "change_pct": -0.57
     },
     {
       "ticker": "SNDK",
       "name": "Sandisk",
       "sector": "Information Technology",
       "cn_name": "闪迪",
-      "price": 1484.95,
-      "change_pct": -0.96
+      "price": 1484.98,
+      "change_pct": 0.0
     },
     {
       "ticker": "SBAC",
       "name": "SBA Communications",
       "sector": "Real Estate",
       "cn_name": "SBA通信公司",
-      "price": 186.96,
-      "change_pct": 0.53
+      "price": 190.95,
+      "change_pct": 2.13
     },
     {
       "ticker": "STX",
       "name": "Seagate Technology",
       "sector": "Information Technology",
       "cn_name": "希捷",
-      "price": 847.2,
-      "change_pct": 0.1
+      "price": 829.76,
+      "change_pct": -2.06
     },
     {
       "ticker": "SWKS",
       "name": "Skyworks Solutions",
       "sector": "Information Technology",
       "cn_name": "思佳讯",
-      "price": 67.36,
-      "change_pct": 1.11
+      "price": 65.79,
+      "change_pct": -2.33
     },
     {
       "ticker": "SBUX",
       "name": "Starbucks",
       "sector": "Consumer Discretionary",
       "cn_name": "星巴克",
-      "price": 107.26,
-      "change_pct": -1.13
+      "price": 107.85,
+      "change_pct": 0.55
     },
     {
       "ticker": "STLD",
       "name": "Steel Dynamics",
       "sector": "Materials",
       "cn_name": "Steel Dynamics",
-      "price": 235.84,
-      "change_pct": -0.03
+      "price": 234.67,
+      "change_pct": -0.5
     },
     {
       "ticker": "SMCI",
       "name": "Supermicro",
       "sector": "Information Technology",
       "cn_name": "超微电脑",
-      "price": 38.46,
-      "change_pct": 2.86
+      "price": 37.08,
+      "change_pct": -3.59
     },
     {
       "ticker": "SNPS",
       "name": "Synopsys",
       "sector": "Information Technology",
       "cn_name": "新思科技",
-      "price": 464.89,
-      "change_pct": 13.39
+      "price": 442.61,
+      "change_pct": -4.79
     },
     {
       "ticker": "TMUS",
       "name": "T-Mobile US",
       "sector": "Communication Services",
       "cn_name": "T MOBILE US INC",
-      "price": 177.75,
-      "change_pct": -1.04
+      "price": 181.37,
+      "change_pct": 2.04
     },
     {
       "ticker": "TROW",
       "name": "T. Rowe Price",
       "sector": "Financials",
       "cn_name": "罗派斯",
-      "price": 112.36,
-      "change_pct": -0.17
+      "price": 111.24,
+      "change_pct": -1.0
     },
     {
       "ticker": "TTWO",
       "name": "Take-Two Interactive",
       "sector": "Communication Services",
       "cn_name": "TTWO",
-      "price": 233.0,
-      "change_pct": -0.19
+      "price": 235.39,
+      "change_pct": 1.03
     },
     {
       "ticker": "TER",
       "name": "Teradyne",
       "sector": "Information Technology",
       "cn_name": "泰瑞达",
-      "price": 372.06,
-      "change_pct": 2.47
+      "price": 354.97,
+      "change_pct": -4.59
     },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
       "sector": "Consumer Discretionary",
       "cn_name": "特斯拉",
-      "price": 354.81,
-      "change_pct": 2.6
+      "price": 348.75,
+      "change_pct": -1.71
     },
     {
       "ticker": "TXN",
       "name": "Texas Instruments",
       "sector": "Information Technology",
       "cn_name": "德州仪器",
-      "price": 266.54,
-      "change_pct": 1.82
+      "price": 258.64,
+      "change_pct": -2.96
     },
     {
       "ticker": "TTD",
       "name": "The Trade Desk",
       "sector": "Communication Services",
       "cn_name": "TTD",
-      "price": 13.42,
-      "change_pct": 2.99
+      "price": 13.57,
+      "change_pct": 1.12
     },
     {
       "ticker": "TSCO",
       "name": "Tractor Supply",
       "sector": "Consumer Discretionary",
       "cn_name": "拖拉机供应",
-      "price": 34.7,
-      "change_pct": -0.89
+      "price": 34.72,
+      "change_pct": 0.06
     },
     {
       "ticker": "TRMB",
       "name": "Trimble Inc.",
       "sector": "Information Technology",
       "cn_name": "天宝导航",
-      "price": 61.54,
-      "change_pct": 3.12
+      "price": 61.01,
+      "change_pct": -0.86
     },
     {
       "ticker": "ULTA",
       "name": "Ulta Beauty",
       "sector": "Consumer Discretionary",
       "cn_name": "Ulta美容产品",
-      "price": 540.1,
-      "change_pct": -0.57
+      "price": 517.5,
+      "change_pct": -4.18
     },
     {
       "ticker": "UAL",
       "name": "United Airlines Holdings",
       "sector": "Industrials",
       "cn_name": "联合大陆航空",
-      "price": 112.39,
-      "change_pct": -2.12
+      "price": 110.6,
+      "change_pct": -1.59
     },
     {
       "ticker": "VRSN",
       "name": "Verisign",
       "sector": "Information Technology",
       "cn_name": "威瑞信",
-      "price": 294.73,
-      "change_pct": 0.59
+      "price": 291.93,
+      "change_pct": -0.95
     },
     {
       "ticker": "VRSK",
       "name": "Verisk Analytics",
       "sector": "Industrials",
       "cn_name": "Verisk Analytics",
-      "price": 191.02,
-      "change_pct": 1.68
+      "price": 191.77,
+      "change_pct": 0.39
     },
     {
       "ticker": "VRTX",
       "name": "Vertex Pharmaceuticals",
       "sector": "Health Care",
       "cn_name": "福泰制药",
-      "price": 547.55,
-      "change_pct": 0.05
+      "price": 541.69,
+      "change_pct": -1.07
     },
     {
       "ticker": "VTRS",
       "name": "Viatris",
       "sector": "Health Care",
       "cn_name": "VTRS",
-      "price": 16.89,
-      "change_pct": 0.24
+      "price": 16.34,
+      "change_pct": -3.26
     },
     {
       "ticker": "WMT",
       "name": "Walmart",
       "sector": "Consumer Staples",
       "cn_name": "沃尔玛",
-      "price": 102.63,
-      "change_pct": -1.64
+      "price": 103.09,
+      "change_pct": 0.45
     },
     {
       "ticker": "WBD",
       "name": "Warner Bros. Discovery",
       "sector": "Communication Services",
       "cn_name": "WBD",
-      "price": 28.88,
-      "change_pct": 0.45
+      "price": 28.77,
+      "change_pct": -0.38
     },
     {
       "ticker": "WDC",
       "name": "Western Digital",
       "sector": "Information Technology",
       "cn_name": "西部数据",
-      "price": 462.0,
-      "change_pct": -1.47
+      "price": 459.45,
+      "change_pct": -0.55
     },
     {
       "ticker": "WTW",
       "name": "Willis Towers Watson",
       "sector": "Financials",
       "cn_name": "慧俪轻体",
-      "price": 339.58,
-      "change_pct": -1.03
+      "price": 343.75,
+      "change_pct": 1.23
     },
     {
       "ticker": "WDAY",
       "name": "Workday, Inc.",
       "sector": "Information Technology",
       "cn_name": "工时公司",
-      "price": 193.57,
-      "change_pct": 1.48
+      "price": 204.72,
+      "change_pct": 5.76
     },
     {
       "ticker": "WYNN",
       "name": "Wynn Resorts",
       "sector": "Consumer Discretionary",
       "cn_name": "永利",
-      "price": 93.61,
-      "change_pct": -3.66
+      "price": 95.26,
+      "change_pct": 1.76
     },
     {
       "ticker": "XEL",
       "name": "Xcel Energy",
       "sector": "Utilities",
       "cn_name": "卓越能源",
-      "price": 77.16,
-      "change_pct": -0.67
+      "price": 76.45,
+      "change_pct": -0.92
     },
     {
       "ticker": "ZBRA",
       "name": "Zebra Technologies",
       "sector": "Information Technology",
       "cn_name": "斑马技术",
-      "price": 361.11,
-      "change_pct": 0.35
+      "price": 356.45,
+      "change_pct": -1.29
     }
   ],
   "news": [
@@ -5042,10 +5042,31 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "title": "Amazon.com vs. MercadoLibre: A Look at Which E-Commerce Stock Is a Better Investment in 2026",
+      "link": "https://www.fool.com/coverage/better-buy/2026/08/29/amazon-com-vs-mercadolibre-a-look-at-which-e-commerce-stock-is-a-better-investment-in-2026/?.tsrc=rss",
+      "date": "Sun, 30 Aug 2026 01:10:23 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
       "ticker": "NVDA",
-      "title": "Nvidia Just Locked In a $279 Billion Bet on Memory Chips",
-      "link": "https://www.fool.com/investing/2026/08/29/nvidia-just-locked-in-a-279-billion-bet-on-memory/?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 04:20:00 +0000",
+      "title": "Peter Thiel's Fund Reported Zero Stocks for 2 Straight Quarters. Its $419 Million Comeback Put 72% Into Energy and Power.",
+      "link": "https://www.fool.com/investing/2026/08/29/peter-thiel-s-fund-reported-zero-stocks-for-2-straight-quarters-its-usd419-million-comeback-put-72-into-energy-and-power/?.tsrc=rss",
+      "date": "Sun, 30 Aug 2026 01:03:01 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -5056,6 +5077,452 @@
       "impacts": [
         {
           "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "John Ternus Becomes Apple's CEO on Sept. 1. Here's What History Says the First Year Does to the Stock.",
+      "link": "https://www.fool.com/investing/2026/08/29/john-ternus-becomes-apple-s-ceo-on-sept-1-here-s-what-history-says-the-first-year-does-to-the-stock/?.tsrc=rss",
+      "date": "Sun, 30 Aug 2026 00:01:01 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon's $200 Ring doorbell camera keeps packages safe on your porch",
+      "link": "https://www.thestreet.com/shopping/ring-4k-pro-doorbell-camera-amazon-sale?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 23:45:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why.",
+      "link": "https://www.fool.com/investing/2026/08/29/nios-next-earnings-report-on-september-1-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 22:50:01 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Sandisk and Kioxia Plan to Invest More Than $31 Billion in Japanese Memory Plants  About 60% of What They Have Spent There in 25 Years.",
+      "link": "https://www.fool.com/investing/2026/08/29/sandisk-and-kioxia-plan-to-invest-more-than-usd31-billion-in-japanese-memory-plants-about-60-of-what-they-have-spent-there-in-25-years/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 21:58:01 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock in 2027: Why I Think TSLA Still Has Room to Run",
+      "link": "https://www.fool.com/investing/2026/08/29/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 21:50:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, Its Now 1 Step Ahead.",
+      "link": "https://www.barchart.com/story/news/4340050/apple-was-always-1-step-behind-in-ai-in-chipmaking-its-now-1-step-ahead?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 20:30:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
+      "link": "https://www.fool.com/investing/2026/08/29/billionaire-stanley-druckenmiller-sold-broadcom-an/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 20:20:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AVGO",
+        "INTC"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Stock And 2 Founder Led AI Picks For Higher Rates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-2-founder-led-201520433.html?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 20:15:20 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors",
+      "link": "https://www.fool.com/investing/2026/08/29/optimus-just-entered-production-at-fremont-heres-w/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 18:35:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Oracle vs. Microsoft: Big Techs AI Cloud Battle Has a New Underdog",
+      "link": "https://www.barchart.com/story/news/4339635/oracle-vs-microsoft-big-techs-ai-cloud-battle-has-a-new-underdog?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 18:30:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT",
+        "ORCL"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon.com (AMZN) Triples AI Chip Orders As Robotaxi Supplier Network Expands",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-com-amzn-triples-ai-180950072.html?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 18:09:50 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "'I Don't Know John Ternus,' Jim Cramer Says  but He Trusts Tim Cook's Word on Apple's Next CEO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 15:46:09 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Meta Continues to Trade Jobs for AI: Robots Are Coming For Us All",
+      "link": "https://247wallst.com/investing/2026/08/29/meta-continues-to-trade-jobs-for-ai-robots-are-coming-for-us-all/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 15:31:52 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Continues to Trade Jobs for AI: Robots Are Coming For Us All",
+      "link": "https://247wallst.com/investing/2026/08/29/meta-continues-to-trade-jobs-for-ai-robots-are-coming-for-us-all/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 15:31:52 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg sends shocking message to Meta employees",
+      "link": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 15:07:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Why Tesla's Optimus Robot Might Have a Hollywood \"Problem\"",
+      "link": "https://www.fool.com/investing/2026/08/29/why-tesla-optimus-robot-hollywood-problem/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 14:50:00 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "VUG vs. VOOG Is Not a Fee Fight | How the Cheaper Vanguard Growth ETF Is Losing",
+      "link": "https://247wallst.com/investing/etf/2026/08/29/vug-vs-voog-is-not-a-fee-fight-how-the-cheaper-vanguard-growth-etf-is-losing/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 13:53:18 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Most Investors Want to Dump Tesla. I'm Not One of Them.",
+      "link": "https://www.fool.com/investing/2026/08/29/most-investors-want-to-dump-tesla-im-not-one-of-th/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 12:08:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dow Jones Futures: Microsoft, Titans Mask Market Weakness. Here's What To Do.",
+      "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 11:56:31 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "MSFT",
+        "SPX"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft, Palantir Among Stocks To Watch As Software Bounces Back",
+      "link": "https://finance.yahoo.com/m/b414058c-8e62-33ba-b995-207f327e190e/microsoft%2C-palantir-among.html?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 11:55:57 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT",
+        "PLTR"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
+      "link": "https://www.fool.com/investing/2026/08/29/mark-zuckerbergs-meta-just-open-sourced-its-most-p/?.tsrc=rss",
+      "date": "Sat, 29 Aug 2026 09:05:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT",
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5084,28 +5551,6 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "Jim Cramer Explained What Turned The Tide For NVIDIA Corporation (NASDAQ:NVDA)s Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explained-turned-tide-033354732.html?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 03:33:54 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "NDX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "PYPL",
       "title": "Heres What Jim Cramer Thinks Is In Store For PayPal Holdings, Inc. (NASDAQ:PYPL) & Klarna",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-store-paypal-033203055.html?.tsrc=rss",
@@ -5121,28 +5566,6 @@
       "impacts": [
         {
           "ticker": "PYPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeo' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-not-033121901.html?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 03:31:21 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5171,27 +5594,6 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Meta Is Down 27%. One Analyst Sees a $22 Billion AI Business Hiding in Plain Sight",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-down-27-one-analyst-030438553.html?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 03:04:38 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "MRVL",
       "title": "Marvell Fell After Its Google Deal. Why Did Investors Sell These Two AI Optics Stocks Too?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-fell-google-deal-why-025545596.html?.tsrc=rss",
@@ -5213,27 +5615,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple implements price hikes for its TV streaming service and 'One' subscription bundle",
-      "link": "https://www.foxbusiness.com/technology/apple-implements-price-hikes-tv-streaming-service-one-subscription-bundle?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 02:09:16 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "MRVL",
       "title": "Marvell's AI Bookings Are Stellar. But Its Gross Margin Guide Is What Moved the Stock.",
       "link": "https://www.fool.com/investing/2026/08/28/marvell-s-ai-bookings-are-stellar-but-its-gross-margin-guide-is-what-moved-the-stock/?.tsrc=rss",
@@ -5248,27 +5629,6 @@
       "impacts": [
         {
           "ticker": "MRVL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Why Elastic Stock Snapped Back Today",
-      "link": "https://www.fool.com/investing/2026/08/28/why-elastic-stock-is-up-today/?.tsrc=rss",
-      "date": "Sat, 29 Aug 2026 01:15:33 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5339,27 +5699,6 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Meta's 9.9% Jio Stake Finally Gets a Public Scoreboard",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/metas-9-9-jio-stake-222758011.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 22:27:58 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "MRVL",
       "title": "Marvell Stock Faces Critical Test After Sharp Drop",
       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-faces-critical-test-222611171.html?.tsrc=rss",
@@ -5381,64 +5720,23 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple Makes Costly Move Subscribers Won't Miss",
-      "link": "https://finance.yahoo.com/media-advertising/articles/apple-makes-costly-move-subscribers-222454691.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 22:24:54 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Has Microsoft Stock Run Ahead Of Its AI Payoff?",
-      "link": "https://www.trefis.com/articles/613494/has-microsoft-stock-run-ahead-of-its-ai-payoff/2026-08-28?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 22:10:55 +0000",
+      "ticker": "PYPL",
+      "title": "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Todays Market",
+      "link": "https://finance.yahoo.com/m/e4657499-aea8-3697-bf17-617e8a1e16a0/marvell%2C-nvidia%2C-paypal%2C.html?.tsrc=rss",
+      "date": "Fri, 28 Aug 2026 21:26:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "MSFT"
+        "NVDA",
+        "PYPL"
       ],
       "impact": "medium",
       "ai": false,
       "impacts": [
         {
-          "ticker": "MSFT",
+          "ticker": "PYPL",
           "score": 0.0,
           "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "How Much Upside Can AAPL Stock's Growth Deliver?",
-      "link": "https://www.trefis.com/articles/613496/how-much-upside-can-aapl-stocks-growth-deliver/2026-08-28?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 21:53:54 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 1.0,
-          "direction": "bull",
           "reason": "关键词规则"
         }
       ]
@@ -5465,133 +5763,6 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Chamber Of Commerce Backs Meta In Monopoly Battle",
-      "link": "https://www.mediapost.com/publications/article/417544/chamber-of-commerce-backs-meta-in-monopoly-battle.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 20:51:13 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Dow Jones Futures: Microsoft, Titans Mask Market Weakness. Here's What To Do.",
-      "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 20:35:10 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT",
-        "SPX"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Microsoft Just Gained 14% in a Month: Take Profits, or Buy More?",
-      "link": "https://247wallst.com/investing/2026/08/28/microsoft-just-gained-14-in-a-month-take-profits-or-buy-more/?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 19:06:57 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Metas AI Gamble Gets Bigger After the Company Considered Slashing Teams Again. What That Means for META Stock",
-      "link": "https://www.barchart.com/story/news/4326387/metas-ai-gamble-gets-bigger-after-the-company-considered-slashing-teams-again-what-that-means-for-meta-stock?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 19:04:44 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Amazons Post-Q2 Earnings Rally Has Faded But Dont Give Up on AMZN Stock Just Yet",
-      "link": "https://www.barchart.com/story/news/4326234/amazons-post-q2-earnings-rally-has-faded-but-dont-give-up-on-amzn-stock-just-yet?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 18:46:36 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazons Post-Q2 Earnings Rally Has Faded But Dont Give Up on AMZN Stock Just Yet",
-      "link": "https://www.barchart.com/story/news/4326234/amazons-post-q2-earnings-rally-has-faded-but-dont-give-up-on-amzn-stock-just-yet?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 18:46:36 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "LITE",
       "title": "As Lumentum Stock Soars, a Company Insider Dumps Nearly 40,000 Shares Worth $33 Million",
       "link": "https://www.fool.com/coverage/filings/2026/08/28/as-lumentum-stock-soars-a-company-insider-dumps-nearly-40-000-shares-worth-usd33-million/?.tsrc=rss",
@@ -5608,27 +5779,6 @@
           "ticker": "LITE",
           "score": 1.0,
           "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon (AMZN) is About to 6X Its Drone Delivery Footprint to Compete With Rivals Like DoorDash (DASH)",
-      "link": "https://finance.yahoo.com/technology/articles/amazon-amzn-6x-drone-delivery-183659097.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 18:36:59 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
           "reason": "关键词规则"
         }
       ]
@@ -5655,114 +5805,6 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "Einride (ENRD) Just Bet Big on Tesla (TSLA)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/einride-enrd-just-bet-big-181724530.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 18:17:24 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
-      "link": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 17:57:47 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "AMZN"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon Keeps Its Pricing Engine--for Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-keeps-pricing-engine-now-175652454.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 17:56:52 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Amazon Takes on Waymo and Tesla With Massive Robotaxi Launch in San Francisco. What That Means for AMZN Stock.",
-      "link": "https://www.barchart.com/story/news/4324112/amazon-takes-on-waymo-and-tesla-with-massive-robotaxi-launch-in-san-francisco-what-that-means-for-amzn-stock?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 16:38:13 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN",
-        "TSLA",
-        "CSCO"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalls-3-million-162300534.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 16:23:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "MSTR",
       "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
       "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company?.tsrc=rss",
@@ -5777,48 +5819,6 @@
       "impacts": [
         {
           "ticker": "MSTR",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PYPL",
-      "title": "Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased",
-      "link": "https://finance.yahoo.com/video/trending-take-two-interactive-price-ascends-as-grand-theft-auto-vi-is-teased-160729740.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 16:07:29 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "PYPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PYPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "End of the 'Lag 7'? What Nvidia's earnings mean for the rest of tech.",
-      "link": "https://finance.yahoo.com/video/end-lag-7-nvidias-earnings-152837709.html?.tsrc=rss",
-      "date": "Fri, 28 Aug 2026 15:28:37 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5876,7 +5876,7 @@
       "period": "Q2 FY2027",
       "confidence": "confirmed",
       "note": "AI芯片霸主，财报对纳指影响最大",
-      "days_left": -3,
+      "days_left": -4,
       "soon": false
     },
     {
@@ -5886,7 +5886,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "云业务增速 + AI搜索竞争",
-      "days_left": 59,
+      "days_left": 58,
       "soon": false
     },
     {
@@ -5896,7 +5896,7 @@
       "period": "Q3 2026",
       "confidence": "confirmed",
       "note": "PE 300+，财报是生死局",
-      "days_left": 60,
+      "days_left": 59,
       "soon": false
     },
     {
@@ -5906,7 +5906,7 @@
       "period": "Q3 FY2027",
       "confidence": "estimated",
       "note": "云+AI收入是关键",
-      "days_left": 60,
+      "days_left": 59,
       "soon": false
     },
     {
@@ -5916,7 +5916,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "广告 + AI资本开支指引",
-      "days_left": 60,
+      "days_left": 59,
       "soon": false
     },
     {
@@ -5926,7 +5926,7 @@
       "period": "Q4 FY2026",
       "confidence": "estimated",
       "note": "iPhone销量 + 服务收入",
-      "days_left": 61,
+      "days_left": 60,
       "soon": false
     },
     {
@@ -5936,7 +5936,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "AWS增速 + 零售利润率",
-      "days_left": 61,
+      "days_left": 60,
       "soon": false
     }
   ],
@@ -5947,7 +5947,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "就业降温=降息预期",
-      "days_left": 6,
+      "days_left": 5,
       "soon": false
     },
     {
@@ -5956,7 +5956,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "关注同比是否回落",
-      "days_left": 12,
+      "days_left": 11,
       "soon": false
     },
     {
@@ -5965,7 +5965,7 @@
       "impact": "high",
       "beijing_time": "09-17 02:00",
       "note": "维持利率不变预期；附点阵图",
-      "days_left": 17,
+      "days_left": 16,
       "soon": false
     },
     {
@@ -5974,7 +5974,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 34,
+      "days_left": 33,
       "soon": false
     },
     {
@@ -5983,7 +5983,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "Q3 通胀走势",
-      "days_left": 41,
+      "days_left": 40,
       "soon": false
     },
     {
@@ -5992,7 +5992,7 @@
       "impact": "high",
       "beijing_time": "10-29 02:00",
       "note": "",
-      "days_left": 59,
+      "days_left": 58,
       "soon": false
     },
     {
@@ -6001,7 +6001,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 69,
+      "days_left": 68,
       "soon": false
     },
     {
@@ -6010,7 +6010,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 69,
+      "days_left": 68,
       "soon": false
     },
     {
@@ -6019,7 +6019,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 97,
+      "days_left": 96,
       "soon": false
     },
     {
@@ -6028,7 +6028,7 @@
       "impact": "high",
       "beijing_time": "12-10 03:00",
       "note": "年末会议 + 点阵图",
-      "days_left": 101,
+      "days_left": 100,
       "soon": false
     },
     {
@@ -6037,26 +6037,26 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 103,
+      "days_left": 102,
       "soon": false
     }
   ],
   "market": {
     "ndx": {
-      "close": 29641.56,
-      "change_pct": 1.43
+      "close": 29433.43,
+      "change_pct": -0.7
     },
     "spx": {
-      "close": 7730.99,
-      "change_pct": 0.72
+      "close": 7711.76,
+      "change_pct": -0.25
     },
     "vix": {
-      "close": 14.51,
-      "change_pct": -4.6
+      "close": 14.43,
+      "change_pct": -0.55
     },
     "irx": {
-      "close": 3.68,
-      "change_pct": -0.33
+      "close": 3.73,
+      "change_pct": 1.41
     }
   }
 }
