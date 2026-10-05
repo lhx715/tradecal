@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04 04:53:18",
-  "today": "2026-10-04",
+  "generated_at": "2026-10-05 04:40:50",
+  "today": "2026-10-05",
   "nasdaq100": [
     {
       "ticker": "AAPL",
@@ -4928,10 +4928,137 @@
       ]
     },
     {
+      "ticker": "AMZN",
+      "title": "Amazon vs. Alphabet: Which AI Cloud Stock Makes the Better Case After the Spending Bill?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-vs-alphabet-ai-cloud-232415267.html?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 23:24:15 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL",
+        "AMZN"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google faces 1 billion legal claim from UK consumers over Play Store fees",
+      "link": "https://www.independent.co.uk/tech/google-play-store-uk-trial-b3061106.html?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 23:01:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "title": "What Jim Cramer Says About Space Exploration Technologies (SPCX) Starlink and AI Opportunity",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-space-exploration-220205490.html?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 22:02:05 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SPCX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SPCX",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "What a 20-Year Deal With Amazon Means for Constellation Energy Stock",
+      "link": "https://www.barchart.com/story/news/4952444/what-a-20-year-deal-with-amazon-means-for-constellation-energy-stock?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 18:30:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race?",
+      "link": "https://www.fool.com/investing/2026/10/04/is-copilot-microsofts-secret-weapon-in-the-ai-arms/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 18:20:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple's biggest AI advantage may face new privacy challenge",
+      "link": "https://www.thestreet.com/technology/apple-biggest-ai-agent-advantage-new-data-privacy-challenge?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 18:03:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
       "ticker": "WDC",
-      "title": "Western Digital vs. Sandisk: The Better Way to Play the Hard-Drive Side of the AI Storage Boom",
-      "link": "https://www.fool.com/investing/2026/10/04/western-digital-vs-sandisk-the-better-way-to-play/?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 04:20:00 +0000",
+      "title": "Western Digital vs. Seagate: Which Is the Better AI Infrastructure Stock to Own for the Next 5 Years?",
+      "link": "https://www.fool.com/investing/2026/10/04/western-digital-vs-seagate-which-is-the-better-ai/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 16:50:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -4949,85 +5076,20 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "title": "How Much Revenue Visibility Does Microsofts Backlog Really Provide?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/much-revenue-visibility-does-microsoft-023534508.html?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 02:35:34 +0000",
+      "ticker": "STX",
+      "title": "Western Digital vs. Seagate: Which Is the Better AI Infrastructure Stock to Own for the Next 5 Years?",
+      "link": "https://www.fool.com/investing/2026/10/04/western-digital-vs-seagate-which-is-the-better-ai/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 16:50:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "MSFT"
+        "STX"
       ],
       "impact": "medium",
       "ai": false,
       "impacts": [
         {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030",
-      "link": "https://www.fool.com/investing/2026/10/03/3-no-brainer-stocks-to-buy-if-data-center-expendit/?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 01:20:00 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Googles Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-free-ai-video-push-010734278.html?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 01:07:34 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/03/better-artificial-intelligence-stock-alphabet-vs-meta-platforms/?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 01:06:14 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL",
-        "META",
-        "INTC"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
+          "ticker": "STX",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5036,170 +5098,19 @@
     },
     {
       "ticker": "META",
-      "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/03/better-artificial-intelligence-stock-alphabet-vs-meta-platforms/?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 01:06:14 +0000",
+      "title": "$13k MRR game app founder explains why gaming is a $100B industry...",
+      "link": "https://starterstory.videonest.co/videos/2238819/13k-mrr-game-app-founder-explains-why-gaming-is-a-uWQKZeqGRu?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 16:32:50 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "GOOGL",
-        "META",
-        "INTC"
+        "META"
       ],
       "impact": "medium",
       "ai": false,
       "impacts": [
         {
           "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "3 Investing Rules That CNBC's Jim Cramer Swears By",
-      "link": "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
-      "date": "Sun, 04 Oct 2026 00:20:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 23:06:22 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "How Muse Stacks up Vs. OpenAI Dots",
-      "link": "https://finance.yahoo.com/technology/ai/articles/muse-stacks-vs-openai-dots-225400938.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 22:54:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "How Muse Stacks up Vs. OpenAI Dots",
-      "link": "https://finance.yahoo.com/technology/ai/articles/muse-stacks-vs-openai-dots-225400938.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 22:54:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta's Muse AI: Good or Bad for E-Commerce? Shopify and Amazon Are Taking Opposite Approaches.",
-      "link": "https://www.fool.com/investing/2026/10/03/metas-muse-ai-good-or-bad-for-e-commerce-shopify-a/?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 22:50:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN",
-        "META",
-        "SHOP"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Why I'm Building My Entire Retirement Around Dividend Stocks in 2026",
-      "link": "https://www.fool.com/investing/2026/10/03/why-im-building-my-entire-retirement-around-divide/?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 22:05:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "title": "Elon Musk Said SpaceX AI Revenue Would Pass Everything Else by September. Did It?",
-      "link": "https://247wallst.com/investing/2026/10/03/elon-musk-said-spacex-ai-revenue-would-pass-everything-else-by-september-did-it/?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 21:00:44 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPCX"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SPCX",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5208,11 +5119,11 @@
     },
     {
       "ticker": "AMZN",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://finance.yahoo.com/technology/articles/amazon-responds-data-center-backlash-184357944.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
+      "title": "Amazon AWS CEO reveals surprising risk to AI stocks and U.S. economy",
+      "link": "https://www.thestreet.com/investing/stocks/amazon-ai-data-center-backlash?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 16:03:00 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
       "related": [
         "AMZN"
       ],
@@ -5221,19 +5132,19 @@
       "impacts": [
         {
           "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
+          "score": -1.0,
+          "direction": "bear",
           "reason": "关键词规则"
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "title": "Does Your Work Throw You For a Loop, Too?",
-      "link": "https://thehustle.videonest.co/videos/1786763/does-your-work-throw-you-for-a-loop-too-yfvb7cRGGu?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 18:34:30 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
+      "title": "Accenture vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/10/04/accenture-vs-microsoft-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 15:58:44 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
       "related": [
         "MSFT"
       ],
@@ -5242,6 +5153,157 @@
       "impacts": [
         {
           "ticker": "MSFT",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "LinkDaddy Reports 1.52M AI Crawler Requests to AI Verified Registry",
+      "link": "https://finance.yahoo.com/technology/ai/articles/linkdaddy-reports-1-52m-ai-141900806.html?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 14:19:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Analyst Sees 6 Million iPhone Duo Sales This Year. Why Thats Not Enough to Move AAPL Stock.",
+      "link": "https://www.barchart.com/story/news/4950850/analyst-sees-6-million-iphone-duo-sales-this-year-why-thats-not-enough-to-move-aapl-stock?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 12:57:13 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Meta vs. Microsoft: One AI Agent Has a Problem the Other Doesnt.",
+      "link": "https://www.barchart.com/story/news/4950763/meta-vs-microsoft-one-ai-agent-has-a-problem-the-other-doesnt?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 12:36:26 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "MSFT",
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta vs. Microsoft: One AI Agent Has a Problem the Other Doesnt.",
+      "link": "https://www.barchart.com/story/news/4950763/meta-vs-microsoft-one-ai-agent-has-a-problem-the-other-doesnt?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 12:36:26 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "MSFT",
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "2 Magnificent Seven Stocks to Buy and Hold for the Rest of the Decade",
+      "link": "https://www.fool.com/investing/2026/10/04/2-magnificent-seven-stocks-to-buy-and-hold-for-the-rest-of-the-decade/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 09:37:01 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "How Supreme Court Battles Involving Apple, Exxon, and Intel Could Hit Your Portfolio",
+      "link": "https://finance.yahoo.com/m/73cd22ed-bdb4-3144-b852-c95810d02024/how-supreme-court-battles.html?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 06:00:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL",
+        "INTC",
+        "XOM"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "WDC",
+      "title": "Western Digital vs. Sandisk: The Better Way to Play the Hard-Drive Side of the AI Storage Boom",
+      "link": "https://www.fool.com/investing/2026/10/04/western-digital-vs-sandisk-the-better-way-to-play/?.tsrc=rss",
+      "date": "Sun, 04 Oct 2026 04:20:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "WDC"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "WDC",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5270,176 +5332,6 @@
       ]
     },
     {
-      "ticker": "SPCX",
-      "title": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals, But Note These Risks",
-      "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 17:58:50 +0000",
-      "sentiment": "bear",
-      "keyword_score": -0.33,
-      "related": [
-        "NVDA",
-        "SPX",
-        "NDX"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SPCX",
-          "score": -0.33,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "title": "SpaceX Bags Massive AI Compute Deal With Anthropic. What That Means for SPCX Stock.",
-      "link": "https://www.barchart.com/story/news/4943808/spacex-bags-massive-ai-compute-deal-with-anthropic-what-that-means-for-spcx-stock?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 13:34:05 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPCX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SPCX",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SPCX",
-      "title": "SpaceX Starship Is Orbital: Here's What It Means for Investors",
-      "link": "https://www.fool.com/investing/2026/10/03/spacex-starship-orbital-what-it-means-for-investor/?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 12:28:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPCX"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SPCX",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "The simple reason Meta CEO Mark Zuckerberg is winning for investors again",
-      "link": "https://finance.yahoo.com/technology/article/the-simple-reason-meta-ceo-mark-zuckerberg-is-winning-for-investors-again-121030964.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 12:10:30 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Elon Musk: America is 1,000% going to go bankrupt and fail as a country  but he says 1 powerful force can save us",
-      "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-america-1-000-113500310.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 11:35:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "\"Boy Room\" made about $15,000 on TikTok before Amazon partnership",
-      "link": "https://finance.yahoo.com/video/boy-room-made-15-000-110013783.html?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 11:00:13 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Is a Microsoft Stock Split Coming After 23 Years?",
-      "link": "https://www.fool.com/investing/2026/10/03/is-a-microsoft-stock-split-coming-after-23-years/?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 08:47:01 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Dan Ives Says Tesla Could Have A Golden Year In 2027  Robotaxis, Optimus And Cybercab In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dan-ives-tesla-big-ai-pivot-golden-year-2027-robotaxi-optimus-cybercab/cZDZ9s8RBKC?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 07:09:41 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "WDC",
       "title": "Stock-Split Watch: Is Sandisk Next?",
       "link": "https://www.fool.com/investing/2026/10/03/stock-split-watch-is-sandisk-next/?.tsrc=rss",
@@ -5454,69 +5346,6 @@
       "impacts": [
         {
           "ticker": "WDC",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A New OS For Work This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-huang-defends-ai-spending-pichai-ramps-up-gemini-nadella-calls-copilot-a-new-os-for-work-this-week/cZDZcmeRBKM?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 02:01:35 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Stocktwits Zero To Sixty   Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-zero-to-sixty-tesla-deliveries-clear-the-street-byd-widens-the-gap-rivian-holds-forecast-ford-and-gm-ev-sales-fall-hard/cZDZG2wRBKs?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 00:29:40 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-rivian-deliveries-beat-estimates-analysts-explain-why-tsla-rallied-while-rivn-fell/cZDm6zHRBKr?.tsrc=rss",
-      "date": "Sat, 03 Oct 2026 00:24:42 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5545,20 +5374,256 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple Says Some AT&T iPhone 18 Pro Max Users Must Replace Phones After Service-Loss Bug",
-      "link": "https://finance.yahoo.com/technology/articles/apple-says-t-iphone-18-230333132.html?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 23:03:33 +0000",
+      "ticker": "NVDA",
+      "title": "Dow Jones Futures Fall; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+      "link": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 04:35:57 +0000",
       "sentiment": "bear",
-      "keyword_score": -1.0,
+      "keyword_score": -0.5,
       "related": [
-        "AAPL"
+        "NVDA",
+        "SPX",
+        "NDX"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "AAPL",
+          "ticker": "NVDA",
+          "score": -0.5,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Firmus plans to allocate half of IPO shares to existing holders, Bloomberg reports",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firmus-plans-allocate-half-ipo-042136602.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 04:21:36 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stock Rises Overnight After Musk Says Something May Come Of TSMC Talks On Terafab",
+      "link": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-musk-something-may-come-of-tsmc-talks-on-terafab/cZDpjv8RBSE?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 03:55:35 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "TSLA",
+        "TSM"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
+      "link": "https://www.fool.com/investing/2026/10/04/2-super-semiconductor-stocks-to-buy-and-hold-throu/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 03:20:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Top 3 Founder Run Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-run-stocks-030951119.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 03:09:51 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Peter Thiel Was an Early Outside Investor in Facebook and Co-Founded Both PayPal and Palantir Before Building a Hedge Fund Now Concentrated in Power and Energy Stocks. Here's What That Track Record Says About Following His Contrarian Bets.",
+      "link": "https://www.fool.com/investing/2026/10/04/peter-thiel-was-an-early-outside-investor-in-faceb/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 02:35:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "META",
+        "PYPL",
+        "PLTR"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Great AI Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-watch-020606838.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 02:06:06 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "3 Great AI Stocks To Watch In October 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-watch-020606838.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 02:06:06 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-hpe-amzn-meta-spcx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZDpinqRB1U?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:54:51 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "title": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-hpe-amzn-meta-spcx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZDpinqRB1U?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:54:51 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SPCX",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "title": "Could Investing $5,000 in SpaceX Help Make You a Millionaire?",
+      "link": "https://www.fool.com/investing/2026/10/04/could-investing-5000-in-spacex-help-make-you-a-mil/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:50:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SPCX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SPCX",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "STX",
+      "title": "Toshiba Is Doubling Hard Drive Output. Seagate (STX) and Western Digital (WDC) Fell 10% Each",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toshiba-doubling-hard-drive-output-014807229.html?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:48:07 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "STX"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "STX",
           "score": -1.0,
           "direction": "bear",
           "reason": "关键词规则"
@@ -5566,20 +5631,104 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "title": "Should You Buy Amazon Stock (AMZN) in October?",
-      "link": "https://www.fool.com/investing/2026/10/02/should-you-buy-amazon-stock-amzn-in-october/?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 22:50:00 +0000",
+      "ticker": "GOOGL",
+      "title": "Silicon Valley Investor David Sacks Torched Bill Gates Over His Claim That AI Could Kill a Billion People",
+      "link": "https://247wallst.com/investing/2026/10/04/silicon-valley-investor-david-sacks-torched-bill-gates-over-his-claim-that-ai-could-kill-a-billion-people/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:42:23 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "SPCX Stock Climbs Overnight: Musk Teases SpaceXSI After Trumps SI Push  Analyst Calls Shares Unusually Cheap",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-musk-teases-spacexsi-trump-si-push-analyst-shares-unusually-cheap/cZDpLwyRB1D?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:25:50 +0000",
       "sentiment": "bull",
       "keyword_score": 1.0,
       "related": [
-        "AMZN"
+        "GOOGL"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "AMZN",
+          "ticker": "GOOGL",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "title": "SPCX Stock Climbs Overnight: Musk Teases SpaceXSI After Trumps SI Push  Analyst Calls Shares Unusually Cheap",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-musk-teases-spacexsi-trump-si-push-analyst-shares-unusually-cheap/cZDpLwyRB1D?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 01:25:50 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "SPCX"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SPCX",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
+      "link": "https://beincrypto.com/dan-ives-tesla-golden-year-2027/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 00:53:43 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Is on Pace for Its First Annual Delivery Increase Since 2023. Is the Stock a Buy?",
+      "link": "https://www.fool.com/investing/2026/10/04/tesla-is-on-pace-for-its-first-annual-delivery-increase-since-2023-is-the-stock-a-buy/?.tsrc=rss",
+      "date": "Mon, 05 Oct 2026 00:34:02 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
           "score": 1.0,
           "direction": "bull",
           "reason": "关键词规则"
@@ -5603,48 +5752,6 @@
           "ticker": "STX",
           "score": -1.0,
           "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements",
-      "link": "https://finance.yahoo.com/technology/articles/apple-iphone-18-pro-max-220128822.html?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 22:01:28 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Soft Labor Data Meets Solid Earnings: The Bullish Setup for the Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/soft-labor-data-meets-solid-213400956.html?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 21:34:00 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 1.0,
-          "direction": "bull",
           "reason": "关键词规则"
         }
       ]
@@ -5692,94 +5799,10 @@
       ]
     },
     {
-      "ticker": "WDC",
-      "title": "Why Toshiba's Expansion Plans Just Sent Western Digital Stock Lower",
-      "link": "https://www.barchart.com/story/news/4935216/why-toshiba-s-expansion-plans-just-sent-western-digital-stock-lower?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 19:48:05 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "WDC"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "WDC",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "STX",
       "title": "Seagate Sinks 12%, Western Digital Down 10% as Toshiba Plans to Double Hard Disk Output",
       "link": "https://www.tikr.com/blog/seagate-sinks-12-western-digital-down-10-as-toshiba-plans-to-double-hard-disk-output?ref=yahoofinance&amp;.tsrc=rss",
       "date": "Fri, 02 Oct 2026 19:03:59 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "STX"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "STX",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "What Are Amazon Investors Paying for AWS Without Investment Gains?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-investors-paying-aws-without-182654581.html?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 18:26:54 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "STX",
-      "title": "STX, WDC Stocks Sink On Toshibas Reported Plan To Double AI Hard-Disk Capacity: Analysts Call The Drop Overdone",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stx-wdc-stocks-sink-on-toshiba-s-reported-plan-to-double-ai-hard-disk-capacity-analysts-call-the-drop-overdone/cZDjlNbRBKk?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 18:22:55 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "STX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "STX",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "STX",
-      "title": "Seagate (STX) Is Selling Into a Shortage. What Happens When It Ends?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-selling-shortage-happens-175258263.html?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 17:52:58 +0000",
       "sentiment": "bear",
       "keyword_score": -1.0,
       "related": [
@@ -5818,27 +5841,6 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Jefferies Sees Signs of Softer iPhone 18 Demand in Resale Pricing",
-      "link": "https://investorshub.advfn.com/market-news/article/37350/jefferies-sees-signs-of-softer-iphone-18-demand-in-resale-pricing?.tsrc=rss",
-      "date": "Fri, 02 Oct 2026 15:35:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "TER",
       "title": "Teradyne Expands Memory Test Portfolio: Can It Beat KLAC & COHU?",
       "link": "https://finance.yahoo.com/technology/articles/teradyne-expands-memory-test-portfolio-094700286.html?.tsrc=rss",
@@ -5868,7 +5870,7 @@
       "period": "Q2 FY2027",
       "confidence": "confirmed",
       "note": "AI芯片霸主，财报对纳指影响最大",
-      "days_left": -39,
+      "days_left": -40,
       "soon": false
     },
     {
@@ -5878,7 +5880,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "云业务增速 + AI搜索竞争",
-      "days_left": 23,
+      "days_left": 22,
       "soon": false
     },
     {
@@ -5888,7 +5890,7 @@
       "period": "Q3 2026",
       "confidence": "confirmed",
       "note": "PE 300+，财报是生死局",
-      "days_left": 24,
+      "days_left": 23,
       "soon": false
     },
     {
@@ -5898,7 +5900,7 @@
       "period": "Q3 FY2027",
       "confidence": "estimated",
       "note": "云+AI收入是关键",
-      "days_left": 24,
+      "days_left": 23,
       "soon": false
     },
     {
@@ -5908,7 +5910,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "广告 + AI资本开支指引",
-      "days_left": 24,
+      "days_left": 23,
       "soon": false
     },
     {
@@ -5918,7 +5920,7 @@
       "period": "Q4 FY2026",
       "confidence": "estimated",
       "note": "iPhone销量 + 服务收入",
-      "days_left": 25,
+      "days_left": 24,
       "soon": false
     },
     {
@@ -5928,7 +5930,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "AWS增速 + 零售利润率",
-      "days_left": 25,
+      "days_left": 24,
       "soon": false
     }
   ],
@@ -5939,7 +5941,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "Q3 通胀走势",
-      "days_left": 5,
+      "days_left": 4,
       "soon": false
     },
     {
@@ -5948,7 +5950,7 @@
       "impact": "high",
       "beijing_time": "10-29 02:00",
       "note": "",
-      "days_left": 23,
+      "days_left": 22,
       "soon": false
     },
     {
@@ -5957,7 +5959,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 33,
+      "days_left": 32,
       "soon": false
     },
     {
@@ -5966,7 +5968,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 33,
+      "days_left": 32,
       "soon": false
     },
     {
@@ -5975,7 +5977,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 61,
+      "days_left": 60,
       "soon": false
     },
     {
@@ -5984,7 +5986,7 @@
       "impact": "high",
       "beijing_time": "12-10 03:00",
       "note": "年末会议 + 点阵图",
-      "days_left": 65,
+      "days_left": 64,
       "soon": false
     },
     {
@@ -5993,7 +5995,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 67,
+      "days_left": 66,
       "soon": false
     }
   ],
