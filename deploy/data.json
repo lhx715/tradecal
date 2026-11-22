@@ -1,914 +1,914 @@
 {
-  "generated_at": "2026-11-21 06:05:27",
-  "today": "2026-11-21",
+  "generated_at": "2026-11-22 05:42:01",
+  "today": "2026-11-22",
   "nasdaq100": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc. Common Stock",
       "sector": "",
-      "price": 349.21,
-      "change_pct": -0.92,
-      "market_cap": "5,074,783,276,220",
+      "price": 342.56,
+      "change_pct": -1.9,
+      "market_cap": "4,978,144,265,920",
       "cn_name": "苹果"
     },
     {
       "ticker": "AMAT",
       "name": "Applied Materials, Inc. Common Stock",
       "sector": "",
-      "price": 338.93,
-      "change_pct": -3.65,
-      "market_cap": "268,973,981,356",
+      "price": 302.63,
+      "change_pct": -10.71,
+      "market_cap": "240,166,394,175",
       "cn_name": "应用材料"
     },
     {
       "ticker": "AMGN",
       "name": "Amgen Inc. Common Stock",
       "sector": "",
-      "price": 438.82,
-      "change_pct": -1.14,
-      "market_cap": "237,362,780,042",
+      "price": 435.64,
+      "change_pct": -0.15,
+      "market_cap": "235,642,681,504",
       "cn_name": "安进"
     },
     {
       "ticker": "CMCSA",
       "name": "Comcast Corporation Class A Common Stock",
       "sector": "",
-      "price": 24.86,
-      "change_pct": -1.51,
-      "market_cap": "88,278,017,488",
+      "price": 24.9,
+      "change_pct": 0.16,
+      "market_cap": "88,420,057,742",
       "cn_name": "康卡斯特"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation Common Stock",
       "sector": "",
-      "price": 55.72,
-      "change_pct": 1.92,
-      "market_cap": "296,151,800,000",
+      "price": 51.28,
+      "change_pct": -7.97,
+      "market_cap": "272,553,200,000",
       "cn_name": "英特尔"
     },
     {
       "ticker": "KLAC",
       "name": "KLA Corporation Common Stock",
       "sector": "",
-      "price": 141.48,
-      "change_pct": -2.35,
-      "market_cap": "184,343,125,304",
+      "price": 126.87,
+      "change_pct": -10.33,
+      "market_cap": "165,306,844,128",
       "cn_name": "科磊"
     },
     {
       "ticker": "PCAR",
       "name": "PACCAR Inc. Common Stock",
       "sector": "",
-      "price": 104.15,
-      "change_pct": 0.33,
-      "market_cap": "54,835,530,015",
+      "price": 102.2,
+      "change_pct": -1.87,
+      "market_cap": "53,808,844,624",
       "cn_name": "帕卡"
     },
     {
       "ticker": "CTAS",
       "name": "Cintas Corporation Common Stock",
       "sector": "",
-      "price": 218.92,
-      "change_pct": -1.39,
-      "market_cap": "86,927,679,360",
+      "price": 220.01,
+      "change_pct": 0.5,
+      "market_cap": "87,360,491,211",
       "cn_name": "信达思"
     },
     {
       "ticker": "PAYX",
       "name": "Paychex, Inc. Common Stock",
       "sector": "",
-      "price": 111.4,
-      "change_pct": -2.0,
-      "market_cap": "39,656,224,692",
+      "price": 112.63,
+      "change_pct": 1.1,
+      "market_cap": "40,094,080,674",
       "cn_name": "沛齐"
     },
     {
       "ticker": "LRCX",
       "name": "Lam Research Corporation Common Stock",
       "sector": "",
-      "price": 203.68,
-      "change_pct": -3.77,
-      "market_cap": "254,431,149,280",
+      "price": 183.27,
+      "change_pct": -10.02,
+      "market_cap": "228,935,569,170",
       "cn_name": "泛林集团"
     },
     {
       "ticker": "ADSK",
       "name": "Autodesk, Inc. Common Stock",
       "sector": "",
-      "price": 243.45,
-      "change_pct": -3.77,
-      "market_cap": "50,881,050,000",
+      "price": 244.48,
+      "change_pct": 0.42,
+      "market_cap": "51,096,320,000",
       "cn_name": "欧特克"
     },
     {
       "ticker": "ROST",
       "name": "Ross Stores, Inc. Common Stock",
       "sector": "",
-      "price": 219.88,
-      "change_pct": -3.41,
-      "market_cap": "70,241,349,827",
+      "price": 213.46,
+      "change_pct": -2.92,
+      "market_cap": "68,190,460,861",
       "cn_name": "罗斯百货有限公司"
     },
     {
       "ticker": "MNST",
       "name": "Monster Beverage Corporation",
       "sector": "",
-      "price": 43.94,
-      "change_pct": -2.16,
-      "market_cap": "86,013,073,853",
+      "price": 43.69,
+      "change_pct": -0.57,
+      "market_cap": "85,523,695,872",
       "cn_name": "怪物饮料"
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation Common Stock",
       "sector": "",
-      "price": 498.3,
-      "change_pct": -1.78,
-      "market_cap": "3,700,472,745,262",
+      "price": 484.52,
+      "change_pct": -2.77,
+      "market_cap": "3,598,139,784,335",
       "cn_name": "微软"
     },
     {
       "ticker": "ADBE",
       "name": "Adobe Inc. Common Stock",
       "sector": "",
-      "price": 221.68,
-      "change_pct": -2.0,
-      "market_cap": "86,277,856,000",
+      "price": 217.71,
+      "change_pct": -1.79,
+      "market_cap": "84,732,732,000",
       "cn_name": "Adobe"
     },
     {
       "ticker": "FAST",
       "name": "Fastenal Company Common Stock",
       "sector": "",
-      "price": 52.68,
-      "change_pct": -2.37,
-      "market_cap": "60,439,842,388",
+      "price": 50.61,
+      "change_pct": -3.93,
+      "market_cap": "58,064,928,308",
       "cn_name": "快扣"
     },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems, Inc. Common Stock (DE)",
       "sector": "",
-      "price": 94.7,
-      "change_pct": -2.55,
-      "market_cap": "373,349,843,025",
+      "price": 90.64,
+      "change_pct": -4.29,
+      "market_cap": "357,343,503,398",
       "cn_name": "思科"
     },
     {
       "ticker": "REGN",
       "name": "Regeneron Pharmaceuticals, Inc. Common Stock",
       "sector": "",
-      "price": 923.34,
-      "change_pct": -2.35,
-      "market_cap": "95,517,546,129",
+      "price": 920.69,
+      "change_pct": -0.19,
+      "market_cap": "95,243,409,303",
       "cn_name": "再生元制药"
     },
     {
       "ticker": "IDXX",
       "name": "IDEXX Laboratories, Inc. Common Stock",
       "sector": "",
-      "price": 689.65,
-      "change_pct": -1.26,
-      "market_cap": "54,334,947,657",
+      "price": 676.21,
+      "change_pct": -1.95,
+      "market_cap": "53,276,060,256",
       "cn_name": "IDEXX实验室"
     },
     {
       "ticker": "VRTX",
       "name": "Vertex Pharmaceuticals Incorporated Common Stock",
       "sector": "",
-      "price": 520.66,
-      "change_pct": -2.94,
-      "market_cap": "132,006,925,345",
+      "price": 515.02,
+      "change_pct": -1.08,
+      "market_cap": "130,576,972,863",
       "cn_name": "福泰制药"
     },
     {
       "ticker": "ODFL",
       "name": "Old Dominion Freight Line, Inc. Common Stock",
       "sector": "",
-      "price": 173.83,
-      "change_pct": -0.73,
-      "market_cap": "35,815,913,383",
+      "price": 168.09,
+      "change_pct": -3.3,
+      "market_cap": "34,633,244,438",
       "cn_name": "Old Dominion Freight Line"
     },
     {
       "ticker": "QCOM",
       "name": "QUALCOMM Incorporated Common Stock",
       "sector": "",
-      "price": 162.01,
-      "change_pct": 1.38,
-      "market_cap": "173,350,700,000",
+      "price": 149.94,
+      "change_pct": -7.45,
+      "market_cap": "160,435,800,000",
       "cn_name": "高通"
     },
     {
       "ticker": "GILD",
       "name": "Gilead Sciences, Inc. Common Stock",
       "sector": "",
-      "price": 166.53,
-      "change_pct": -1.45,
-      "market_cap": "206,553,589,389",
+      "price": 166.43,
+      "change_pct": -0.06,
+      "market_cap": "206,429,555,528",
       "cn_name": "吉利德"
     },
     {
       "ticker": "SNPS",
       "name": "Synopsys, Inc. Common Stock",
       "sector": "",
-      "price": 430.91,
-      "change_pct": -0.71,
-      "market_cap": "82,578,147,128",
+      "price": 396.17,
+      "change_pct": -8.06,
+      "market_cap": "75,920,690,046",
       "cn_name": "新思科技"
     },
     {
       "ticker": "SBUX",
       "name": "Starbucks Corporation Common Stock",
       "sector": "",
-      "price": 104.47,
-      "change_pct": -4.25,
-      "market_cap": "119,106,247,000",
+      "price": 103.13,
+      "change_pct": -1.28,
+      "market_cap": "117,578,513,000",
       "cn_name": "星巴克"
     },
     {
       "ticker": "INTU",
       "name": "Intuit Inc. Common Stock",
       "sector": "",
-      "price": 310.02,
-      "change_pct": -1.03,
-      "market_cap": "81,849,930,300",
+      "price": 270.44,
+      "change_pct": -12.77,
+      "market_cap": "71,400,216,600",
       "cn_name": "财捷"
     },
     {
       "ticker": "MCHP",
       "name": "Microchip Technology Incorporated Common Stock",
       "sector": "",
-      "price": 58.47,
-      "change_pct": -2.01,
-      "market_cap": "31,820,755,471",
+      "price": 55.44,
+      "change_pct": -5.18,
+      "market_cap": "30,171,757,881",
       "cn_name": "微芯科技"
     },
     {
       "ticker": "ORLY",
       "name": "O'Reilly Automotive, Inc. Common Stock",
       "sector": "",
-      "price": 92.61,
-      "change_pct": -0.81,
-      "market_cap": "74,277,733,163",
+      "price": 92.65,
+      "change_pct": 0.04,
+      "market_cap": "74,309,815,112",
       "cn_name": "奥莱利"
     },
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corporation Common Stock",
       "sector": "",
-      "price": 1093.83,
-      "change_pct": -0.25,
-      "market_cap": "484,708,175,817",
+      "price": 1102.15,
+      "change_pct": 0.76,
+      "market_cap": "488,395,012,000",
       "cn_name": "开市客"
     },
     {
       "ticker": "CPRT",
       "name": "Copart, Inc. (DE) Common Stock",
       "sector": "",
-      "price": 30.86,
-      "change_pct": -1.91,
-      "market_cap": "28,588,025,574",
+      "price": 31.09,
+      "change_pct": 0.75,
+      "market_cap": "28,801,092,517",
       "cn_name": "科帕特"
     },
     {
       "ticker": "ASML",
       "name": "ASML Holding N.V. New York Registry Shares",
       "sector": "",
-      "price": 1356.2,
-      "change_pct": -2.8,
-      "market_cap": "522,703,437,273",
+      "price": 1266.22,
+      "change_pct": -6.63,
+      "market_cap": "488,023,555,776",
       "cn_name": "阿斯麦"
     },
     {
       "ticker": "TTWO",
       "name": "Take-Two Interactive Software, Inc. Common Stock",
       "sector": "",
-      "price": 208.65,
-      "change_pct": -3.67,
-      "market_cap": "39,062,094,271",
+      "price": 210.0,
+      "change_pct": 0.65,
+      "market_cap": "39,314,832,480",
       "cn_name": "TTWO"
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc. Common Stock",
       "sector": "",
-      "price": 257.37,
-      "change_pct": -3.87,
-      "market_cap": "2,782,977,405,815",
+      "price": 246.82,
+      "change_pct": -4.1,
+      "market_cap": "2,668,898,796,687",
       "cn_name": "亚马逊"
     },
     {
       "ticker": "MSTR",
       "name": "Strategy Inc Common Stock Class A",
       "sector": "",
-      "price": 86.13,
-      "change_pct": -4.64,
-      "market_cap": "36,377,402,301",
+      "price": 77.8,
+      "change_pct": -9.67,
+      "market_cap": "32,859,188,425",
       "cn_name": "MSTR"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation Common Stock",
       "sector": "",
-      "price": 145.98,
-      "change_pct": -3.3,
-      "market_cap": "3,518,118,000,000",
+      "price": 128.3744,
+      "change_pct": -12.06,
+      "market_cap": "3,093,823,040,000",
       "cn_name": "英伟达"
     },
     {
       "ticker": "BKNG",
       "name": "Booking Holdings Inc. Common Stock",
       "sector": "",
-      "price": 147.32,
-      "change_pct": -3.89,
-      "market_cap": "109,562,069,181",
+      "price": 144.91,
+      "change_pct": -1.64,
+      "market_cap": "107,769,749,152",
       "cn_name": "缤客"
     },
     {
       "ticker": "ISRG",
       "name": "Intuitive Surgical, Inc. Common Stock",
       "sector": "",
-      "price": 407.24,
-      "change_pct": -3.26,
-      "market_cap": "141,167,187,718",
+      "price": 399.05,
+      "change_pct": -2.01,
+      "market_cap": "138,328,175,668",
       "cn_name": "直觉外科"
     },
     {
       "ticker": "MRVL",
       "name": "Marvell Technology, Inc. Common Stock",
       "sector": "",
-      "price": 138.47,
-      "change_pct": -4.86,
-      "market_cap": "121,424,343,000",
+      "price": 122.28,
+      "change_pct": -11.69,
+      "market_cap": "107,227,332,000",
       "cn_name": "迈威尔科技"
     },
     {
       "ticker": "ADI",
       "name": "Analog Devices, Inc. Common Stock",
       "sector": "",
-      "price": 377.44,
-      "change_pct": -1.19,
-      "market_cap": "182,894,389,110",
+      "price": 345.92,
+      "change_pct": -8.35,
+      "market_cap": "167,620,885,653",
       "cn_name": "亚德诺"
     },
     {
       "ticker": "AEP",
       "name": "American Electric Power Company, Inc. Common Stock",
       "sector": "",
-      "price": 124.97,
-      "change_pct": -1.21,
-      "market_cap": "68,049,455,460",
+      "price": 125.14,
+      "change_pct": 0.14,
+      "market_cap": "68,142,024,936",
       "cn_name": "美国电力"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices, Inc. Common Stock",
       "sector": "",
-      "price": 489.19,
-      "change_pct": -7.72,
-      "market_cap": "809,641,527,656",
+      "price": 424.39,
+      "change_pct": -13.25,
+      "market_cap": "702,393,278,525",
       "cn_name": "超威半导体"
     },
     {
       "ticker": "ADP",
       "name": "Automatic Data Processing, Inc. Common Stock",
       "sector": "",
-      "price": 301.19,
-      "change_pct": -1.43,
-      "market_cap": "118,897,593,324",
+      "price": 301.71,
+      "change_pct": 0.17,
+      "market_cap": "119,102,868,229",
       "cn_name": "自动数据处理"
     },
     {
       "ticker": "CDNS",
       "name": "Cadence Design Systems, Inc. Common Stock",
       "sector": "",
-      "price": 304.88,
-      "change_pct": -0.31,
-      "market_cap": "83,652,669,520",
+      "price": 281.58,
+      "change_pct": -7.64,
+      "market_cap": "77,259,638,820",
       "cn_name": "铿腾电子"
     },
     {
       "ticker": "CSX",
       "name": "CSX Corporation Common Stock",
       "sector": "",
-      "price": 49.98,
-      "change_pct": -2.63,
-      "market_cap": "92,133,042,536",
+      "price": 49.1,
+      "change_pct": -1.76,
+      "market_cap": "90,510,852,111",
       "cn_name": "CSX运输"
     },
     {
       "ticker": "HON",
       "name": "Honeywell International Inc. Common Stock",
       "sector": "",
-      "price": 217.84,
-      "change_pct": -2.18,
-      "market_cap": "69,133,379,561",
+      "price": 212.64,
+      "change_pct": -2.39,
+      "market_cap": "67,483,115,268",
       "cn_name": "霍尼韦尔"
     },
     {
       "ticker": "MAR",
       "name": "Marriott International Class A Common Stock",
       "sector": "",
-      "price": 414.04,
-      "change_pct": -2.62,
-      "market_cap": "106,617,120,534",
+      "price": 406.64,
+      "change_pct": -1.79,
+      "market_cap": "104,711,587,996",
       "cn_name": "万豪"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology, Inc. Common Stock",
       "sector": "",
-      "price": 690.44,
-      "change_pct": -2.1,
-      "market_cap": "781,179,842,493",
+      "price": 594.51,
+      "change_pct": -13.89,
+      "market_cap": "672,642,413,766",
       "cn_name": "美光"
     },
     {
       "ticker": "XEL",
       "name": "Xcel Energy Inc. Common Stock",
       "sector": "",
-      "price": 79.46,
-      "change_pct": -1.48,
-      "market_cap": "51,003,343,638",
+      "price": 79.3,
+      "change_pct": -0.2,
+      "market_cap": "50,900,643,726",
       "cn_name": "卓越能源"
     },
     {
       "ticker": "EXC",
       "name": "Exelon Corporation Common Stock",
       "sector": "",
-      "price": 45.42,
-      "change_pct": -1.3,
-      "market_cap": "47,005,007,478",
+      "price": 45.7,
+      "change_pct": 0.62,
+      "market_cap": "47,294,778,550",
       "cn_name": "爱克斯龙"
     },
     {
       "ticker": "PEP",
       "name": "PepsiCo, Inc. Common Stock",
       "sector": "",
-      "price": 139.0,
-      "change_pct": -2.02,
-      "market_cap": "189,421,011,788",
+      "price": 140.54,
+      "change_pct": 1.11,
+      "market_cap": "191,519,633,070",
       "cn_name": "百事可乐"
     },
     {
       "ticker": "ROP",
       "name": "Roper Technologies, Inc. Common Stock",
       "sector": "",
-      "price": 462.96,
-      "change_pct": -1.68,
-      "market_cap": "45,849,905,170",
+      "price": 459.83,
+      "change_pct": -0.68,
+      "market_cap": "45,539,921,147",
       "cn_name": "儒博实业"
     },
     {
       "ticker": "TER",
       "name": "Teradyne, Inc. Common Stock",
       "sector": "",
-      "price": 227.43,
-      "change_pct": -3.31,
-      "market_cap": "35,507,452,120",
+      "price": 204.775,
+      "change_pct": -9.96,
+      "market_cap": "31,970,445,886",
       "cn_name": "泰瑞达"
     },
     {
       "ticker": "TXN",
       "name": "Texas Instruments Incorporated Common Stock",
       "sector": "",
-      "price": 285.75,
-      "change_pct": -2.28,
-      "market_cap": "261,109,867,797",
+      "price": 263.75,
+      "change_pct": -7.7,
+      "market_cap": "241,006,920,845",
       "cn_name": "德州仪器"
     },
     {
       "ticker": "WDC",
       "name": "Western Digital Corporation Common Stock",
       "sector": "",
-      "price": 296.78,
-      "change_pct": 2.98,
-      "market_cap": "111,091,659,774",
+      "price": 261.11,
+      "change_pct": -12.02,
+      "market_cap": "97,739,548,769",
       "cn_name": "西部数据"
     },
     {
       "ticker": "WMT",
       "name": "Walmart Inc. Common Stock",
       "sector": "",
-      "price": 126.04,
-      "change_pct": -1.04,
-      "market_cap": "999,969,376,216",
+      "price": 127.95,
+      "change_pct": 1.52,
+      "market_cap": "1,015,122,831,536",
       "cn_name": "沃尔玛"
     },
     {
       "ticker": "AXON",
       "name": "Axon Enterprise, Inc. Common Stock",
       "sector": "",
-      "price": 306.98,
-      "change_pct": 2.09,
-      "market_cap": "24,998,213,930",
+      "price": 291.14,
+      "change_pct": -5.16,
+      "market_cap": "23,708,319,772",
       "cn_name": "AXON"
     },
     {
       "ticker": "MDLZ",
       "name": "Mondelez International, Inc. Class A Common Stock",
       "sector": "",
-      "price": 65.69,
-      "change_pct": -1.31,
-      "market_cap": "83,152,923,117",
+      "price": 66.28,
+      "change_pct": 0.9,
+      "market_cap": "83,899,767,760",
       "cn_name": "亿滋"
     },
     {
       "ticker": "NFLX",
       "name": "Netflix, Inc. Common Stock",
       "sector": "",
-      "price": 58.46,
-      "change_pct": -2.27,
-      "market_cap": "240,055,812,289",
+      "price": 56.73,
+      "change_pct": -2.96,
+      "market_cap": "232,951,868,477",
       "cn_name": "奈飞"
     },
     {
       "ticker": "STX",
       "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
       "sector": "",
-      "price": 521.39,
-      "change_pct": 1.06,
-      "market_cap": "119,690,866,622",
+      "price": 457.01,
+      "change_pct": -12.35,
+      "market_cap": "104,911,722,424",
       "cn_name": "希捷"
     },
     {
       "ticker": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc. Common Stock",
       "sector": "",
-      "price": 147.82,
-      "change_pct": -1.06,
-      "market_cap": "19,798,652,484",
+      "price": 143.82,
+      "change_pct": -2.71,
+      "market_cap": "19,262,902,180",
       "cn_name": "阿尔尼拉姆制药公司"
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. Class A Common Stock",
       "sector": "",
-      "price": 272.66,
-      "change_pct": -3.46,
-      "market_cap": "3,352,082,040,000",
+      "price": 265.29,
+      "change_pct": -2.7,
+      "market_cap": "3,261,475,260,000",
       "cn_name": "谷歌A类股"
     },
     {
       "ticker": "MPWR",
       "name": "Monolithic Power Systems, Inc. Common Stock",
       "sector": "",
-      "price": 1295.86,
-      "change_pct": -1.15,
-      "market_cap": "63,196,500,480",
+      "price": 1142.05,
+      "change_pct": -11.87,
+      "market_cap": "55,695,494,400",
       "cn_name": "Monolithic Power Systems"
     },
     {
       "ticker": "DXCM",
       "name": "DexCom, Inc. Common Stock",
       "sector": "",
-      "price": 80.19,
-      "change_pct": -2.82,
-      "market_cap": "29,906,934,435",
+      "price": 79.32,
+      "change_pct": -1.08,
+      "market_cap": "29,582,467,133",
       "cn_name": "德康医疗"
     },
     {
       "ticker": "TMUS",
       "name": "T-Mobile US, Inc. Common Stock",
       "sector": "",
-      "price": 162.53,
-      "change_pct": -0.91,
-      "market_cap": "172,163,570,965",
+      "price": 165.6,
+      "change_pct": 1.89,
+      "market_cap": "175,415,537,758",
       "cn_name": "T MOBILE US INC"
     },
     {
       "ticker": "MELI",
       "name": "MercadoLibre, Inc. Common Stock",
       "sector": "",
-      "price": 1355.49,
-      "change_pct": -4.75,
-      "market_cap": "68,719,008,143",
+      "price": 1355.0,
+      "change_pct": -0.04,
+      "market_cap": "68,694,166,710",
       "cn_name": "MercadoLibre"
     },
     {
       "ticker": "KDP",
       "name": "Keurig Dr Pepper Inc. Common Stock",
       "sector": "",
-      "price": 34.41,
-      "change_pct": -1.71,
-      "market_cap": "49,124,232,735",
+      "price": 34.84,
+      "change_pct": 1.25,
+      "market_cap": "49,738,107,192",
       "cn_name": "Keurig Dr Pepper Inc"
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group N.V. Class A Ordinary Shares",
       "sector": "",
-      "price": 96.92,
-      "change_pct": -9.39,
-      "market_cap": "28,388,101,093",
+      "price": 81.31,
+      "change_pct": -16.11,
+      "market_cap": "23,815,894,551",
       "cn_name": "NBIS"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc. Common Stock",
       "sector": "",
-      "price": 346.65,
-      "change_pct": -2.09,
-      "market_cap": "1,654,778,792,702",
+      "price": 304.41,
+      "change_pct": -12.19,
+      "market_cap": "1,453,140,667,205",
       "cn_name": "博通"
     },
     {
       "ticker": "FTNT",
       "name": "Fortinet, Inc. Common Stock",
       "sector": "",
-      "price": 131.46,
-      "change_pct": -0.27,
-      "market_cap": "96,584,942,552",
+      "price": 124.56,
+      "change_pct": -5.25,
+      "market_cap": "91,515,445,339",
       "cn_name": "飞塔信息"
     },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc. Common Stock",
       "sector": "",
-      "price": 374.41,
-      "change_pct": -2.43,
-      "market_cap": "1,479,952,102,562",
+      "price": 345.82,
+      "change_pct": -7.64,
+      "market_cap": "1,366,942,752,886",
       "cn_name": "特斯拉"
     },
     {
       "ticker": "NXPI",
       "name": "NXP Semiconductors N.V. Common Stock",
       "sector": "",
-      "price": 251.76,
-      "change_pct": -0.28,
-      "market_cap": "63,456,860,259",
+      "price": 235.15,
+      "change_pct": -6.6,
+      "market_cap": "59,270,260,128",
       "cn_name": "恩智浦"
     },
     {
       "ticker": "FANG",
       "name": "Diamondback Energy, Inc. Common Stock",
       "sector": "",
-      "price": 176.77,
-      "change_pct": 1.41,
-      "market_cap": "49,348,499,254",
+      "price": 175.75,
+      "change_pct": -0.58,
+      "market_cap": "49,063,748,056",
       "cn_name": "Diamondback Energy"
     },
     {
       "ticker": "META",
       "name": "Meta Platforms, Inc. Class A Common Stock",
       "sector": "",
-      "price": 596.22,
-      "change_pct": -3.27,
-      "market_cap": "1,524,082,159,864",
+      "price": 560.84,
+      "change_pct": -5.93,
+      "market_cap": "1,433,642,344,333",
       "cn_name": "Meta Platforms"
     },
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks, Inc. Common Stock",
       "sector": "",
-      "price": 361.812,
-      "change_pct": 6.44,
-      "market_cap": "297,047,652,000",
+      "price": 343.32,
+      "change_pct": -5.09,
+      "market_cap": "281,865,720,000",
       "cn_name": "派拓网络"
     },
     {
       "ticker": "WDAY",
       "name": "Workday, Inc. Class A Common Stock",
       "sector": "",
-      "price": 173.36,
-      "change_pct": -2.3,
-      "market_cap": "41,779,760,000",
+      "price": 174.52,
+      "change_pct": 0.67,
+      "market_cap": "42,059,320,000",
       "cn_name": "工时公司"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C Capital Stock",
       "sector": "",
-      "price": 271.02,
-      "change_pct": -2.93,
-      "market_cap": "3,331,919,880,000",
+      "price": 264.0,
+      "change_pct": -2.59,
+      "market_cap": "3,245,616,000,000",
       "cn_name": "谷歌"
     },
     {
       "ticker": "PYPL",
       "name": "PayPal Holdings, Inc. Common Stock",
       "sector": "",
-      "price": 56.37,
-      "change_pct": -2.63,
-      "market_cap": "46,824,208,258",
+      "price": 53.29,
+      "change_pct": -5.46,
+      "market_cap": "44,265,780,700",
       "cn_name": "贝宝"
     },
     {
       "ticker": "SHOP",
       "name": "Shopify Inc. Class A Subordinate Voting Shares",
       "sector": "",
-      "price": 131.97,
-      "change_pct": -5.34,
-      "market_cap": "169,782,310,056",
+      "price": 123.72,
+      "change_pct": -6.25,
+      "market_cap": "159,168,503,448",
       "cn_name": "SHOP"
     },
     {
       "ticker": "LITE",
       "name": "Lumentum Holdings Inc. Common Stock",
       "sector": "",
-      "price": 535.15,
-      "change_pct": -2.89,
-      "market_cap": "48,538,105,000",
+      "price": 460.54,
+      "change_pct": -13.94,
+      "market_cap": "41,770,978,000",
       "cn_name": "Lumentum Holdings Inc. Common Stock When Issued"
     },
     {
       "ticker": "CCEP",
       "name": "Coca-Cola Europacific Partners plc Ordinary Shares",
       "sector": "",
-      "price": 116.26,
-      "change_pct": -2.19,
-      "market_cap": "52,779,997,661",
+      "price": 115.55,
+      "change_pct": 0.77,
+      "market_cap": "52,457,670,133",
       "cn_name": "Coca-Cola European Partners plc Ordinary Shares"
     },
     {
       "ticker": "BKR",
       "name": "Baker Hughes Company Class A Common Stock",
       "sector": "",
-      "price": 46.67,
-      "change_pct": -1.33,
-      "market_cap": "46,346,972,335",
+      "price": 44.81,
+      "change_pct": -3.99,
+      "market_cap": "44,499,846,375",
       "cn_name": "Michael Baker Corp"
     },
     {
       "ticker": "PDD",
       "name": "PDD Holdings Inc. American Depositary Shares",
       "sector": "",
-      "price": 86.0,
-      "change_pct": 11.04,
-      "market_cap": "122,412,095,732",
+      "price": 83.68,
+      "change_pct": -2.7,
+      "market_cap": "119,109,815,940",
       "cn_name": "拼多多"
     },
     {
       "ticker": "MRNA",
       "name": "Moderna, Inc. Common Stock",
       "sector": "",
-      "price": 199.33,
-      "change_pct": 1.29,
-      "market_cap": "80,653,098,947",
+      "price": 195.0,
+      "change_pct": -2.17,
+      "market_cap": "78,901,090,125",
       "cn_name": "MRNA"
     },
     {
       "ticker": "CRWD",
       "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
       "sector": "",
-      "price": 243.46,
-      "change_pct": 2.71,
-      "market_cap": "249,287,176,633",
+      "price": 229.44,
+      "change_pct": -5.76,
+      "market_cap": "234,931,610,148",
       "cn_name": "CrowdStrike"
     },
     {
       "ticker": "DDOG",
       "name": "Datadog, Inc. Class A Common Stock",
       "sector": "",
-      "price": 166.46,
-      "change_pct": -0.39,
-      "market_cap": "60,099,142,041",
+      "price": 157.37,
+      "change_pct": -5.46,
+      "market_cap": "56,817,265,307",
       "cn_name": "DDOG"
     },
     {
       "ticker": "RKLB",
       "name": "Rocket Lab Corporation Common Stock",
       "sector": "",
-      "price": 50.99,
-      "change_pct": -3.92,
-      "market_cap": "32,226,746,456",
+      "price": 45.42,
+      "change_pct": -10.92,
+      "market_cap": "28,706,389,959",
       "cn_name": "RKLB"
     },
     {
       "ticker": "PLTR",
       "name": "Palantir Technologies Inc. Class A Common Stock",
       "sector": "",
-      "price": 153.68,
-      "change_pct": -1.91,
-      "market_cap": "370,291,571,804",
+      "price": 143.49,
+      "change_pct": -6.63,
+      "market_cap": "345,738,792,544",
       "cn_name": "PLTR"
     },
     {
       "ticker": "ABNB",
       "name": "Airbnb, Inc. Class A Common Stock",
       "sector": "",
-      "price": 172.79,
-      "change_pct": -4.12,
-      "market_cap": "101,521,416,220",
+      "price": 170.36,
+      "change_pct": -1.41,
+      "market_cap": "100,093,688,681",
       "cn_name": "爱彼迎"
     },
     {
       "ticker": "DASH",
       "name": "DoorDash, Inc. Class A Common Stock",
       "sector": "",
-      "price": 157.13,
-      "change_pct": -5.8,
-      "market_cap": "68,504,960,890",
+      "price": 152.6,
+      "change_pct": -2.88,
+      "market_cap": "66,529,988,111",
       "cn_name": "DoorDash"
     },
     {
       "ticker": "APP",
       "name": "Applovin Corporation Class A Common Stock",
       "sector": "",
-      "price": 379.02,
-      "change_pct": -3.04,
-      "market_cap": "125,577,690,213",
+      "price": 348.29,
+      "change_pct": -8.11,
+      "market_cap": "115,396,163,064",
       "cn_name": "APP AppLovin"
     },
     {
       "ticker": "CEG",
       "name": "Constellation Energy Corporation Common Stock ",
       "sector": "",
-      "price": 252.03,
-      "change_pct": -4.08,
-      "market_cap": "88,615,891,263",
+      "price": 237.41,
+      "change_pct": -5.8,
+      "market_cap": "83,475,374,935",
       "cn_name": "CEG"
     },
     {
       "ticker": "GEHC",
       "name": "GE HealthCare Technologies Inc. Common Stock ",
       "sector": "",
-      "price": 81.89,
-      "change_pct": -2.12,
-      "market_cap": "37,025,566,981",
+      "price": 80.64,
+      "change_pct": -1.53,
+      "market_cap": "36,460,394,692",
       "cn_name": "GEHC"
     },
     {
       "ticker": "LIN",
       "name": "Linde plc Ordinary Shares",
       "sector": "",
-      "price": 510.21,
-      "change_pct": -0.38,
-      "market_cap": "234,229,134,884",
+      "price": 502.83,
+      "change_pct": -1.45,
+      "market_cap": "230,841,096,595",
       "cn_name": "Linde Plc"
     },
     {
       "ticker": "ARM",
       "name": "Arm Holdings plc American Depositary Shares",
       "sector": "",
-      "price": 177.17,
-      "change_pct": -3.06,
-      "market_cap": "188,518,668,997",
+      "price": 152.2,
+      "change_pct": -14.09,
+      "market_cap": "161,949,209,354",
       "cn_name": "ARM"
     },
     {
       "ticker": "TRI",
       "name": "Thomson Reuters Corporation Common Shares",
       "sector": "",
-      "price": 100.54,
-      "change_pct": -3.23,
-      "market_cap": "43,579,954,287",
+      "price": 101.56,
+      "change_pct": 1.01,
+      "market_cap": "44,022,082,329",
       "cn_name": "汤姆逊-路透"
     },
     {
       "ticker": "FER",
       "name": "Ferrovial N.V. Ordinary Shares",
       "sector": "",
-      "price": 59.03,
-      "change_pct": -3.05,
-      "market_cap": "42,469,591,101",
+      "price": 57.34,
+      "change_pct": -2.86,
+      "market_cap": "41,253,707,500",
       "cn_name": "FER"
     },
     {
       "ticker": "ALAB",
       "name": "Astera Labs, Inc. Common Stock",
       "sector": "",
-      "price": 211.6,
-      "change_pct": -2.38,
-      "market_cap": "36,983,887,070",
+      "price": 180.35,
+      "change_pct": -14.77,
+      "market_cap": "31,521,947,226",
       "cn_name": "ALAB"
     },
     {
       "ticker": "SNDK",
       "name": "Sandisk Corporation Common Stock",
       "sector": "",
-      "price": 755.16,
-      "change_pct": -2.71,
-      "market_cap": "967,062,099,221",
+      "price": 79.24,
+      "change_pct": -16.05,
+      "market_cap": "101,475,185,050",
       "cn_name": "闪迪"
     },
     {
       "ticker": "CRWV",
       "name": "CoreWeave, Inc. Class A Common Stock",
       "sector": "",
-      "price": 44.91,
-      "change_pct": -6.1,
-      "market_cap": "24,975,606,265",
+      "price": 39.51,
+      "change_pct": -12.02,
+      "market_cap": "21,972,527,355",
       "cn_name": "CRWV"
     },
     {
       "ticker": "SPCX",
       "name": "Space Exploration Technologies Corp. Class A Common Stock",
       "sector": "",
-      "price": 138.43,
-      "change_pct": -3.53,
-      "market_cap": "1,880,026,649,237",
+      "price": 127.79,
+      "change_pct": -7.69,
+      "market_cap": "1,735,524,131,373",
       "cn_name": "SpaceX"
     },
     {
       "ticker": "HONA",
       "name": "Honeywell Aerospace Inc. Common Stock ",
       "sector": "",
-      "price": 155.84,
-      "change_pct": -1.27,
-      "market_cap": "49,406,241,322",
+      "price": 150.71,
+      "change_pct": -3.29,
+      "market_cap": "47,779,868,004",
       "cn_name": "HONA"
     }
   ],
@@ -4844,10 +4844,137 @@
   ],
   "news": [
     {
+      "ticker": "ALAB",
+      "title": "Astera Labs and Credo Each Trade About 60% Below Their Highs. Only One Still Needs a $1.46 Billion Second Half",
+      "link": "https://www.tikr.com/blog/astera-labs-and-credo-each-trade-about-60-below-their-highs-only-one-still-needs-a-1-46-billion-second-half?ref=yahoofinance&amp;tlnk=yf-261118-2jfmh78p&amp;.tsrc=rss",
+      "date": "Wed, 18 Nov 2026 16:33:07 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "ALAB"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ALAB",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "title": "How Astera Labs (ALAB) Is Expanding Its Role in AI Connectivity",
+      "link": "https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-expanding-role-152408728.html?.tsrc=rss",
+      "date": "Wed, 18 Nov 2026 15:24:08 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "ALAB"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ALAB",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "title": "Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?",
+      "link": "https://247wallst.com/investing/2026/11/19/arm-just-dropped-21-in-a-month-will-arm-stock-hit-150-or-200-first/?.tsrc=rss",
+      "date": "Thu, 19 Nov 2026 20:05:15 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "ARM"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ARM",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "title": "Who Is Rene Haas? What to Know About the Arm CEO as Nvidia Searches for Jensen Huang's Successor",
+      "link": "https://www.barchart.com/story/news/8922883/who-is-rene-haas-what-to-know-about-the-arm-ceo-as-nvidia-searches-for-jensen-huang-s-successor?.tsrc=rss",
+      "date": "Thu, 19 Nov 2026 18:51:22 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA",
+        "ARM"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ARM",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ALAB",
+      "title": "3 AI Chip Stocks With Earnings Growth Over 34%",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-earnings-151930349.html?.tsrc=rss",
+      "date": "Thu, 19 Nov 2026 15:19:30 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "ALAB"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ALAB",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
       "ticker": "NVDA",
-      "title": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought",
-      "link": "https://www.fool.com/investing/2026/11/21/follow-the-smart-money-4-ai-stocks-billionaire-dan-loeb-just-bought/?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 05:20:02 +0000",
+      "title": "Where Will Nvidia Stock Be in 20 Years? The Answer Might Surprise You.",
+      "link": "https://www.fool.com/investing/2026/11/22/where-will-nvidia-stock-be-in-20-years-the-answer-might-surprise-you/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 05:20:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia Shock Puts MongoDB Stock And Cloud Software Names Back In Focus",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-shock-puts-mongodb-stock-051540855.html?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 05:15:40 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -4865,16 +4992,144 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/did-microsoft-ai-partnership-just-051538591.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 05:15:38 +0000",
+      "ticker": "META",
+      "title": "Mark Zuckerbergs Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number.",
+      "link": "https://www.fool.com/investing/2026/11/21/mark-zuckerberg-s-meta-platforms-is-pouring-up-to-usd145-billion-into-ai-this-year-investors-should-watch-this-1-number/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 04:31:01 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "MSFT"
+        "META"
       ],
       "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "GTA 6's $3.79 billion debut sends Apple stock investors an unmistakable signal",
+      "link": "https://www.thestreet.com/investing/stocks/gta-6-apple-innovation?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 04:17:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Midterms 2026: Here's Exactly What I'm Doing With My Investment Portfolio Right Now",
+      "link": "https://www.fool.com/investing/2026/11/21/midterms-2026-here-s-exactly-what-i-m-doing-with-my-investment-portfolio-right-now/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 03:50:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation  Will It Pay Off?",
+      "link": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 03:20:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation  Will It Pay Off?",
+      "link": "https://www.fool.com/investing/2026/11/21/billionaire-david-tepper-just-made-a-massive-ai-chip-rotation-will-it-pay-off/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 03:20:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "ULA Vulcan Launch Ends in Disaster for Amazon's Satellite Internet Ambitions",
+      "link": "https://www.fool.com/investing/2026/11/21/ula-vulcan-launch-ends-in-disaster-for-amazon-s-satellite-internet-ambitions/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 02:47:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
+      "link": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 00:47:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA",
+        "MSFT",
+        "AVGO"
+      ],
+      "impact": "high",
       "ai": false,
       "impacts": [
         {
@@ -4886,20 +5141,43 @@
       ]
     },
     {
-      "ticker": "PANW",
-      "title": "Palo Alto Networks (PANW) Stock Gets Fair Value Bump After Q1 Beat And Applied Compute",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-stock-051145964.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 05:11:45 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
+      "ticker": "GOOGL",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
+      "link": "https://247wallst.com/investing/2026/11/21/nvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 00:47:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
       "related": [
-        "PANW"
+        "NVDA",
+        "MSFT",
+        "AVGO"
       ],
       "impact": "high",
       "ai": false,
       "impacts": [
         {
-          "ticker": "PANW",
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November",
+      "link": "https://www.fool.com/investing/2026/11/21/the-ultimate-growth-stock-to-buy-with-usd1-000-before-the-end-of-november/?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 00:20:03 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
           "score": 1.0,
           "direction": "bull",
           "reason": "关键词规则"
@@ -4907,12 +5185,244 @@
       ]
     },
     {
-      "ticker": "MSFT",
-      "title": "Is Danaher (DHR) Undervalued After Its Microsoft AI Lab Partnership?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/danaher-dhr-undervalued-microsoft-ai-042011998.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 04:20:11 +0000",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Stock Gets Fair Value Trim As Analysts Weigh AI Spending And Monetization",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-gets-fair-001209637.html?.tsrc=rss",
+      "date": "Sun, 22 Nov 2026 00:12:09 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 23:39:26 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Renaissance Technologies Grew Its SanDisk Stake More Than 55-Fold to $481 Million",
+      "link": "https://247wallst.com/investing/2026/11/21/renaissance-technologies-grew-its-sandisk-stake-more-than-55-fold-to-481-million/?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 21:43:03 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SNDK"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Cathie Wood, Brad Gerstner and 16 Other Big Funds Bought Tesla Last Quarter, While 15 Sold. Whos Right?",
+      "link": "https://www.tikr.com/blog/cathie-wood-brad-gerstner-and-16-other-big-funds-bought-tesla-last-quarter-while-15-sold-whos-right?ref=yahoofinance&amp;tlnk=yf-261121-3rm42fg9&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 21:19:05 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-richly-210854263.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 21:08:54 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'",
+      "link": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 20:46:52 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "A $3.2 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-3-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&amp;tlnk=yf-261121-5m8xrrcc&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 19:52:12 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Musk Says Cybercab Covers About 90% of Passenger Miles. Teslas Next Robotaxi Is a Wheel-Less Model Y",
+      "link": "https://www.tikr.com/blog/musk-says-cybercab-covers-about-90-of-passenger-miles-teslas-next-robotaxi-is-a-wheel-less-model-y?ref=yahoofinance&amp;tlnk=yf-261121-466h9wgx&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 19:52:03 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "A $2.2 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-2-2-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&amp;tlnk=yf-261121-75qm98f6&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 19:35:35 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon tells NYC shoppers a Mamdani-backed delivery bill could cost them up to $664 a year per household",
+      "link": "https://finance.yahoo.com/economy/policy/articles/amazon-tells-nyc-shoppers-mamdani-193000343.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 19:30:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN",
+        "AMD"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "title": "Could Investing $500 a Month in Nebius Help You Retire a Millionaire?",
+      "link": "https://www.fool.com/investing/2026/11/21/could-investing-500-a-month-in-nebius-help-you-retire-a-millionaire/?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 18:57:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NBIS"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NBIS",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 18:32:03 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
       "related": [
         "MSFT"
       ],
@@ -4921,6 +5431,217 @@
       "impacts": [
         {
           "ticker": "MSFT",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Stopped Its Buybacks To Build AI. How Much More Can It Spend?",
+      "link": "https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 18:32:03 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "A $1.3 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&amp;tlnk=yf-261121-5m5mfwj7&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 17:21:55 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "AI May Have Just Broken Metas Climate Promise",
+      "link": "https://247wallst.com/investing/2026/11/21/ai-may-have-just-broken-metas-climate-promise/?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 17:02:19 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Tech Outages Drive Costco Surge: How Much Emergency Prep Should You Buy?",
+      "link": "https://moneylion.com/trending/money/tech-outages-drive-costco-surge-emergency-prep?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 17:00:42 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "COST"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "SK hynix Sinks 21% in a Week With Micron and Sandisk. Its U.S. Premium Is an Extra Special Case",
+      "link": "https://www.tikr.com/blog/sk-hynix-sinks-21-in-a-week-with-micron-and-sandisk-its-u-s-premium-is-an-extra-special-case?ref=yahoofinance&amp;tlnk=yf-261121-947vrx38&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 16:50:56 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "MU"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Mark Gurman Says Apple Is Not Set Up to Move at the Pace of These AI Companies",
+      "link": "https://247wallst.com/investing/2026/11/21/mark-gurman-says-apple-is-not-set-up-to-move-at-the-pace-of-these-ai-companies/?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 16:07:26 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Is Now Worth Over $5 Trillion Without Betting Big on AI Data Centers. AAPL Stock Now Trades Near Wall Streets Targets.",
+      "link": "https://www.barchart.com/story/news/8950358/apple-is-now-worth-over-5-trillion-without-betting-big-on-ai-data-centers-aapl-stock-now-trades-near-wall-streets-targets?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 15:00:03 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL",
+        "SPX"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "title": "Is Nebius Group N.V. (NBIS) Still Overvalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-n-v-nbis-145215381.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 14:52:15 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NBIS"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NBIS",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "title": "SoftBank Falls 14%, and 72% of Arms Shares Sit Pledged Behind Its Loans",
+      "link": "https://www.tikr.com/blog/softbank-falls-14-and-72-of-arms-shares-sit-pledged-behind-its-loans?ref=yahoofinance&amp;tlnk=yf-261121-m4r44cf9&amp;.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 10:17:47 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "ARM"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ARM",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk (SNDK) Implements 8 For 1 Stock Split",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-implements-8-1-042529050.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 04:25:29 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SNDK"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -4949,104 +5670,20 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fairly-valued-fresh-031612848.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 03:16:12 +0000",
+      "ticker": "ARM",
+      "title": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-undervalued-021442325.html?.tsrc=rss",
+      "date": "Sat, 21 Nov 2026 02:14:42 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "NVDA"
+        "ARM"
       ],
       "impact": "medium",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NVDA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "title": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fairly-valued-fresh-031612848.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 03:16:12 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "CRWV"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "CRWV",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall",
-      "link": "https://finance.yahoo.com/m/f93688e0-5c36-372b-855e-b722a7cce11d/jensen-huang-passed-billions.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 03:14:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "NVDA Stock Sees Biggest Fall In 22 Months, But Top Analyst Says Nvidias AI Boom Isnt Over Yet  Here Are 5 Reasons Why",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-fall-nvidia-ai-boom-not-over-yet-top-analyst-5-reasons/cNbmIC8R91h?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 02:48:25 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10.",
-      "link": "https://www.fool.com/investing/2026/11/20/amazon-s-re-invent-conference-starts-nov-30-here-s-what-the-stock-did-in-the-month-after-the-last-10/?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 02:12:02 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
+          "ticker": "ARM",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5075,654 +5712,12 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/george-soros-raised-meta-meta-011000430.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 01:10:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Top 5 Stocks to Buy According to Billionaire George Soros",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-according-010421254.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 01:04:21 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Morgan Stanley sends a strong signal to Google stock investors",
-      "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-strong-signal-to-google-stock-investors?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 01:03:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL",
-        "MS"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Review & Preview: Hype Halted",
-      "link": "https://finance.yahoo.com/m/7f9bf2d2-c34f-310e-9971-12201d455bb0/review-%26-preview%3A-hype-halted.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 00:55:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Has AI's honeymoon ended on Wall Street?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 00:46:04 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SPX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Zero To Sixty: Tesla Expands Cybercab To Dallas As Waymo Pauses Freeway Operations This Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-expands-cybercab-to-dallas-as-waymo-pauses-freeway-operations-this-week/cNbm5YSR91g?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 00:45:41 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "title": "Palo Alto Sees Rising Cyber Budgets Amid AI Threats As Firms Tap Emergency Funds; CEO Nikesh Arora Says Applied Compute Bet Could Dwarf Cybersecurity Business",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-sees-rising-cyber-003005491.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 00:30:05 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "NKE"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PANW",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/generac-stock-focus-earnings-beat-001937973.html?.tsrc=rss",
-      "date": "Sat, 21 Nov 2026 00:19:37 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Mets Owner Steve Cohens Fund Dumped Nearly All of Its AMD and Bet $1 Billion That Microsoft Is the Safer AI Stock. AMD Has Fallen 31% Since",
-      "link": "https://247wallst.com/investing/2026/11/20/mets-owner-steve-cohens-fund-dumped-nearly-all-of-its-amd-and-bet-1-billion-that-microsoft-is-the-safer-ai-stock-amd-has-fallen-31-since/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 23:47:04 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT",
-        "AMD"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "Mets Owner Steve Cohens Fund Dumped Nearly All of Its AMD and Bet $1 Billion That Microsoft Is the Safer AI Stock. AMD Has Fallen 31% Since",
-      "link": "https://247wallst.com/investing/2026/11/20/mets-owner-steve-cohens-fund-dumped-nearly-all-of-its-amd-and-bet-1-billion-that-microsoft-is-the-safer-ai-stock-amd-has-fallen-31-since/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 23:47:04 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT",
-        "AMD"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMD",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "David Ellison Calls Elon Musks $1 Billion Investment an Honor and a Privilege, Open to Future Starlink Collaboration",
-      "link": "https://finance.yahoo.com/media-advertising/articles/david-ellison-calls-elon-musk-233006805.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 23:30:06 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-amazon-shares-slide-on-ai-and-mega-cap-tech-sell-off/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 22:50:02 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "Anthropics Day Two Drop Fuels Broader Tech Rout; Dan Ives Points To Perfect Storm",
-      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-day-two-drop-fuels-broader-tech-rout-dan-ives-points-to-perfect-storm/cNbSHWSR91O?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 22:30:31 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AMD"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMD",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Mercedes F1's drivers still get the final say, even as it utilizes AI agents",
-      "link": "https://finance.yahoo.com/video/mercedes-f1s-drivers-still-get-the-final-say-even-as-it-utilizes-ai-agents-222256690.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 22:22:56 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Shots Fired: Meta Will Reportedly Sell a $300 Muse Charm With Free Verizon 5G as Apple Builds Its Agent",
-      "link": "https://www.tikr.com/blog/shots-fired-meta-will-reportedly-sell-a-300-muse-charm-with-free-verizon-5g-as-apple-builds-its-agent?ref=yahoofinance&amp;tlnk=yf-261120-pg825wq7&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 22:00:18 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL",
-        "META",
-        "ARM"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Shots Fired: Meta Will Reportedly Sell a $300 Muse Charm With Free Verizon 5G as Apple Builds Its Agent",
-      "link": "https://www.tikr.com/blog/shots-fired-meta-will-reportedly-sell-a-300-muse-charm-with-free-verizon-5g-as-apple-builds-its-agent?ref=yahoofinance&amp;tlnk=yf-261120-pg825wq7&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 22:00:18 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL",
-        "META",
-        "ARM"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Billionaire Dan Loebs Bear Math: AI Needs $2-3 Trillion of New Yearly Revenue. He Sold Amazon",
-      "link": "https://www.tikr.com/blog/billionaire-dan-loebs-bear-math-ai-needs-2-3-trillion-of-new-yearly-revenue-he-sold-amazon?ref=yahoofinance&amp;tlnk=yf-261120-5qww8h93&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:59:08 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Billionaire Dan Loebs Bear Math: AI Needs $2-3 Trillion of New Yearly Revenue. He Sold Amazon",
-      "link": "https://www.tikr.com/blog/billionaire-dan-loebs-bear-math-ai-needs-2-3-trillion-of-new-yearly-revenue-he-sold-amazon?ref=yahoofinance&amp;tlnk=yf-261120-5qww8h93&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:59:08 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "Trumps Treasury Secretary Keeps Nvidias H200 China Policy as House Data Show Nearly 880,000 AI Chips Approved",
-      "link": "https://www.tikr.com/blog/trumps-treasury-secretary-keeps-nvidias-h200-china-policy-as-house-data-show-nearly-880000-ai-chips-approved?ref=yahoofinance&amp;tlnk=yf-261120-rx666q2r&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:58:37 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMD",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Todays Market",
-      "link": "https://finance.yahoo.com/m/801603d1-8318-3eb0-99a6-10147f0d5ed5/anthropic%2C-nvidia%2C-amd%2C.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:53:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "AMD",
-        "MU"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMD",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta's Server Chip Shake-Up Could Hand Nvidia a Win",
-      "link": "https://finance.yahoo.com/technology/articles/metas-server-chip-shake-could-214208711.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:42:08 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA",
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-stock-ai-catalyst-could-214023171.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:40:23 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL",
-        "MSFT",
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "title": "CoreWeave Finds AI Demand Outside the Commercial Market",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-finds-ai-demand-outside-213902215.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:39:02 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "CRWV"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "CRWV",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "3 Edge AI Stocks To Watch As Apple Pushes More AI On Device",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-edge-ai-stocks-watch-211405007.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:14:05 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-investors-watch-merger-211259073.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 21:12:59 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla Sinks 8%, SpaceX Down 7%, Rivian Down 8% as AI Sell-Off Swamps HSBC Upgrade",
-      "link": "https://www.tikr.com/blog/tesla-sinks-8-spacex-down-7-rivian-down-8-as-ai-sell-off-swamps-hsbc-upgrade?ref=yahoofinance&amp;tlnk=yf-261120-49fmfcrf&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 20:45:55 +0000",
-      "sentiment": "bear",
-      "keyword_score": -0.33,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": -0.33,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "title": "Top Research Reports for Coca-Cola, Medtronic & Palo Alto Networks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-coca-cola-204200577.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 20:42:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "KO"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PANW",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PANW",
-      "title": "Bad News for Anthropic: More than 60% of Token Traffic Now Carried by Open-Weight Models per Palo Altos CEO",
-      "link": "https://www.tikr.com/blog/bad-news-for-anthropic-more-than-60-of-token-traffic-now-carried-by-open-weight-models-per-palo-altos-ceo?ref=yahoofinance&amp;tlnk=yf-261120-m2hfv55p&amp;.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 18:06:16 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "PANW"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PANW",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "PDD",
-      "title": "PDD Holdings Stocks Surge 11.04% as Operating Profit Jumps 25% on Flat Revenue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-stocks-surge-11-175843499.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 17:58:43 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "PDD"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "PDD",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "title": "CoreWeave Stocks Fall 6.10% After Co-Founder's $30 Million Bond Bet Fails to Hold Rally",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stocks-fall-6-10-175147592.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 17:51:47 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "CRWV"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "CRWV",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "NBIS",
-      "title": "Nebius vs. SoundHound AI: Which AI Tech Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/20/nebius-vs-soundhound-ai-which-ai-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 17:50:02 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
+      "title": "Neoclouds like CoreWeave have two big problems",
+      "link": "https://blockspace.media/short/neoclouds-like-coreweave-have-two-big-problems/?.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 22:58:51 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
       "related": [
         "NBIS"
       ],
@@ -5731,48 +5726,48 @@
       "impacts": [
         {
           "ticker": "NBIS",
-          "score": 1.0,
-          "direction": "bull",
+          "score": -1.0,
+          "direction": "bear",
           "reason": "关键词规则"
         }
       ]
     },
     {
-      "ticker": "CRWV",
-      "title": "CoreWeave Briefly Trades Below $40 IPO Price Amid Financing Worries",
-      "link": "https://beincrypto.com/coreweave-stock-below-ipo-price/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 17:31:19 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
+      "ticker": "LITE",
+      "title": "Marvell's $115 Billion Lumentum Deal Creates a New Valuation Test",
+      "link": "https://finance.yahoo.com/technology/articles/marvells-115-billion-lumentum-deal-214112963.html?.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 21:41:12 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
       "related": [
-        "CRWV"
+        "LITE"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "CRWV",
-          "score": -1.0,
-          "direction": "bear",
+          "ticker": "LITE",
+          "score": 0.0,
+          "direction": "neutral",
           "reason": "关键词规则"
         }
       ]
     },
     {
-      "ticker": "NBIS",
-      "title": "Nebius Drops 7% as Michael Burry Takes a Victory Lap on Neocloud Rout; IREN Falls 5%, Oracle Slides 4%",
-      "link": "https://247wallst.com/investing/2026/11/20/nebius-drops-7-as-michael-burry-takes-a-victory-lap-on-neocloud-rout-iren-falls-5-oracle-slides-4/?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 14:17:10 +0000",
+      "ticker": "LITE",
+      "title": "Lumentum Holdings (LITE) Stock Dropped, So What Is Driving Attention Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-stock-dropped-211217297.html?.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 21:12:17 +0000",
       "sentiment": "bear",
       "keyword_score": -1.0,
       "related": [
-        "ORCL"
+        "LITE"
       ],
-      "impact": "medium",
+      "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NBIS",
+          "ticker": "LITE",
           "score": -1.0,
           "direction": "bear",
           "reason": "关键词规则"
@@ -5780,20 +5775,20 @@
       ]
     },
     {
-      "ticker": "PDD",
-      "title": "Wall Street Analysts Think PDD Holdings Inc. Sponsored ADR (PDD) Could Surge 28.92%: Read This Before Placing a Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-pdd-135503296.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 13:55:03 +0000",
+      "ticker": "SNDK",
+      "title": "Sandisks Data Center Portfolio Soars 1,700% as AI Demand Reshapes NAND Business",
+      "link": "https://www.marketbeat.com/instant-alerts/event-sandisks-data-center-portfolio-soars-1700-as-ai-demand-reshapes-nand-business-2026-11-20/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 18:12:44 +0000",
       "sentiment": "bull",
       "keyword_score": 1.0,
       "related": [
-        "SPX"
+        "SNDK"
       ],
-      "impact": "low",
+      "impact": "high",
       "ai": false,
       "impacts": [
         {
-          "ticker": "PDD",
+          "ticker": "SNDK",
           "score": 1.0,
           "direction": "bull",
           "reason": "关键词规则"
@@ -5801,21 +5796,20 @@
       ]
     },
     {
-      "ticker": "NBIS",
-      "title": "The Zacks Analyst Blog Highlights Nebius, CoreWeave, Microsoft and Amazon",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nebius-134500953.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 13:45:00 +0000",
+      "ticker": "ALAB",
+      "title": "An $11 Billion Fund Just Bought These 3 Stocks",
+      "link": "https://www.tikr.com/blog/an-11-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&amp;tlnk=yf-261120-jpfcw8j4&amp;.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 16:48:50 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "MSFT",
-        "AMZN"
+        "ALAB"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NBIS",
+          "ticker": "ALAB",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5823,20 +5817,20 @@
       ]
     },
     {
-      "ticker": "PDD",
-      "title": "PDD Holdings Inc. Sponsored ADR (PDD) Recently Broke Out Above the 20-Day Moving Average",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-sponsored-adr-133501011.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 13:35:01 +0000",
+      "ticker": "LITE",
+      "title": "Marvell and Lumentum deal: good, real, and ugly scenarios",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-lumentum-deal-good-real-162015619.html?.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 16:20:15 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "PDD"
+        "LITE"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "PDD",
+          "ticker": "LITE",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5844,20 +5838,20 @@
       ]
     },
     {
-      "ticker": "PDD",
-      "title": "PDD Holdings Inc. Sponsored ADR (PDD) Just Overtook the 50-Day Moving Average",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-sponsored-adr-133002905.html?.tsrc=rss",
-      "date": "Fri, 20 Nov 2026 13:30:02 +0000",
+      "ticker": "LITE",
+      "title": "Lumentums CEO Admits Shareholders Are Not Happy About the Marvell Deal",
+      "link": "https://247wallst.com/investing/2026/11/20/lumentums-ceo-admits-shareholders-are-not-happy-about-the-marvell-deal/?.tsrc=rss",
+      "date": "Fri, 20 Nov 2026 15:28:43 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "PDD"
+        "LITE"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "PDD",
+          "ticker": "LITE",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5873,7 +5867,7 @@
       "period": "Q2 FY2027",
       "confidence": "confirmed",
       "note": "AI芯片霸主，财报对纳指影响最大",
-      "days_left": -87,
+      "days_left": -88,
       "soon": false
     },
     {
@@ -5883,7 +5877,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "云业务增速 + AI搜索竞争",
-      "days_left": -25,
+      "days_left": -26,
       "soon": false
     },
     {
@@ -5893,7 +5887,7 @@
       "period": "Q3 2026",
       "confidence": "confirmed",
       "note": "PE 300+，财报是生死局",
-      "days_left": -24,
+      "days_left": -25,
       "soon": false
     },
     {
@@ -5903,7 +5897,7 @@
       "period": "Q3 FY2027",
       "confidence": "estimated",
       "note": "云+AI收入是关键",
-      "days_left": -24,
+      "days_left": -25,
       "soon": false
     },
     {
@@ -5913,7 +5907,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "广告 + AI资本开支指引",
-      "days_left": -24,
+      "days_left": -25,
       "soon": false
     },
     {
@@ -5923,7 +5917,7 @@
       "period": "Q4 FY2026",
       "confidence": "estimated",
       "note": "iPhone销量 + 服务收入",
-      "days_left": -23,
+      "days_left": -24,
       "soon": false
     },
     {
@@ -5933,7 +5927,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "AWS增速 + 零售利润率",
-      "days_left": -23,
+      "days_left": -24,
       "soon": false
     }
   ],
@@ -5944,7 +5938,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 13,
+      "days_left": 12,
       "soon": false
     },
     {
@@ -5953,7 +5947,7 @@
       "impact": "high",
       "beijing_time": "12-10 03:00",
       "note": "年末会议 + 点阵图",
-      "days_left": 17,
+      "days_left": 16,
       "soon": false
     },
     {
@@ -5962,7 +5956,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 19,
+      "days_left": 18,
       "soon": false
     }
   ],
