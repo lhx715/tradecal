@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26 07:22:14",
-  "today": "2026-11-26",
+  "generated_at": "2026-11-27 07:18:59",
+  "today": "2026-11-27",
   "nasdaq100": [
     {
       "ticker": "AAPL",
@@ -4844,345 +4844,6 @@
   ],
   "news": [
     {
-      "ticker": "MSFT",
-      "title": "Microsoft's Green Card Filings Reveal A Striking Pattern After Mass Layoffs. Trump's New Rule Could Freeze Sponsorships For Two Years.",
-      "link": "https://www.ibtimes.com/microsoft-green-card-filings-after-2025-layoffs-3810211?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 23:48:07 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Bill Gurley: Investors Werent Scrambling to Actually Own Anthropic. Thats a Problem for Amazon and Alphabet",
-      "link": "https://www.tikr.com/blog/bill-gurley-investors-werent-scrambling-to-actually-own-anthropic-thats-a-problem-for-amazon-and-alphabet?ref=yahoofinance&amp;tlnk=yf-261125-5qg4553j&amp;.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 23:43:06 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "GOOGL",
-        "AMZN"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "title": "Why My Analysis Points to Nearly 40% Semiconductor Equipment Growth in 2026",
-      "link": "https://247wallst.com/investing/2026/11/25/why-my-analysis-points-to-nearly-40-semiconductor-equipment-growth-in-2026/?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 23:42:34 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "LRCX"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "LRCX",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
-      "link": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 23:24:02 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Trump Has A Message for Big Tech Firms Like Amazon, Google and Microsoft Building Data Centers Abroad: Were Going to Put A Tremendous Tax On Them",
-      "link": "https://finance.yahoo.com/economy/policy/articles/trump-message-big-tech-firms-223005233.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 22:30:05 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT",
-        "GOOGL",
-        "AMZN"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-213222387.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:32:22 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "MACRO"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "LRCX",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Is the market experiencing a 'dead cat' bounce?",
-      "link": "https://finance.yahoo.com/video/is-the-market-experiencing-a-dead-cat-bounce-212704552.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:27:04 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/25/qualcomm-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:20:02 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "QCOM"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SNDK",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/apple-aapl-pushes-back-24-211147818.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:11:47 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "title": "Lam Research (LRCX) Stock Dropped, So What Is Driving Attention Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-stock-dropped-211100299.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:11:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "LRCX"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "LRCX",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 21:00:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 19:30:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-      "link": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 19:22:15 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-      "link": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 19:22:15 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta Says Muse Raises Conversions for Advertisers. It Already Places 51% of AI Agent Orders",
-      "link": "https://www.tikr.com/blog/meta-says-muse-raises-conversions-for-advertisers-it-already-places-51-of-ai-agent-orders?ref=yahoofinance&amp;tlnk=yf-261125-5g9v4pwg&amp;.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 19:20:33 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Metas AI shopping push could lift Instagram ad revenue, Jefferies says",
-      "link": "https://www.proactiveinvestors.com/companies/news/1102462/meta-s-ai-shopping-push-could-lift-instagram-ad-revenue-jefferies-says-1102462.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 19:09:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "META"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "META",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "ADI",
       "title": "Analog Devices Just Plunged After Earnings. Is Its Dividend Now a Bargain?",
       "link": "https://247wallst.com/investing/2026/11/25/analog-devices-just-plunged-after-earnings-is-its-dividend-now-a-bargain/?.tsrc=rss",
@@ -5199,69 +4860,6 @@
           "ticker": "ADI",
           "score": -0.33,
           "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "title": "SK hynix Falls 5%, Sandisk Down 10% as Asian Chip Stocks Give Back the Huang Rally",
-      "link": "https://www.tikr.com/blog/sk-hynix-falls-5-sandisk-down-10-as-asian-chip-stocks-give-back-the-huang-rally?ref=yahoofinance&amp;tlnk=yf-261125-7hm5f9h6&amp;.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 17:46:26 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "SNDK"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SNDK",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "SNDK",
-      "title": "Sandisk vs. Western Digital: Which Computer Drive Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/25/sandisk-vs-western-digital-which-computer-drive-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 17:19:02 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "SNDK"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "SNDK",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Japan's biggest banks pick Solana as Fidelity adds DeFi tokens",
-      "link": "https://finance.yahoo.com/video/japans-biggest-banks-pick-solana-as-fidelity-adds-defi-tokens-222056705.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 17:00:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "MSFT"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": 0.0,
-          "direction": "neutral",
           "reason": "关键词规则"
         }
       ]
@@ -5288,73 +4886,10 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "Ten reasons the market is selling off again before Thanksgiving",
-      "link": "https://finance.yahoo.com/video/ten-reasons-the-market-is-selling-off-again-before-thanksgiving-160424234.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 16:04:24 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
       "ticker": "ADI",
       "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
       "link": "https://247wallst.com/investing/2026/11/25/chip-stocks-just-pulled-a-whipsaw-last-seen-at-the-april-2025-tariff-pause/?.tsrc=rss",
       "date": "Wed, 25 Nov 2026 15:08:56 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "ADI"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "ADI",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "title": "Analog Devices: 3 Key Takeaways for Long-Term Investors",
-      "link": "https://www.fool.com/earnings/takeaways/2026/11/25/analog-devices-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 14:05:36 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "ADI"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "ADI",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "ADI",
-      "title": "ADI Q4 Earnings Call Points Capacity Push and Supply Bottlenecks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adi-q4-earnings-call-points-140000273.html?.tsrc=rss",
-      "date": "Wed, 25 Nov 2026 14:00:00 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -5435,20 +4970,41 @@
       ]
     },
     {
-      "ticker": "AXON",
-      "title": "Axon Enterprise vs. Palantir Technologies: Which Law Enforcement Stock Is a Better Buy for 2027?",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/24/axon-enterprise-vs-palantir-technologies-which-law-enforcement-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-      "date": "Tue, 24 Nov 2026 20:20:02 +0000",
+      "ticker": "AMZN",
+      "title": "Amazon tried to kill Musks plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-tried-kill-musk-plan-233000718.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 23:30:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Should You Buy Tesla Stock Before December?",
+      "link": "https://www.fool.com/investing/2026/11/26/should-you-buy-tesla-stock-before-december/?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 22:35:02 +0000",
       "sentiment": "bull",
       "keyword_score": 1.0,
       "related": [
-        "PLTR"
+        "TSLA"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "AXON",
+          "ticker": "TSLA",
           "score": 1.0,
           "direction": "bull",
           "reason": "关键词规则"
@@ -5456,10 +5012,222 @@
       ]
     },
     {
+      "ticker": "MSFT",
+      "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
+      "link": "https://www.fool.com/investing/2026/11/26/tech-stock-sell-off-down-13-is-microsoft-a-buy-now/?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 22:20:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Jim Lebenthal Says This Is a Correction, Not Something Worse. Why Hes Buying More Alphabet",
+      "link": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 22:07:55 +0000",
+      "sentiment": "bull",
+      "keyword_score": 0.33,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 0.33,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisks 8-for-1 Split Is Done. Heres What Investors Should Do Next.",
+      "link": "https://www.fool.com/investing/2026/11/26/sandisks-8-for-1-split-is-done-heres-what-investors-should-do-next/?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 21:20:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SNDK"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "title": "Is Lam Research Corporation (LRCX) Oversold as Strong  AI Demand Supports Recovery?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-oversold-194754377.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:47:54 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "LRCX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "LRCX",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "link": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:30:03 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL",
+        "MSFT",
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "Sandisk Trades at Under 3x Earnings After an 8-for-1 Split and a 70% Crash. Why SNDK Stock Isnt Doomed Despite NAND Price Warnings.",
+      "link": "https://www.barchart.com/story/news/9022920/sandisk-trades-at-under-3x-earnings-after-an-8-for-1-split-and-a-70-crash-why-sndk-stock-isnt-doomed-despite-nand-price-warnings?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:30:03 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "SNDK"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-slip-1-18-190357031.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:03:57 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "TSLA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "TSLA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:00:38 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "title": "Analog Devices keeps UBS target despite softer earnings guidance",
+      "link": "https://www.proactiveinvestors.com/companies/news/1102545/analog-devices-keeps-ubs-target-despite-softer-earnings-guidance-1102545.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 19:00:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "ADI"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ADI",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-slip-1-25-184200035.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:42:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
       "ticker": "AXON",
-      "title": "Are You Overpaying For Axon Stock Versus Its Peers?",
-      "link": "https://www.trefis.com/stock/axon/articles/628331/are-you-overpaying-for-axon-stock-versus-its-peers/2026-11-24?.tsrc=rss",
-      "date": "Tue, 24 Nov 2026 17:52:29 +0000",
+      "title": "Ken Fisher and 5 Other Big Funds Sold Axon Enterprise Last Quarter, While 9 Bought. Whos Right?",
+      "link": "https://www.tikr.com/blog/ken-fisher-and-5-other-big-funds-sold-axon-enterprise-last-quarter-while-9-bought-whos-right?ref=yahoofinance&amp;tlnk=yf-261126-3rxw8h4v&amp;.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:41:47 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -5477,20 +5245,211 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix  Analyst Presses Memory Giants For Massive Buybacks",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-nvidia-kioxia-memory-fix-analyst-memory-giants-buybacks/cNbxQFgR9ZK?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 06:30:51 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
+      "ticker": "LRCX",
+      "title": "Lam Research Stocks Fall 5.68% as China Exposure Weighs on Chip Toolmakers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stocks-fall-5-183545721.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:35:45 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
       "related": [
-        "NVDA"
+        "LRCX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "LRCX",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Can NICE (TASE:NICE) Support A Reasonable Price On Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-support-reasonable-181420159.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:14:20 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Heres Who Bought and Sold Recently",
+      "link": "https://www.tikr.com/blog/stanley-druckenmiller-bill-ackman-and-7-other-famous-investors-own-amazon-heres-who-bought-and-sold-recently?ref=yahoofinance&amp;tlnk=yf-261126-2mffj2wm&amp;.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:11:13 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NVDA",
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "George Soros and 64 Other Big Funds Bought Meta Last Quarter. David Tepper and 33 Others Sold. Whos Right?",
+      "link": "https://www.tikr.com/blog/george-soros-and-64-other-big-funds-bought-meta-last-quarter-david-tepper-and-33-others-sold-whos-right?ref=yahoofinance&amp;tlnk=yf-261126-jj5cfjgh&amp;.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:09:59 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Faces India Lawsuit Over 5.4 Million Content Restrictions",
+      "link": "https://finance.yahoo.com/technology/articles/meta-faces-india-lawsuit-over-180217910.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 18:02:17 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "AMZN",
+        "META"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stocks-jump-3-172338883.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 17:23:38 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AMZN",
+        "META"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta Platforms (META) Surging Capex Pressures Free Cash Flow Amid Monetization Debates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-surging-capex-165927360.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 16:59:27 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "META"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "META",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AXON",
+      "title": "Can Axon's Expanding Dedrone Platform Sustain Its Growth Momentum?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axons-expanding-dedrone-platform-sustain-165100620.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 16:51:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AXON"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AXON",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AXON",
+      "title": "Is Trending Stock Axon Enterprise, Inc (AXON) a Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-axon-enterprise-inc-130005160.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 13:00:05 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AXON"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AXON",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "title": "Advanced Packaging Drives Lam Research's Growth: Can It Gain More Share?",
+      "link": "https://finance.yahoo.com/technology/articles/advanced-packaging-drives-lam-researchs-123600696.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 12:36:00 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "LRCX"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "LRCX",
           "score": 1.0,
           "direction": "bull",
           "reason": "关键词规则"
@@ -5499,13 +5458,34 @@
     },
     {
       "ticker": "SNDK",
-      "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix  Analyst Presses Memory Giants For Massive Buybacks",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-nvidia-kioxia-memory-fix-analyst-memory-giants-buybacks/cNbxQFgR9ZK?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 06:30:51 +0000",
+      "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
+      "link": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-two-cheapest-ai-112351523.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 11:23:51 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MU"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "SNDK",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "SNDK",
+      "title": "ETFs Are Buying SanDisk (SNDK) on Nov. 24",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-sandisk-sndk-nov-110203043.html?.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 11:02:03 +0000",
       "sentiment": "bull",
       "keyword_score": 1.0,
       "related": [
-        "NVDA"
+        "SNDK"
       ],
       "impact": "low",
       "ai": false,
@@ -5519,233 +5499,22 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stops-shipping-ai-servers-062916311.html?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 06:29:16 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
+      "ticker": "AXON",
+      "title": "Axon Is Down 47% From Its High. TD Cowen Still Sees $650",
+      "link": "https://www.tikr.com/blog/axon-is-down-47-from-its-high-td-cowen-still-sees-650?ref=yahoofinance&amp;tlnk=yf-261126-pjvp3w42&amp;.tsrc=rss",
+      "date": "Thu, 26 Nov 2026 02:01:54 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
       "related": [
-        "NVDA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 06:28:44 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "NVDA"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "NVDA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "ANT, NVDA Slide Tests Investor Resolve, Software Firms Post Sharp Growth",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ant-nvda-slide-tests-investor-resolve-software-firms-post-sharp-growth/cNbxO5FR9ZX?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 05:33:34 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "NVDA"
+        "AXON"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "NVDA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "2 Ways Anthropic's IPO Pays Off for Alphabet Investors",
-      "link": "https://www.fool.com/investing/2026/11/26/2-ways-anthropic-s-ipo-pays-off-for-alphabet-investors/?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 05:20:02 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
+          "ticker": "AXON",
           "score": 0.0,
           "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "MegazoneCloud Launches Its Amazon Quick Center of Excellence to Turn Enterprise Data Into Autonomous Action",
-      "link": "https://finance.yahoo.com/technology/ai/articles/megazonecloud-launches-amazon-quick-center-042800157.html?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 04:28:00 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AMZN"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AMZN",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Michael Burry Says Hes Shorting The Markets Generals As Apple Flashes A Warning Last Seen In 2002",
-      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-shorting-market-generals-apple-warning-last-seen-in-2002/cNbx7IxR9Ze?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 03:44:40 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks  Ron Baron Says SpaceX Could Make $50B A Year From One Data Center",
-      "link": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-buys-spacex-tesla-merger-talks-ron-baron-spacex-50b-one-data-center/cNbxeDKR9Z4?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 03:32:35 +0000",
-      "sentiment": "bull",
-      "keyword_score": 1.0,
-      "related": [
-        "TSLA"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "TSLA",
-          "score": 1.0,
-          "direction": "bull",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Nvidias Market Cap Falls Below Microsofts: Analyst Flags Five Overhangs For NVDA Stock",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-market-cap-falls-below-microsoft-s-analyst-flags-five-overhangs-for-nvda-stock/cNbx4KZR9Z3?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 02:39:42 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "NVDA",
-        "MSFT"
-      ],
-      "impact": "low",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "MSFT",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "SpaceX gets approval for 1 million data center satellites",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-gets-approval-1-million-023847485.html?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 02:38:47 +0000",
-      "sentiment": "neutral",
-      "keyword_score": 0.0,
-      "related": [
-        "GOOGL"
-      ],
-      "impact": "high",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": 0.0,
-          "direction": "neutral",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-      "link": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 01:00:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "GOOGL",
-          "score": -1.0,
-          "direction": "bear",
-          "reason": "关键词规则"
-        }
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
-      "link": "https://beincrypto.com/apple-stock-ai-selloff-safe-haven/?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 01:00:00 +0000",
-      "sentiment": "bear",
-      "keyword_score": -1.0,
-      "related": [
-        "AAPL"
-      ],
-      "impact": "medium",
-      "ai": false,
-      "impacts": [
-        {
-          "ticker": "AAPL",
-          "score": -1.0,
-          "direction": "bear",
           "reason": "关键词规则"
         }
       ]
@@ -5772,10 +5541,242 @@
       ]
     },
     {
+      "ticker": "MSFT",
+      "title": "Miles Masterclass Launches the World's First AI Labs for Accountants at the World Congress of Accountants in Seoul",
+      "link": "https://finance.yahoo.com/technology/ai/articles/miles-masterclass-launches-worlds-first-063400104.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 06:34:00 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "MSFT"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "MSFT",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 05:14:09 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "ADI",
+      "title": "Analog Devices (ADI) Stock Fair Value Moves Lower After Mixed Analyst Target Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-stock-fair-042320733.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 04:23:20 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "ADI"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "ADI",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 04:23:01 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+      "link": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 04:14:19 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers",
+      "link": "https://finance.yahoo.com/technology/articles/neoclouds-told-choose-nvidia-chips-041120920.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 04:11:20 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "NVDA"
+      ],
+      "impact": "high",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "NVDA",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazons Problem. Is the Stock a Buy Near $130?",
+      "link": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:53:02 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AMZN",
+        "BA"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-turn-aws-growth-035240906.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:52:40 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "AMZN"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AMZN",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
       "ticker": "GOOGL",
-      "title": "5 Best Strong Buy Growth Stocks to Buy for 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-strong-buy-growth-004610627.html?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 00:46:10 +0000",
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "link": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:21:49 +0000",
+      "sentiment": "bull",
+      "keyword_score": 1.0,
+      "related": [
+        "GOOGL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "GOOGL",
+          "score": 1.0,
+          "direction": "bull",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:19:05 +0000",
+      "sentiment": "neutral",
+      "keyword_score": 0.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "medium",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": 0.0,
+          "direction": "neutral",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Target cut its Apple Black Friday discount in half",
+      "link": "https://www.thestreet.com/retail/target-cut-its-apple-black-friday-discount-in-half?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:17:00 +0000",
+      "sentiment": "bear",
+      "keyword_score": -1.0,
+      "related": [
+        "AAPL"
+      ],
+      "impact": "low",
+      "ai": false,
+      "impacts": [
+        {
+          "ticker": "AAPL",
+          "score": -1.0,
+          "direction": "bear",
+          "reason": "关键词规则"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 03:08:56 +0000",
       "sentiment": "bull",
       "keyword_score": 1.0,
       "related": [
@@ -5794,9 +5795,9 @@
     },
     {
       "ticker": "TSLA",
-      "title": "Elon Musk tells Tesla investors there is 'only one way' to eliminate poverty",
-      "link": "https://www.thestreet.com/investing/elon-musk-tells-tesla-investors-optimus-robots-will-eliminate-poverty?.tsrc=rss",
-      "date": "Thu, 26 Nov 2026 00:37:00 +0000",
+      "title": "How Can TSLA Compete With Waymo? Gary Black Questions Teslas Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "link": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 01:30:07 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
@@ -5814,20 +5815,20 @@
       ]
     },
     {
-      "ticker": "AXON",
-      "title": "Axon Enterprise Faces Rising Costs: Will Margins Remain Resilient?",
-      "link": "https://finance.yahoo.com/news/axon-enterprise-faces-rising-costs-141400083.html?.tsrc=rss",
-      "date": "Mon, 23 Nov 2026 14:14:00 +0000",
+      "ticker": "TSLA",
+      "title": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-merger-talks-013007632.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 01:30:07 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "AXON"
+        "TSLA"
       ],
-      "impact": "medium",
+      "impact": "high",
       "ai": false,
       "impacts": [
         {
-          "ticker": "AXON",
+          "ticker": "TSLA",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5835,20 +5836,20 @@
       ]
     },
     {
-      "ticker": "AXON",
-      "title": "Why Should Axon Stock Holders Watch This Shrinking Figure?",
-      "link": "https://www.trefis.com/stock/axon/articles/627635/why-should-axon-stock-holders-watch-this-shrinking-figure/2026-11-23?.tsrc=rss",
-      "date": "Mon, 23 Nov 2026 13:11:23 +0000",
+      "ticker": "GOOGL",
+      "title": "How Can TSLA Compete With Waymo? Gary Black Questions Teslas Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "link": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html?.tsrc=rss",
+      "date": "Fri, 27 Nov 2026 01:30:07 +0000",
       "sentiment": "neutral",
       "keyword_score": 0.0,
       "related": [
-        "AXON"
+        "TSLA"
       ],
       "impact": "low",
       "ai": false,
       "impacts": [
         {
-          "ticker": "AXON",
+          "ticker": "GOOGL",
           "score": 0.0,
           "direction": "neutral",
           "reason": "关键词规则"
@@ -5864,7 +5865,7 @@
       "period": "Q2 FY2027",
       "confidence": "confirmed",
       "note": "AI芯片霸主，财报对纳指影响最大",
-      "days_left": -92,
+      "days_left": -93,
       "soon": false
     },
     {
@@ -5874,7 +5875,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "云业务增速 + AI搜索竞争",
-      "days_left": -30,
+      "days_left": -31,
       "soon": false
     },
     {
@@ -5884,7 +5885,7 @@
       "period": "Q3 2026",
       "confidence": "confirmed",
       "note": "PE 300+，财报是生死局",
-      "days_left": -29,
+      "days_left": -30,
       "soon": false
     },
     {
@@ -5894,7 +5895,7 @@
       "period": "Q3 FY2027",
       "confidence": "estimated",
       "note": "云+AI收入是关键",
-      "days_left": -29,
+      "days_left": -30,
       "soon": false
     },
     {
@@ -5904,7 +5905,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "广告 + AI资本开支指引",
-      "days_left": -29,
+      "days_left": -30,
       "soon": false
     },
     {
@@ -5914,7 +5915,7 @@
       "period": "Q4 FY2026",
       "confidence": "estimated",
       "note": "iPhone销量 + 服务收入",
-      "days_left": -28,
+      "days_left": -29,
       "soon": false
     },
     {
@@ -5924,7 +5925,7 @@
       "period": "Q3 2026",
       "confidence": "estimated",
       "note": "AWS增速 + 零售利润率",
-      "days_left": -28,
+      "days_left": -29,
       "soon": false
     }
   ],
@@ -5935,7 +5936,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 8,
+      "days_left": 7,
       "soon": false
     },
     {
@@ -5944,7 +5945,7 @@
       "impact": "high",
       "beijing_time": "12-10 03:00",
       "note": "年末会议 + 点阵图",
-      "days_left": 12,
+      "days_left": 11,
       "soon": false
     },
     {
@@ -5953,7 +5954,7 @@
       "impact": "high",
       "beijing_time": "20:30",
       "note": "",
-      "days_left": 14,
+      "days_left": 13,
       "soon": false
     }
   ],
@@ -5967,8 +5968,8 @@
       "change_pct": -0.25
     },
     "vix": {
-      "close": 28.29,
-      "change_pct": 7.32
+      "close": 26.8,
+      "change_pct": -5.27
     },
     "irx": {
       "close": 4.16,
